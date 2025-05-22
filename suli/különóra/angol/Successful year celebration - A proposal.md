@@ -1,0 +1,1 @@
+The object of this proposal is the celebration of the previous successful year and helping the decision to be made between the two locations and events chosen for the workers of the company in order to help lighten the mood around the office and also create a better work enviroment for the future.
