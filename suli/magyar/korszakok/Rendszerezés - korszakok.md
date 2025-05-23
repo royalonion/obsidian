@@ -81,9 +81,17 @@
 - Batsányi János (út)
 - Bessenyei György
 - Berzsenyi Dániel
+	- Osztályrészem
 # Romantika
 ## Magyar
 - Kölcsey Ferenc
 	- Himnusz
 	- Huszt
 - Berzsenyi Dániel
+	- A magyarokhoz 1-2 (óda)
+- Vörösmarty Mihály
+	- Szózat
+	- Gondolatok a könyvtárban
+	- Előszó
+	- A vén cigány
+- 
