@@ -16,7 +16,16 @@
 	- elbeszélés
 	- karrierregény
 		- főhősök alulról érkeznek, felfelé haladnak a ranglétrán -> etikai problémák, kérdések - saját elveivel szemben kell haladnia
-- francia, orosz, angol szerzők - Stendhal, Dickens, Gogol, Balzac
+	- realista regény
+		- valós történelmi kor, hely
+		- lineáris időszámítás
+		- mindentudó elbeszélő
+		- tárgyilagos, pontos, részletező előadásmód
+		- szereplők - társadalmi rétegeket mutatnak be
+			- főhősök jellemzően alulról
+	- pl Stendhal: Vörös és fekete; Honoré de Balzac: Goriot apó
+	- orosz, angol szerzők is - Dickens, Gogol
+	- 
 ## naturalizmus
 ## szimbolizmus
 ## impresszionizmus
