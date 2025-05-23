@@ -15,7 +15,7 @@
 	- novella
 	- elbeszélés
 	- karrierregény
-		- főhősök alulról érkeznek, felfelé haladnak a ranglétrán -> etikai problémák, kérdések
+		- főhősök alulról érkeznek, felfelé haladnak a ranglétrán -> etikai problémák, kérdések - saját elveivel szemben kell haladnia
 - francia, orosz, angol szerzők - Stendhal, Dickens, Gogol, Balzac
 ## naturalizmus
 ## szimbolizmus
