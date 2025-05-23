@@ -94,4 +94,50 @@
 	- Gondolatok a könyvtárban
 	- Előszó
 	- A vén cigány
-- 
+- Petőfi Sándor
+	- Anyám tyúkja
+	- Nemzeti Dal
+	- Feltámadott a tenger
+	- Reszket a bokor, mert
+	- Itt van az ősz, itt van újra
+	- Füstbe ment terv
+	- János vitéz
+	- Arany Lacinak
+	- A XIX. század költői
+		- Ars poetica
+	- A helység kalapácsa
+		- vígeposz
+	- István öcsémhez
+	- Szeptember végén (mégnyíl naka völgyben akertivi rágok)
+	- A borozó
+	- Egy estém otthon
+	- A négyökrös szekér
+	- A tisza
+	- Az alföld
+- Arany János
+	- Ágnes asszony
+	- Vörös rébék
+	- Szondi két apródja
+	- Tetemre hívás
+	- Hídavatás
+	- Borvitéz
+	- A walesi bárdok
+	- Tengeri-hántás
+	- Toldi-trilógia
+	- Mátyás anyja
+	- Családi kör
+	- Őszikék versei (Kapcsos könyv)
+- Madách Imre
+	- Az ember tragédiája
+- Mixáth Kálmán
+	- A jó palócok (novelláskötet)
+		- Szegény Gélyi János lovai
+		- Tímár Zsófi özvegysége
+		- Bede Anna tartozása
+		- A bágyi csoda
+		- Péri lányok szép hajáról
+	- Tót atyafiak (novelláskötet)
+		- Az a fekete folt
+		- Lapaj, a híres dudás
+# A klasszikus modernség
+[[Klasszikus modernség - 19. század végétől a 20.  század elejéig]]
