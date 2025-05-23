@@ -25,7 +25,6 @@
 			- főhősök jellemzően alulról
 	- pl Stendhal: Vörös és fekete; Honoré de Balzac: Goriot apó
 	- orosz, angol szerzők is - Dickens, Gogol
-	- 
 ## naturalizmus
 ## szimbolizmus
 ## impresszionizmus
