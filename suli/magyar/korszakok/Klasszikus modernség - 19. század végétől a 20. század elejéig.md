@@ -46,6 +46,5 @@
 	- Ady Endre: A magyar Ugaron
 	- Arthur Rimbaud: A magánhangzók szonettje
 ## impresszionizmus
-raah
 ## szecesszió
 # Az avantgárd mozgalmai, alkotói
