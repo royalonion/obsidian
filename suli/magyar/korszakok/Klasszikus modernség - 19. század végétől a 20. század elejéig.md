@@ -48,4 +48,3 @@
 ## Impresszionizmus
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
-test
