@@ -25,7 +25,7 @@
 			- főhősök jellemzően alulról
 	- pl Stendhal: Vörös és fekete; Honoré de Balzac: Emberi színjáték - Goriot apó
 	- orosz, angol szerzők is - Dickens, Gogol
-## naturalizmus
+## Naturalizmus
 - későbbi, mint a realizmus, abból nő ki, ráerősít
 - dokumentumszerűségre törekszik
 	- a borzalmakat, visszatetsző dolgokat is megmutatja
@@ -34,7 +34,7 @@
 	- Párizs gyomra
 		- párizsi piactér - rohadó dolgok
 	- Germinal
-## szimbolizmus
+## Szimbolizmus
 - lírában vizsgáljuk
 	- az allegorikus szerkesztésmódot váltja fel
 		- az allegorikus pontról pontra megfeleltet, a jelentés egyértelműbb, könnyebben befogadható
@@ -45,6 +45,6 @@
 - példavers
 	- Ady Endre: A magyar Ugaron
 	- Arthur Rimbaud: A magánhangzók szonettje
-## impresszionizmus
-## szecesszió
+## Impresszionizmus
+## Szecesszió
 # Az avantgárd mozgalmai, alkotói
