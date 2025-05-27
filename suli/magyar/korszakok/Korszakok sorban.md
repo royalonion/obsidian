@@ -139,5 +139,4 @@
 	- Tót atyafiak (novelláskötet)
 		- Az a fekete folt
 		- Lapaj, a híres dudás
-# A klasszikus modernség
-[[Klasszikus modernség - 19. század végétől a 20. század elejéig]]
+# [[Klasszikus modernség - 19. század végétől a 20. század elejéig]]
