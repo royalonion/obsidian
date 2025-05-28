@@ -9,4 +9,4 @@ In my opinion, there can be two successful ways to end the depreciation of these
 The first and most obvious option would be to allow these artists to freely express themselves in some abandoned places or on walls that are close to demolition. Also, the use of some plastic layering on ongoing construction sites would help both sides.
 The other option links to this - the creation of free graffiti spaces, in for example parks or at highly visited public spaces. This would also let people see their masterpieces and bring more attention to communities.
 
-I know that these ideas would still not eliminate the misdemeanors completely but would reduce the amount of charges against individuals with creative minds massively. 
+I know that these ideas would still not eliminate the misdemeanors completely but would reduce the amount of charges against individuals with creative minds massively.
