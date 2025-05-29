@@ -39,12 +39,21 @@
 	- az allegorikus szerkesztésmódot váltja fel
 		- az allegorikus pontról pontra megfeleltet, a jelentés egyértelműbb, könnyebben befogadható
 		- a szimbolikus szerkesztésmód rétegzettebb, bonyolultabb, szélesebb a többletjelentés; érzékeltet, sejtet, sugall
-	- új művészetfelfogás - l'art pour l'art
+	- új művészetfelfogás - l'art pour l'art - művészet a művészetért
 		- dekadencia - szembemegy a művészeti konvenciókkal
 - stilisztikai fogalom, szókép
 - példavers
 	- Ady Endre: A magyar Ugaron
 	- Arthur Rimbaud: A magánhangzók szonettje
+### A nagy francia hármas
+- Charles Baudelaire *(Sárl Bodler)*
+	- A romlás virágai // Les Fleurs du Mal *(Lö Flör dö Mál)*
+		- verseskötet, cirka 150 vers
+		- halála után is adtak hozzá
+		- ciklusos elrendezés - téma szerint
+			- Ady átveszi
+		- megváltozott szépségeszmény
+			- forma és tartalom ellentétben, egymással szemben (pl szép fogalmazással gusztustalan tartalom)
 ## Impresszionizmus
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
