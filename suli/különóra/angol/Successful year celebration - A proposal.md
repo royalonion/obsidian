@@ -1,1 +1,4 @@
-The object of this proposal is the celebration of the previous successful year and helping the decision to be made between the two locations and events chosen for the workers of the company in order to help lighten the mood around the office and also create a better work enviroment for the future.
+The object of this proposal is the celebration of the previous successful year and helping the decision to be made between the two locations and events chosen for the workers of the company in order to help lighten the mood around the office and also create a better work environment for the future.
+
+# Taking the team for bowling
+The first idea that would also be the most beneficial is a simple sport that can also qualify as a hobby - bowling. In the past, our team held several celebrations at facilities equipped with bowling lanes, and most of the workers seemed to like it. This would also help in creating a stronger bond between the coworkers who rarely meet up outside of the company walls.
