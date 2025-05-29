@@ -44,16 +44,46 @@
 - stilisztikai fogalom, szókép
 - példavers
 	- Ady Endre: A magyar Ugaron
-	- Arthur Rimbaud: A magánhangzók szonettje
 ### A nagy francia hármas
-- Charles Baudelaire *(Sárl Bodler)*
-	- A romlás virágai // Les Fleurs du Mal *(Lö Flör dö Mál)*
-		- verseskötet, cirka 150 vers
-		- halála után is adtak hozzá
-		- ciklusos elrendezés - téma szerint
-			- Ady átveszi
-		- megváltozott szépségeszmény
-			- forma és tartalom ellentétben, egymással szemben (pl szép fogalmazással gusztustalan tartalom)
+#### Charles Baudelaire *(Sárl Bodler)*
+- [A romlás virágai // Les Fleurs du Mal *(Lö Flör dö Mál)*](https://mek.oszk.hu/00400/00477/00477.htm)
+	- verseskötet, cirka 150 vers
+	- halála után is adtak hozzá
+	- ciklusos elrendezés - téma szerint
+		- Ady átveszi
+	- megváltozott szépségeszmény
+		- forma és tartalom ellentétben, egymással szemben (pl szép fogalmazással gusztustalan tartalom)
+		- dekadens hozzáállás
+		- polgárpukkasztó szándék (pukk!)
+- Mesterséges paradicsomok - az ópium és a hasis esszéje
+	- bódult állapotban írta
+- versei
+	- [Kapcsolatok](https://mek.oszk.hu/00400/00477/00477.htm#d5696)
+		- programvers
+		- az új költői, alkótói szerepet mutatja be - szimbolista alapmű
+	- [Egy dög](https://mek.oszk.hu/00400/00477/00477.htm#d5701)
+#### Paul Verlaine *(Pól Verlen)*
+- 1871-ben megismerkedik Arthur Rimbaud-val - kapcsolat (hmmmm)
+	- két évvel rá párbaj -> meglövi -> börtön
+- Szaturnuszi költemények
+	- [Őszi chanson *(sanzon)*](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/toth-arpad-1CABE/versforditasok-1D717/oszi-chanson-1DA47/)
+		- sok fordítás, de inkább átköltés létezik
+		- hangulat, hangszimbolika > tartalom
+		- impresszionista hangulatlíra
+#### Arthur Rimbaud *(Artúr Rembó)*
+- 19 éves kora után nem ír többet
+	- afrikában *kalandozik*
+- Egy évad a pokolban
+- Villanások
+- Kóborlásaim
+	- Villon - csavargó toposz
+		- hasonlat, kép, közismert forma - pl hülye franciák, francia hülyék
+- Venus Anadüomené
+	- prostituált Vénusz
+		- hátán ribancrendszám (ezt le szabad írni?)
+- Magánhangzók szonettje
+	- szinesztézia
+	- sok alakzatként érzett soráthajlás // enjambement *(anzsamban)*
 ## Impresszionizmus
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói

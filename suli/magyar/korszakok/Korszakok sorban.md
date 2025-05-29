@@ -46,9 +46,9 @@
 		- szerelmi
 		- "Istenes"
 ## Európai
-- Bocaccio
+- Giovanni Bocaccio
 	- Dekameron
-- Petrarca
+- Francesco Petrarca
 	- Daloskönyv
 - Shakespeare drámái
 # Barokk
