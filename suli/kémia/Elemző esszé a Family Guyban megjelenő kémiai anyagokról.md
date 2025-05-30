@@ -3,4 +3,4 @@ Ezen esszémben a Family Guy című sorozatban megjelenő kémiai anyagokat és 
 # Gyógyszerek
 # Ennivalók
 # Innivalók
-# 
+# Tudatmódosító szerek
