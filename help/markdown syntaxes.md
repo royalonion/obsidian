@@ -10,4 +10,6 @@
 - ** **makes text bold
 - ~~ ~~makes text strikethrough
 - *** ***makes text italics and bold
-- 
+- < sub > < /sub > <sub> creates subscript text </sub>
+- < sup > < /sup > <sup> creates superscript text </sup>
+- < ins > < /ins> underlines text
