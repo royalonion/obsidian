@@ -32,4 +32,4 @@ vérünkből szív erőt, élni és nagyranőni.
 	3. Az új virág lehet valami boldogság, annak a kezdete (akár az elmúlás által okozott megnyugvás is)
 5. 
 	1. Szonett (4-4-3-3; 14 szum)
-	2. 
+	2. ABAB // ABA a rímképlet
