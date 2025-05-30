@@ -68,6 +68,7 @@
 - Szaturnuszi költemények
 	- [Őszi chanson *(sanzon)*](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/toth-arpad-1CABE/versforditasok-1D717/oszi-chanson-1DA47/)
 		- sok fordítás, de inkább átköltés létezik
+			- Tóth Árpád egyik változata a legismertebb
 		- hangulat, hangszimbolika > tartalom
 		- impresszionista hangulatlíra
 #### Arthur Rimbaud *(Artúr Rembó)*
@@ -80,7 +81,7 @@
 		- hasonlat, kép, közismert forma - pl hülye franciák, francia hülyék
 - Venus Anadüomené
 	- prostituált Vénusz
-		- hátán ribancrendszám (ezt le szabad írni?)
+		- csípején ribancrendszám (ezt le szabad írni?)
 - Magánhangzók szonettje
 	- szinesztézia
 	- sok alakzatként érzett soráthajlás // enjambement *(anzsamban)*
