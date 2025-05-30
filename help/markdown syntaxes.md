@@ -6,5 +6,8 @@
 ###### '######' marks a subheading (H6)
 - '-' makes a bullet list
 1. 'number.' marks a numerated list
-"* makes text italics
-"** makes text bo
+- * *makes text italics
+- ** **makes text bold
+- ~~ ~~makes text strikethrough
+- *** ***makes text italics and bold
+- 
