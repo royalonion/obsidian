@@ -46,7 +46,7 @@
 	- Ady Endre: A magyar Ugaron
 ### A nagy francia hármas
 #### Charles Baudelaire *(Sárl Bodler)*
-- [A romlás virágai // Les Fleurs du Mal *(Lö Flör dö Mál)*](https://mek.oszk.hu/00400/00477/00477.htm)
+- A romlás virágai // Les Fleurs du Mal *(Lö Flör dö Mál)*
 	- verseskötet, cirka 150 vers
 	- halála után is adtak hozzá
 	- ciklusos elrendezés - téma szerint
