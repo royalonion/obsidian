@@ -9,7 +9,7 @@ F - urcsa őket osztályozni
 R - ánk ruházott, új ítélkező erőből.
 
 A - lattomos mássalhangzók
-N - yelvünk csúfságiként fröcsögnek, zörögnek,
+N - yelvük csúfságiként fröcsögnek, zörögnek,
 C - senevész tudósok utcákon köpködnek.
 
 I - rgalmatlan koszos betűk
