@@ -85,6 +85,9 @@
 - Magánhangzók szonettje
 	- szinesztézia
 	- sok alakzatként érzett soráthajlás // enjambement *(anzsamban)*
+#### A romlás virágai (antológia)
+- a nagy hármas költeményei összefoglalva
+- [[A romlás virágai (antológia) - versválasztás]]
 ## Impresszionizmus
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
