@@ -16,3 +16,6 @@
 > '>' quotes text
 - ' [ ] ( ) ' makes an external link
 - ' [ [ ] ] ' makes an internal link
+--- makes a divider
+---
+[more here](https://www.markdownguide.org/cheat-sheet/)
