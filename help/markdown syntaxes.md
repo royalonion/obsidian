@@ -2,3 +2,5 @@
 ## '##' marks a subheading (H2)
 ### '###' marks a subheading (H3)
 #### '####' marks a subheading (H4)
+##### '#####' marks a subheading (H5)
+###### '######' marks a subheading (H6)
