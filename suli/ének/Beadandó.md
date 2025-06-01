@@ -2,3 +2,4 @@
 ## Filmzene: John Williams - Duel of the Fates
 A Star Wars univerzum kedvelőjeként nagyon megtetszett ez a feladat, ugyanis rögtön az egyik legmeghatározóbb cselekmény jelent meg lelki szemeim előtt - mivel ez a darab szólalt meg, amikor Qui-Gon Jinn, és Obi-Wan Kenobi együttesen vette fel a harcot Darth Maul ellen. A zene során érezhetően feszül a levegő, a hangulat fokozódik, és az események tetőpontján, amikor a plazma-pajzsok elválasztják a mestert és a padawanját egymástól, és Obi-Wan kénytelen végignézni tanítója halálát. A zene egy barokk-skálán szerintem 8/10-es értéket ér el, hiszen megvan benne mind a változékony tempó, mind a zene dramatikus változása, a hangerő ingadozása a feszültséghez igazítva.
 ## Jazz: Stan Getz // João Gilberto - The Girl from Ipanema
+Ha kikapcsolódásra vágyom, sokszor fordulok a
