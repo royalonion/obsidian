@@ -1,3 +1,3 @@
 # 13. feladat
 ## John Williams - Duel of the Fates
-A Star Wars univerzum kedvelőjeként nagyon megtetszett ez a feladat, ugyanis rögtön az egyik legmeghatározóbb cselekmény jelent meg lelki szemeim előtt - mivel ez a darab szólalt meg, amikor Qui-Gon Jinn, és Obi-Wan Kenobi együttesen vette fel a harcot Darth Maul ellen. A zene során érezhetően feszül a levegő, a hangulat
+A Star Wars univerzum kedvelőjeként nagyon megtetszett ez a feladat, ugyanis rögtön az egyik legmeghatározóbb cselekmény jelent meg lelki szemeim előtt - mivel ez a darab szólalt meg, amikor Qui-Gon Jinn, és Obi-Wan Kenobi együttesen vette fel a harcot Darth Maul ellen. A zene során érezhetően feszül a levegő, a hangulat fokozódik, és az események tetőpontján, amikor a plazma-pajzsok elválasztják a mestert és a tanítványát egymástól, és Obi-Wan kénytelen végignézni tanítója halálát.
