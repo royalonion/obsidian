@@ -9,4 +9,11 @@ Nekem egy nagy kedvencem Hozier Too Sweet című dala, aminek a dobszólója nag
 # 19. feladat
 A zenei túlélőcsomagom
 - Miles Davis - So what
-- 
+	- Nekem nagyon fontos a jazz, hiszen segít megnyugodni, kikapcsol, pihentet, erre ez a szám tökéletes.
+- Bastille - Pompeii
+	- Ha nagyon jól érzem magam, akkor ennek lehet a szövegét énekelni például.
+- Gloryhammer - Universe on fire
+	- A heavy metal nem túl heavy feléről egy zseniális szövegű és dallamú remekmű.
+- Greenday - Boulevard of broken dreams
+	- A Greenday a legjobb lelkitámasz, ami segíthet sok szituáción átlépni, ezért fontos nekem nagyon
+- Kanye West - POWER
