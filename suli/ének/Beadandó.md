@@ -1,4 +1,6 @@
-# 13. feladat
+# 6. feladat: Strauss - Zarahurstra kontra John Williams - Imperial March
+Az Imperial March, vagyis Darth Vader indulója egy nagyon ikonikus és emlékezetes zenei mű a Star Wars részeiből. Legelőször A birodalom visszavág című részben csendül fel teljes formájában, de előtte is megszólalt pár másik jelenetben. Ennek a jelentősége csak annyi, hogy a szemfüles megfigyelő ráérezzen, hogy a kisgyerek Anakin 
+# 13. feladat: 3 mai zene barokk vonatkozásai
 ## Filmzene: John Williams - Duel of the Fates
 A Star Wars univerzum kedvelőjeként nagyon megtetszett ez a feladat, ugyanis rögtön az egyik legmeghatározóbb cselekmény jelent meg lelki szemeim előtt - mivel ez a darab szólalt meg, amikor Qui-Gon Jinn, és Obi-Wan Kenobi együttesen vette fel a harcot Darth Maul ellen. A zene során érezhetően feszül a levegő, a hangulat fokozódik, és az események tetőpontján, amikor a plazma-pajzsok elválasztják a mestert és a padawanját egymástól, és Obi-Wan kénytelen végignézni tanítója halálát. A zene egy barokk-skálán szerintem 8/10-es értéket ér el, hiszen megvan benne mind a változékony tempó, mind a zene dramatikus változása, a hangerő ingadozása a feszültséghez igazítva.
 ## Jazz: Stan Getz // João Gilberto - The Girl from Ipanema
@@ -6,8 +8,7 @@ Ha kikapcsolódásra vágyom, sokszor fordulok a jazz műfajához. Pedig az ált
 ## Pop: Hozier - Too Sweet
 Ha a pop műfajára gondolok, először nem az 1600-1700-as évek zenéi jutnak eszembe, de ezzel szerintem a legtöbb ember egyetért. Annál is inkább furcsa belegondolni, hogy egy Adele-számban megjelennek olyan motívumok, mint amiket Bach írt a darabjaiba. De minek is kerülgetjük a forró kását: a basso continuo-ra gondolok. A modern zenében népszerűnek mondható a fix, loopolt dob- és basszussáv, és ez régen sem volt másképp: kifejezetten népszerűnek tekinthető a folyamatos zenei aláfestés, pl az orgona formájában.
 Nekem egy nagy kedvencem Hozier Too Sweet című dala, aminek a dobszólója nagyon egyszerű, de mégis sokat hozzáad. Én ezt 6/10-re értékelném a rejtett erényekből kifolyólag.
-# 19. feladat
-A zenei túlélőcsomagom
+# 19. feladat: A zenei túlélőcsomagom
 - Miles Davis - So what
 	- Nekem nagyon fontos a jazz, hiszen segít megnyugodni, kikapcsol, pihentet, erre ez a szám tökéletes.
 - Bastille - Pompeii
@@ -17,3 +18,6 @@ A zenei túlélőcsomagom
 - Greenday - Boulevard of broken dreams
 	- A Greenday a legjobb lelkitámasz, ami segíthet sok szituáción átlépni, ezért fontos nekem nagyon
 - Kanye West - POWER
+	- Kanye, mint a hip-hop egyik legnagyobb arca elég jó szövegeket ír, amikhez könnyű kapcsolódni, ezért is fontos nekem.
+# 22. feladat: Egy műfaj marad csak meg
+Mint azt mutatja a többi válaszom is, én a jazz mellé állnék, hiszen nagyon sokszínű, és könnyű rá építkezni. Ezen kívül a jazz nem csak vánszorgós lehet, hanem teljesen nyugodtan felpöröghet úgy, mint például egy Travis Scott szám.
