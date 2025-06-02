@@ -1,5 +1,6 @@
 Ezen esszémben a Family Guy című sorozatban megjelenő kémiai anyagokat és reakciókat fogom ismertetni, és elemezni. A témakört 4 kategóriára bontva vizsgálom azok megjelenését, és működési elvét, hétköznapi használatát.
 # Gyógyszerek
+
 # Ennivalók
 # Innivalók
 A sorozat érdekes mellékszála, hogy Peter a Pawtucket sörgyár alkalmazottja, de ez nagyban nem befolyásolja a cselekményszálat. Annyi összefüggés viszont talán mégis megfigyelhető, hogy a szabadidejében a baráti társaságával legtöbbször egy kocsmában múlatják az időt, sörözve.
