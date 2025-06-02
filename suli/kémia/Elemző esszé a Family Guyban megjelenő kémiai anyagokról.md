@@ -8,6 +8,7 @@ A Botox, mint szer sok esetben kerül elő a celebek körében, ugyanis a nagyob
 
 A szert a kozmetika iparágán kívül az orvostudomány is használja a migrének, a TMJ (temporomandibular joint) problémák és a tikkek kezelésére is, a beavatkozások szinte mindig segítenek kezelni a problémát.
 # Ennivalók
+
 # Innivalók
 A sorozat érdekes mellékszála, hogy Peter a Pawtucket sörgyár alkalmazottja, de ez nagyban nem befolyásolja a cselekményszálat. Annyi összefüggés viszont talán mégis megfigyelhető, hogy a szabadidejében a baráti társaságával legtöbbször egy kocsmában múlatják az időt, sörözve.
 
