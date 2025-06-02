@@ -1,6 +1,6 @@
 Ezen esszémben a Family Guy című sorozatban megjelenő kémiai anyagokat és reakciókat fogom ismertetni, és elemezni. A témakört 4 kategóriára bontva vizsgálom azok megjelenését, és működési elvét, hétköznapi használatát.
 # Gyógyszerek
-
+Az egyik, a szépségiparban legismertebb gyógyszer, a botulinumtoxin, azaz a Botox a kései epizódok egyikében tűnik fel. Stewie egy múzeumi látogatás során nem kapja meg az ingyenes belépőt, mivel a jegyárus 3 évnél idősebbnek gondolja. Ennek hallatán Stewie teljesen ledöbben, és a jelenetváltás után már a napp
 # Ennivalók
 # Innivalók
 A sorozat érdekes mellékszála, hogy Peter a Pawtucket sörgyár alkalmazottja, de ez nagyban nem befolyásolja a cselekményszálat. Annyi összefüggés viszont talán mégis megfigyelhető, hogy a szabadidejében a baráti társaságával legtöbbször egy kocsmában múlatják az időt, sörözve.
