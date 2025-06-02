@@ -8,7 +8,9 @@ A Botox, mint szer sok esetben kerül elő a celebek körében, ugyanis a nagyob
 
 A szert a kozmetika iparágán kívül az orvostudomány is használja a migrének, a TMJ (temporomandibular joint) problémák és a tikkek kezelésére is, a beavatkozások szinte mindig segítenek kezelni a problémát.
 # Ennivalók
+A sorozatban az étkezés sokféleképpen megjelenik, erre egy példa az "McStroke" című epizód. A film elején Peter megmenti egy gyorsétterem tulajdonosának, aki egy életreszóló hamburger-kupont ad neki cserébe. De miután 30 hamburgert megeszik sorban, egy sztrókot kap, amitől lebénul a bal oldala teljesen. Ezen felháborodva megpróbálja beperelni a McBurgertown-t, de mivel egy nagy céggel áll szemben, feladja a csatát. Ám egy új ötlettől vezérelve ellátogatnak a cég székhelyére, ahol ázsiai buisnessmaneknek kiadva magukat felfedeznek egy vágóhidat egy génmódosított tehénnel, aki tud beszélni az emberek nyelvén, ő Mr. Cow. Megegyeznek vele, hogy kiszabadítják, ha elárul pár belsős információt a cégről, és tartják is magukat ehhez.
 
+A kémiai része ennek talán a túlzott koleszterolbevitel lehetne, de őszintén erről túl sokat nem tudok, hiszen a sztrók kiváltó oka lehet akár agyvérzés is.
 # Innivalók
 A sorozat érdekes mellékszála, hogy Peter a Pawtucket sörgyár alkalmazottja, de ez nagyban nem befolyásolja a cselekményszálat. Annyi összefüggés viszont talán mégis megfigyelhető, hogy a szabadidejében a baráti társaságával legtöbbször egy kocsmában múlatják az időt, sörözve.
 
@@ -19,3 +21,10 @@ A sör, mint ital egy hosszú, de nem túl bonyolult folyamat során - a sörfő
 
 Máskor is megjelennek a szereplők ittas állapotban, de nagyrészt sört fogyasztanak, ritkán erősebb italokat. Kiemelném még azt a részt, amikor a tengeren hánykolódnak a hajójukon, és egy ivós játék keretében Quagmire megiszik több rekesz sört, mivel minden feltett kérdésre igennel válaszolt ('Igyál, ha...').
 # Tudatmódosító szerek
+A sorozat folyamán sokszor megjelennek a tudatmódosító szerek, például amikor Brian leesik a lépcsőn, és a neki felírt gyógyszerekből egy felet Lois bevesz, és ráfügg arra.
+Vagy, amikor Peter a kanapén ülve crack kokaint szív, és Brian épp arra jár, aki megkérdezi, hogy mit csinál. Erre Peter azt válaszolja, hogy szív.
+De az is egy jó példa lehet, amikor Brian beáll a rendőrök közé, és a nyomozások közben véletlenül rászokik a kokainra.
+Azt se felejtsük el, amikor Stewie-ről kiderül, hogy ADHD-s, és Aderallt kezd szedni, amire Brian is rászokik, és ez segíti a könyvírásban.
+És végül, de nem utolsósorban megemlíteném a 420 című részt, amikor Brian és Stewie kampányának hatására legalizálják a marihuánát Quahogban.
+
+Ezek során különböző fajta és hatású szereket használnak, és biztosan kihagytam egy párat közülük, de remélem, hogy sikerült összefoglalnom őket. A működésükről és a felépítésükről Andorral beszéltünk az előadásunk részeként, így azt mélyebben nem részletezném.
