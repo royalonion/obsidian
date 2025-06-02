@@ -4,7 +4,7 @@ Az egyik, a szépségiparban legismertebb gyógyszer, a botulinumtoxin, azaz a B
 
 A történet csúcspontján Brian szinte rá sem ismer barátjára, és elviszi Dr. Hartmanhez, aki egy "szimpla" beavatkozással visszavonja az összes változtatást, amit Stewie-n végeztek. A plasztika eltüntetéséhez az orvos összetöri a csontokat, és visszaformázza az eredeti állapotra őket. Persze, a valóságban egy antianyag használatával vonják vissza az arcformázást, ami lebontja a mérget, és lassan visszaadja a bőr és az izom eredeti struktúráját.
 
-A Botox, mint szer sok esetben kerül elő a celebek körében, ugyanis a nagyobb filmsztárok szeretnének hosszú karriert építeni maguknak, és ennek hajlandóak megfizetni az árát, legyen
+A Botox, mint szer sok esetben kerül elő a celebek körében, ugyanis a nagyobb filmsztárok szeretnének hosszú karriert építeni maguknak, és ennek hajlandóak megfizetni az árát, legyen az akár egy idegméreg is. A szer kis dózisban nem túl káros, de a mennyiségét növelve folyamatosan csökkenti az arc karakterisztikáját, az izmok működését, és annak a rugalmasságát. Ha az ember kis adagban
 # Ennivalók
 # Innivalók
 A sorozat érdekes mellékszála, hogy Peter a Pawtucket sörgyár alkalmazottja, de ez nagyban nem befolyásolja a cselekményszálat. Annyi összefüggés viszont talán mégis megfigyelhető, hogy a szabadidejében a baráti társaságával legtöbbször egy kocsmában múlatják az időt, sörözve.
