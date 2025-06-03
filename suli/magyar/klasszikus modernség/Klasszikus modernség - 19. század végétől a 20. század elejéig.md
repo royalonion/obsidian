@@ -89,5 +89,16 @@
 - a nagy hármas költeményei összefoglalva
 - [[A romlás virágai (antológia) - versválasztás]]
 ## Impresszionizmus
+- Verlaine - Őszi Chanson
+- 19. sz. utolsó harmada
+- a festőművészetből indul, ott teljesedik ki
+	- Claude Monet *(Klód Moné)*
+- karakterisztika
+	- gyakori témája a táj
+	- színek fontossága
+	- nincs kontraszt
+	- könnyű belelátni valamit
+- Impresszionista hangulatlíra
+	- a benyomások érzékeltetése
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
