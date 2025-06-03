@@ -100,5 +100,10 @@
 	- könnyű belelátni valamit
 - Impresszionista hangulatlíra
 	- a benyomások érzékeltetése
+		- melléknevek +
+		- igék -
+		- nominális stílus, a verset statikussá, képszerűvé teszi
+- Babits Mihály - Messze... Messze...
+- 
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
