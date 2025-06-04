@@ -8,4 +8,3 @@
 	- horgasfejű galandféreg
 	- simafejű galandféreg
 	- uborkamagképű galandféreg
-- 
