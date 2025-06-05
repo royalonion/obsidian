@@ -107,15 +107,15 @@
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
 # Magyarországon - 1908.
-- a Nyugatosok első nemzedéke
+- a Nyugat első nemzedéke
 - Kitérő, de mégis betérő: irodalmi karikatúrák
 	- Kifiguráz, felnagyít
 	- Karinthy Frigyes - Így írtok ti
+		- 1912-ben jelenik meg, népszerűsíti az eredeti műveket is
 		- Ady Endre
 			- Moslék-ország
 			- Leköpöm a múltat
 			- Törpe-fejűek
 			- Zápolya úr vallatása
 		- Babits Mihály, *a klasszikus*
-			- 
 - A Századvég nemzedéke
