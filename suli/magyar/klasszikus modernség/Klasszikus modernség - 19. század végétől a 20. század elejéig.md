@@ -104,6 +104,10 @@
 		- igék -
 		- nominális stílus, a verset statikussá, képszerűvé teszi
 - Babits Mihály - Messze... Messze...
-
 ## Szecesszió
 # Az avantgárd mozgalmai, alkotói
+# Magyarországon - 1908.
+- a Nyugat első nemzedéke
+- Kitérő, de mégis betérő: irodalmi karikatúrák
+	- Karinthy Frigyes - Így írtok ti
+- A Századvég nemzedéke
