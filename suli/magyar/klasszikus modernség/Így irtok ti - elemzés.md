@@ -23,3 +23,6 @@
 		- A daloló Páris -> nyugatos Párizs-versek
 		- Szűz ormok vándora -> összegző, vegyes
 	- Góg és Magóg fia vagyok én... - kilóg egy vers, cikluson kívüli - a kötet vezérverse
+	- mottó, előszó, invokáció, ajánlás
+		- Léda asszony
+		- magasabb pozíció, élet&halál ura
