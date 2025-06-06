@@ -118,4 +118,5 @@
 			- Törpe-fejűek
 			- Zápolya úr vallatása
 		- Babits Mihály, *a klasszikus*
+		- Az emberke tragédiája
 - A Századvég nemzedéke
