@@ -62,6 +62,7 @@
 		- programvers
 		- az új költői, alkótói szerepet mutatja be - szimbolista alapmű
 	- [Egy dög](https://mek.oszk.hu/00400/00477/00477.htm#d5701)
+	- Az ellenség
 #### Paul Verlaine *(Pól Verlen)*
 - 1871-ben megismerkedik Arthur Rimbaud-val - kapcsolat (hmmmm)
 	- két évvel rá párbaj -> meglövi -> börtön
@@ -139,9 +140,6 @@
 		- magasabb pozíció, élet&halál ura
 	- Góg és Magóg fia vagyok én... - kilóg egy vers, cikluson kívüli - a kötet vezérverse
 		- MEMORITER
-			- Moslék-ország
-			- Leköpöm a múltat
-			- Törpe-fejűek
-			- Zápolya úr vallatása
-		- Babits Mihály, *a klasszikus*
-		- Az emberke tragédiája
+	- [[Héja-nász az avaron - elemzés]]
+	- [[Lédával a bálban]]
+	- [[Az én menyasszonyom]]
