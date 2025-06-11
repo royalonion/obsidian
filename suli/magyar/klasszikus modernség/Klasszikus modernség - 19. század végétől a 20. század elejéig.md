@@ -89,6 +89,7 @@
 #### A romlás virágai (antológia)
 - a nagy hármas költeményei összefoglalva
 - [[Az ellenség - elemzés]]
+- [[Szonett - Párizs francia]]
 ## Impresszionizmus
 - Verlaine - Őszi Chanson
 - 19. sz. utolsó harmada
