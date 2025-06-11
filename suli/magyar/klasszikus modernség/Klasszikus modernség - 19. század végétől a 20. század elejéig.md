@@ -87,7 +87,7 @@
 	- sok alakzatként érzett soráthajlás // enjambement *(anzsamban)*
 #### A romlás virágai (antológia)
 - a nagy hármas költeményei összefoglalva
-- [[A romlás virágai (antológia) - versválasztás]]
+- [[A romlás virágai (antológia) - elemzés]]
 ## Impresszionizmus
 - Verlaine - Őszi Chanson
 - 19. sz. utolsó harmada
@@ -108,15 +108,40 @@
 # Az avantgárd mozgalmai, alkotói
 # Magyarországon - 1908.
 - a Nyugat első nemzedéke
-- Kitérő, de mégis betérő: irodalmi karikatúrák
-	- Kifiguráz, felnagyít
-	- Karinthy Frigyes - Így írtok ti
-		- 1912-ben jelenik meg, népszerűsíti az eredeti műveket is
-		- Ady Endre
+- A Századvég nemzedéke
+## Karinthy Frigyes - Így írtok ti
+- 1912-ben jelenik meg, népszerűsíti az eredeti műveket is
+### Ady Endre Karinthy szerint
+- Moslék-ország - Magyarország <-> Álom-királyfi (lírai én)
+	- az ország leértékelése
+	- Új Undokak -> új eszmék, karikatúrák
+	- nyugati sirály
+		- a Nyugat szerkesztője
+		- nyugati eszmék hírnöke - német és francia fordítás
+	- kötőjeles alakok, nagybetűs kiemelés
+	- szimbólumok jelölése
+- ismétlések
+	- pl sor, pl részlet
+- "Felgerjedt szittya vérem"
+	- ősmagyar-kultúra
+- komp-ország
+	- szittya **vs** nyugat
+	- keletről jövünk, nyugathoz tartozunk
+### Ady Endre valójában
+- 1906 - Új versek c. kötet -> berobban
+	- ciklusok
+		- Léda asszony zsoltárai -> szerelmes versek
+		- A magyar Ugaron -> magyarság- és hazaversek
+		- A daloló Páris -> nyugatos Párizs-versek
+		- Szűz ormok vándora -> összegző, vegyes
+	- mottó, előszó, invokáció, ajánlás
+		- Léda asszony
+		- magasabb pozíció, élet&halál ura
+	- Góg és Magóg fia vagyok én... - kilóg egy vers, cikluson kívüli - a kötet vezérverse
+		- MEMORITER
 			- Moslék-ország
 			- Leköpöm a múltat
 			- Törpe-fejűek
 			- Zápolya úr vallatása
 		- Babits Mihály, *a klasszikus*
 		- Az emberke tragédiája
-- A Századvég nemzedéke
