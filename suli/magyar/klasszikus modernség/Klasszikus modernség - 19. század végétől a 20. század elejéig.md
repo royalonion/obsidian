@@ -87,7 +87,7 @@
 	- sok alakzatként érzett soráthajlás // enjambement *(anzsamban)*
 #### A romlás virágai (antológia)
 - a nagy hármas költeményei összefoglalva
-- [[A romlás virágai (antológia) - elemzés]]
+- [[Az ellenség - elemzés]]
 ## Impresszionizmus
 - Verlaine - Őszi Chanson
 - 19. sz. utolsó harmada

@@ -4,7 +4,7 @@
 3. Érzékterületekre gyakorolt hatás
 4. Motívumok értelmezése
 5. Formai jellegzetességek
-# Vers - Az Ellenség
+# Vers
 Ifjuságom sötét, fekete zivatar volt;  
 csak néha láttam egy kivillant sugarat.  
 A villám és a szél ellene tépve harcolt,  
