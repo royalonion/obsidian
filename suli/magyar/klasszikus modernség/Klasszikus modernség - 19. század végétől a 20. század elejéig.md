@@ -144,3 +144,11 @@
 	- [[Héja-nász az avaron - elemzés]]
 	- [[Lédával a bálban]]
 	- [[Az én menyasszonyom]]
+### Disztópia // karikatúra - a nők által uralt világ
+#### Módosított történelem
+- a sportokban a nők dominálnak
+- más okokból kezdődnek a háborúk
+- jobb kapcsolatok a középkori államok között
+- kevesebb 
+#### Önkényuralmi rendszer
+- a politikai helyzetekben csak nők lehetnek
