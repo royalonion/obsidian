@@ -149,6 +149,5 @@
 - a sportokban a nők dominálnak
 - más okokból kezdődnek a háborúk
 - jobb kapcsolatok a középkori államok között
-- kevesebb 
 #### Önkényuralmi rendszer
 - a politikai helyzetekben csak nők lehetnek
