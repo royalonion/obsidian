@@ -1,4 +1,4 @@
-# A modernség - bevezető
+	# A modernség - bevezető
 - fogalma: korszerű, divatos <- modo (most)
 - nem egységes korstílus, sok egymástól eltérő irányzat összefoglaló neve
 - az 'izmusok' kora
@@ -156,4 +156,17 @@
 09:50 - holtai politikai rant kezdődik
 09:54 - holtai politikai rant végződik
 - Népiesch
+	- testi vágy a férfi felé
+		- "A férfi"
+		- a walesi hercegnő vonzódása az ösztönös férfi felé
+	- a paraszti világ naturalista ábrázolása
+		- kilátástalanság
+		- átjárhatatlanság
+		- kisszőrűség
+	- Móricz-féle szexjelenetek
+		- A cica, meg a macska
+		- Sárarany
+	- ajánlott olvasmányok
+		- Tragédia
+		- Barbárok
 - Bödőcs Tibor: Retyerutyák
