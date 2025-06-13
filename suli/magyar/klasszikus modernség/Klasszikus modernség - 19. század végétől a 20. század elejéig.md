@@ -144,10 +144,16 @@
 	- [[Héja-nász az avaron - elemzés]]
 	- [[Lédával a bálban]]
 	- [[Az én menyasszonyom]]
-### Disztópia // karikatúra - a nők által uralt világ
+### Disztópia // karikatúra - a nők által uralt világ (Kakasfarm)
 #### Módosított történelem
 - a sportokban a nők dominálnak
 - más okokból kezdődnek a háborúk
 - jobb kapcsolatok a középkori államok között
 #### Önkényuralmi rendszer
 - a politikai helyzetekben csak nők lehetnek
+### Prózái
+#### Móricz Zsigmond
+09:50 - holtai politikai rant kezdődik
+09:54 - holtai politikai rant végződik
+- Népiesch
+- Bödőcs Tibor: Retyerutyák
