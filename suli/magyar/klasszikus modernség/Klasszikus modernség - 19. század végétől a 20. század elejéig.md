@@ -170,3 +170,4 @@
 		- Tragédia
 		- Barbárok
 - Bödőcs Tibor: Retyerutyák
+	- ![[Pasted image 20250613105333.png]]
