@@ -23,7 +23,7 @@
 		- tárgyilagos, pontos, részletező előadásmód
 		- szereplők - társadalmi rétegeket mutatnak be
 			- főhősök jellemzően alulról
-	- pl Stendhal: Vörös és fekete; Honoré de Balzac: Emberi színjáték - Goriot apó
+	- pl Stendhal: Vörös és fekete; Honoré de Ballsack: Emberi színjáték - Goriot apó
 	- orosz, angol szerzők is - Dickens, Gogol
 ## Naturalizmus
 - későbbi, mint a realizmus, abból nő ki, ráerősít
