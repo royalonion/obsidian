@@ -101,6 +101,7 @@
 		- felügyelője: episzkoposz - püspök
 		- presbiter - lelkigondozó (reformáció, katolicizmusban nincs)
 			- mivel nincs pap, kell valaki a lelkész mellé
+# vallási ve
 - pápa
 	- püspök
 		- felügyelő
