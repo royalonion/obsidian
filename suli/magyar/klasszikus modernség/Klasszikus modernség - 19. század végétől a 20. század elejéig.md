@@ -1,4 +1,4 @@
-	# A modernség - bevezető
+# A modernség - bevezető
 - fogalma: korszerű, divatos <- modo (most)
 - nem egységes korstílus, sok egymástól eltérő irányzat összefoglaló neve
 - az 'izmusok' kora
