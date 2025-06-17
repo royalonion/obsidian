@@ -40,8 +40,7 @@
 - a zsidóság viszont háborút robbant ki
 ---
 # Előrejelzések, híradások
-## Külső
-### Híradások Jézusról - 3 szöveg (külső)
+## Külső - Híradások Jézusról - 3 szöveg
 - Josephus Flavius - A zsidók története
 	- szubjektív, másik szövegből
 - Tacitus - Annales
@@ -65,7 +64,7 @@
 			- könyvforma - kinyilatkoztatás (kérügma)
 	- dogmák - tételek (tételes vallás)
 		- politeisták általában nem
-# Összefoglalás
+# Alapok
 - nem szigorú monoteizmus
 	- Atya, Fiú, Szentlélek
 	- lelkeket vált meg
@@ -81,13 +80,14 @@
 		- a keresztények közömbösek a rómaiakkal szemben -> nincs elköteleződés a Római bir. felé -> grrr
 - keresztelkedés
 	- beavatási szertartás
-	- nem szektásított
+		- nem szektásított
 - Az utolsó vacsora
 	- misztérium
 	- beavatási sz (?)
 	- ebből jön az Úrvacsora
 		- liturgikus - (írott) szabályok szerint történik
-- város - multikultúrális hely
+# Az Ige terjedése
+- város - multikulturális hely
 	- jobban terjed a vallás
 		- pl ~~Görögország~~ Hellász - urbánus hely
 - vidék - pogányok
@@ -101,8 +101,8 @@
 		- felügyelője: episzkoposz - püspök
 		- presbiter - lelkigondozó (reformáció, katolicizmusban nincs)
 			- mivel nincs pap, kell valaki a lelkész mellé
-# vallási ve
-- pápa
+# Vallási vezetés
+- a pápa egyben
 	- püspök
 		- felügyelő
 	- pater patriae
@@ -111,11 +111,6 @@
 		- 
 	- pátriarka
 		- 
-- evangélisták szimbólumai - tetramorfia
-	- Márk - oroszlán
-	- Máté - angyal
-	- Lukács - bika
-	- János - sas
 - liturgia - liturgikus tér
 	- katakomba
 		- temetkezési hely -> gyülekezési hely
@@ -125,7 +120,12 @@
 			- első helyeken a püspök a király volt helyén ül
 			- lehet római templomból is keresztény (a felszentelés útján)
 				- pl pantheon
-# szimbólumok
+# Szimbólumok
+- evangélisták szimbólumai - tetramorfia
+	- Márk - oroszlán
+	- Máté - angyal
+	- Lukács - bika
+	- János - sas
 - ikhthüsz
 	- Ieszousz Khrisztosz, Theo Üosz, Szótér (Jézus Krisztus, Isten fia, Megváltó)
 - hétpecsétes tekercs felett bárány
@@ -134,7 +134,7 @@
 	- orthodox kereszt ☦️
 		- 3 vízszintes lap - tábla, kéz, láb
 	- latin kereszt ✝️
-# keresztény-római viszony
+# Keresztény-római viszony
 - ifj. Plinius levele Traianus császárhoz
 	- Pliniusok -> természettudósok
 		- id. Pl. - pompeii mentőakció
@@ -151,7 +151,7 @@
 				- sok keresztény - sok katona mínusz
 		- adoráció - adoratio
 			- kereszténységben a 3királyok (adoratio magi)
-# válság, krízis
+# Válság, krízis
 - okok
 	- germánok
 	- szeparatív törekvések, dezintegráció
