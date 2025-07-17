@@ -1,2 +1,4 @@
 - történelmi felvezetés, háttér
-	- első számytógép
+	- első számítógép
+	- bináris rendszer + eredete
+- 
