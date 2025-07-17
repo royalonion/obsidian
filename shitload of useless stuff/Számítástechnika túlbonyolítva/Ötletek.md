@@ -1,0 +1,2 @@
+- történelmi felvezetés, háttér
+	- első számytógép
