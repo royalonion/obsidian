@@ -4,6 +4,8 @@
 ## local shop
 - HP laptop battery
 # mid-range
+## local shop
+- raspberry pi 5 4gb ram
 ## ebay
 - ipod shoufle
 - ipod mini
