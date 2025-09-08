@@ -3,17 +3,20 @@
 - cassette deck part
 ## local shop
 - HP laptop battery
+---
 # mid-range
 ## local shop
 - raspberry pi 5 4gb ram
+- zigbee adapter
 ## ebay
 - ipod shoufle
-- ipod mini
-- ipod 4
-- ipod 5
-- ipod 6/7
+- *ipod mini*
+- *ipod 4*
+- *ipod 5*
+- *ipod 6/7*
 - ipod dock
 - blackberry q20 (or q10)
+---
 # steep
 ## ebay
 - macbook (m1/m2)
