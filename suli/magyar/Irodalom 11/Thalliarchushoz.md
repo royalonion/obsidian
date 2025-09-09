@@ -1,0 +1,3 @@
+- az első-második vszk. tájleírás, bemutatja a zord telet
+	- a második vszk. a megoldást, a tél átvészelését mutatja be, arra ad tanácsokat
+	- 
