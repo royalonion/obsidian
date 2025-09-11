@@ -82,7 +82,7 @@
 ## Magyar
 - Kazinczy Ferenc
 - Kölcsey Ferenc
-- Batsányi János (út)
+- Batsányi János
 - Bessenyei György
 - Berzsenyi Dániel
 	- Osztályrészem
