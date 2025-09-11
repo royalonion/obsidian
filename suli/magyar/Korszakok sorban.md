@@ -20,6 +20,7 @@
 		- Szophoklész
 			- Oidipusz király
 			- Antigoné
+---
 # Középkor
 ## Magyar
 - Anonymus
@@ -34,6 +35,7 @@
 	- Walter von der Vogelweide
 		- A hársfaágak csendes árnyán
 - Villon költészete
+---
 # Reneszánsz
 ## Magyar
 - Janus Pannonius
@@ -51,12 +53,14 @@
 - Francesco Petrarca
 	- Daloskönyv
 - Shakespeare drámái
+---
 # Barokk
 - Zrínyi Miklós (Munkács várán van egy lik...)
 	- Adriai tengernek Syrenaia
 		- Szigeti veszedelem
 - Pázmány Péter
 	- Hogyan kell keresztyén leányt nevelni
+---
 # Felvilágosodás, klasszicizmus
 ## Klasszicista dráma - 1600-as évek második fele
 - Moliére
@@ -82,6 +86,7 @@
 - Bessenyei György
 - Berzsenyi Dániel
 	- Osztályrészem
+---
 # Romantika
 ## Magyar
 - Kölcsey Ferenc
@@ -139,4 +144,5 @@
 	- Tót atyafiak (novelláskötet)
 		- Az a fekete folt
 		- Lapaj, a híres dudás
-# link
+---
+# [[Klasszikus modernség - 19. század végétől a 20. század elejéig]]
