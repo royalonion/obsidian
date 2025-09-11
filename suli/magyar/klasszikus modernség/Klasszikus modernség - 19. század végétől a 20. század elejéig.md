@@ -6,6 +6,7 @@
 - 20. század eleji avantgárd
 - '20-70-es évekbeli kései modernség
 - 20. századvégi kezdetű, napjainkbeli posztmodern irodalom
+---
 # Stílusirányzatok
 ## Realizmus
 - 19. század első felében megszületik
