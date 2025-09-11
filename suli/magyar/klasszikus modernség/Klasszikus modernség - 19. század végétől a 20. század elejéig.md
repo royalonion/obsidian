@@ -155,8 +155,6 @@
 - a politikai helyzetekben csak nők lehetnek
 ### Prózái
 #### Móricz Zsigmond
-09:50 - holtai politikai rant kezdődik
-09:54 - holtai politikai rant végződik
 - Népiesch
 	- testi vágy a férfi felé
 		- "A férfi"
