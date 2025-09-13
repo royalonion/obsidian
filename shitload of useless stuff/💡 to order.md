@@ -9,6 +9,8 @@
 - raspberry pi 5 4gb ram
 - zigbee adapter
 ## ebay
+- walkman
+- iphone se
 - ipod shoufle
 - *ipod mini*
 - *ipod 4*
