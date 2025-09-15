@@ -15,3 +15,5 @@
 - sztyepp - állattartás
 	- a Duna a nyugati alapvonal
 - éghajlat
+## fegyverek
+- 
