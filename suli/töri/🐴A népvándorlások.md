@@ -15,5 +15,9 @@
 - sztyepp - állattartás
 	- a Duna a nyugati alapvonal
 - éghajlat
+- kölcsönhatás a kultúrák között
+	- együttműködnek
+- asszimiláció
+	- a és b kultúra közti határ átjárható kulturális ozmózis
 ## fegyverek
-- 
+- reflexíj
