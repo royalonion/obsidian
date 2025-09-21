@@ -8,4 +8,4 @@
 ---
 ## Otherwise, [[🗍 Organiser|take a peek 👀]] into my other stuff
 ---
->This page best works as a part of [obsidian](https://obsidian.md). Download it to get the full experience.
+>This page best works as a part of [Obsidian](https://obsidian.md). Download it to get the full experience.
