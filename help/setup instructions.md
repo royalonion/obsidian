@@ -11,7 +11,7 @@
 # plugins
 ## system
 - sync off
-- recorder on
+- audio recorder on
 ## 3rd party
 - style settings
 - git
