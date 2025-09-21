@@ -1,0 +1,168 @@
+"Bétölt az idő, és elközelített az Istennek országa." (Márk 1:15)
+- világvége, apokalipszis - lineáris idő, a vége Jézus eljövetele (emberré lett az Isten)
+- Genezis - az idők kezdete
+	- teremtéstörténet
+	- előtte nem volt semmi
+- Nemezis
+	- az idők vége
+	- utána nem lesz semmi
+- a világvége nem (feltétlenül) rossz
+	- üdvözülés - üdvtörténet
+		- evangélium - örömhír
+	- (el)kárhozás
+- apo | kalipszis
+	- Kalüpszó
+		- kalüpszein - elrejteni
+		- apo - ellentét jelzője
+# Jézus
+## Helyszínek, infók
+- Jeruzsálem - kondomínium (kettős kormányzás)
+	- Heródes+Kajafás
+- Kapernaum
+- Júdea
+- lehet, hogy Jézus Kr. e. 4-ben született
+	- saját maga előtt?
+
+---
+# A kereszténység környezete, definiálása
+- szellemi, társadalmi, nem területi, helyi
+- viszonyulása a környező vallásokhoz -> könnyen kialakul
+	- zsidók - messiás - pipa (?)
+	- görögök - világvége - pipa
+	- farizeusok - összetűzés
+	- papi vezetők - teológiai ellentét
+	- zelóták - erőszak - teljes ellentét
+- esszénusok - korai keresztények?
+	- nem, mert pl 2 messiás
+---
+# Róma - kereszténység
+- nem ellentétes, inkább közömbös kapcsolat
+- a zsidóság viszont háborút robbant ki
+---
+# Előrejelzések, híradások
+## Külső - Híradások Jézusról - 3 szöveg
+- Josephus Flavius - A zsidók története
+	- szubjektív, másik szövegből
+- Tacitus - Annales
+	- objektív
+- Vergilius - IV. ecloga
+	- idő előtti
+## Belső
+- Ószövetség
+	- -re épül az Újszövetség
+	- pl templomok struktúrája - ószöv. alul, újszöv. felül
+		- Az Ószvetségben sok ábrázolás készült
+			- menybemenetel
+			- Vmi Pali lajtorjája
+			- Jesse fája
+				- Megjósolja Jézus családfáját
+			- Illés
+- zsidók
+	- monoteizmus, no szent3ság - no próféta
+		- Isten mond mindent, személyesen kinyilatkoztat
+			- amit nem, az titok - misztériumok
+			- könyvforma - kinyilatkoztatás (kérügma)
+	- dogmák - tételek (tételes vallás)
+		- politeisták általában nem
+# Alapok
+- nem szigorú monoteizmus
+	- Atya, Fiú, Szentlélek
+	- lelkeket vált meg
+		- lelki közösség
+	- nem földi királyság
+	- szervezet, egyház
+		- van - kat
+		- nincs - prot
+- nincs fölösleges csoda
+- 3 megkísértés
+	- harmadik - Jézusnak nem kell a Római bir.
+		- Sátáné (?) -> nem uralkodik a Sátán birodalmán
+		- a keresztények közömbösek a rómaiakkal szemben -> nincs elköteleződés a Római bir. felé -> grrr
+- keresztelkedés
+	- beavatási szertartás
+		- nem szektásított
+- Az utolsó vacsora
+	- misztérium
+	- beavatási sz (?)
+	- ebből jön az Úrvacsora
+		- liturgikus - (írott) szabályok szerint történik
+# Az Ige terjedése
+- város - multikulturális hely
+	- jobban terjed a vallás
+		- pl ~~Görögország~~ Hellász - urbánus hely
+- vidék - pogányok
+	- pogány - pagony (szóhasadás)
+		- pogány - pagony - pagan (vidéki választókörzetek neve)
+- kopt kereszténység
+	- etiópia
+- az ige hirdetése - missziókkal
+	- közösség alapítása/tanítása
+	- városok
+		- felügyelője: episzkoposz - püspök
+		- presbiter - lelkigondozó (reformáció, katolicizmusban nincs)
+			- mivel nincs pap, kell valaki a lelkész mellé
+# Vallási vezetés
+- a pápa egyben
+	- püspök
+		- felügyelő
+	- pater patriae
+		- 
+	- pontifex maximus
+		- 
+	- pátriarka
+		- 
+- liturgia - liturgikus tér
+	- katakomba
+		- temetkezési hely -> gyülekezési hely
+			- osszárium
+	- bazilika
+		-  római kori törvénykezési helyből szakrális térré
+			- első helyeken a püspök a király volt helyén ül
+			- lehet római templomból is keresztény (a felszentelés útján)
+				- pl pantheon
+# Szimbólumok
+- evangélisták szimbólumai - tetramorfia
+	- Márk - oroszlán
+	- Máté - angyal
+	- Lukács - bika
+	- János - sas
+- ikhthüsz
+	- Ieszousz Khrisztosz, Theo Üosz, Szótér (Jézus Krisztus, Isten fia, Megváltó)
+- hétpecsétes tekercs felett bárány
+	- pantokrator - a világ ura
+- keresztek
+	- orthodox kereszt ☦️
+		- 3 vízszintes lap - tábla, kéz, láb
+	- latin kereszt ✝️
+# Keresztény-római viszony
+- ifj. Plinius levele Traianus császárhoz
+	- Pliniusok -> természettudósok
+		- id. Pl. - pompeii mentőakció
+	- betiltja a keresztényeket
+		- mindent a császár végez el
+			- levél mindenért a császárnak
+			- félnek tőle
+- áldozatok
+	- bálványozás - keresztények nem tették meg
+		- nyilvános áldozatbemutatás
+			- nem kellett otthon
+		- kötelesség, lojalitás bemutatása
+			- keresztények - nem lojálisak
+				- sok keresztény - sok katona mínusz
+		- adoráció - adoratio
+			- kereszténységben a 3királyok (adoratio magi)
+# Válság, krízis
+- okok
+	- germánok
+	- szeparatív törekvések, dezintegráció
+- okozatok
+	- elbillen kelet felé a mérleg
+	- provincializálódás
+	- infláció (!!4!!! magyarország mentioned 🇭🇺🇭🇺🇭🇺 what is a stable economy???!?!!! gulyáás!!!!!4!!4)
+	- lovasság (fegyvernemi változás)
+	- adófizetés bonyolódik (mindenki polgár -> mindenki adózik)
+	- hadsereg decentralizálása
+	- igazgatás decentralizálása
+	- erkölcs romlása
+- végső kimenetel -> bukás, germánok bejönnek Rómába
+	- a kereszténység megváltást nyújt, ezért rájuk lehet építkezni

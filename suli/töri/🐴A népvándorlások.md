@@ -1,0 +1,23 @@
+# A hunok (?)
+## kínai írás a mongolokról (Wang Li; 1314-89)
+- vándorolnak, kínában is élnek, hosszabb utakat is megtesznek (írja a forrás)
+- nem territoriális az államuk (nem területhez kötött) ➡️ ebből adódóan nehéz a történelmüket leírni
+	- a régészet szinte használhatatlan, mert keveredik
+	- primérforrás nincs (magukról)
+	- mindig külső, tendenciózus forrás (mások véleménye alapján tudunk bármit is); ez sincs sok
+- a népek egyesülése ➡️ nagy, közös birodalom
+	- összeköttetés Eu. és Ázsia között
+	- ez Kína mongol elfoglalása után készült
+		- a rendet nézi, nem a pusztítást
+		- Pax Mongolica -  népirtás (?)
+		- Marco Polo pl sértetlenül jutott el Kínába
+## terjeszkedésvizsgálati szempontok
+- sztyepp - állattartás
+	- a Duna a nyugati alapvonal
+- éghajlat
+- kölcsönhatás a kultúrák között
+	- együttműködnek
+- asszimiláció
+	- a és b kultúra közti határ átjárható kulturális ozmózis
+## fegyverek
+- reflexíj

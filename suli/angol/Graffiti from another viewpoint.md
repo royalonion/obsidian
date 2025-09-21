@@ -1,0 +1,12 @@
+Graffiti and urban art are beautiful forms of self-expression, especially amongst skilled individuals, but are often considered destructive and harmful for the enviroment. Why is this hobby viewed as vandalism, and how did it turn into a crime? There are a few solutions that we can discuss and choose the one with the highest success rate and best outcome. But before that, we need to understand the reason for this type of behaviour.
+
+To start with, it helps people in expressing their thoughts and their emotions. It can also help people fit into communities that revolve around making different styles, or as they call it: "tags". These symbolize the members and it can also start a competition around the local clubs.
+And this is where the destruction comes in. Most of these sprayings happen in and on public spaces, for example old walls, abandoned houses, and even unused trains. Worst of all, some people go as far as painting a newly built office or a freshly installed window. Most of these are harmless but are still dangerous and they ruin the enviroment's look. They are also considered felonies in most countries, and the individuals participating in these activities can face penalties and even imprisonment.
+
+Now that we understand the reasons for these activities, let's talk about the solutions.
+Most people would agree on prevention and raising jail times as the key but this will not eliminate the problem completely, because most of these people already know about the outcome so they try to hide from cameras and escape the police.
+In my opinion, there can be two successful ways to end the depreciation of these areas.
+The first and most obvious option would be to allow these artists to freely express themselves in some abandoned places or on walls that are close to demolition. Also, the use of some plastic layering on ongoing construction sites would help both sides.
+The other option links to this - the creation of free graffiti spaces, in for example parks or at highly visited public spaces. This would also let people see their masterpieces and bring more attention to communities.
+
+I know that these ideas would still not eliminate the misdemeanors completely but would reduce the amount of charges against individuals with creative minds massively.
