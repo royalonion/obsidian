@@ -21,7 +21,7 @@
 	- tothferenczimiklos@gmail.com
 	- synced folder
 	- github.com/royalonion/obsidian
- 	- HPLCsr7b0HYZEpNgcyJ8YMdIXg5YLR48dlS1
+	- HPLCsr7b0HYZEpNgcyJ8YMdIXg5YLR48dlS1
 	- {{hostname}} commit @ {{date}}
 - homepage
 	- [[👋Welcome page]]
