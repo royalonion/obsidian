@@ -1,0 +1,18 @@
+- történelmi felvezetés, háttér
+	- első számítógép
+	- bináris rendszer + eredete
+- sim kártya - telefonálás
+- tárolók
+	- hdd
+	- floppy
+	- ssd
+	- sd
+	- pepe
+- felhő
+- kompjuter
+	- alaplap, proc, gpu, ram
+- os
+	- telefon, pc, minden más
+- ebook
+	- eink
+- 
