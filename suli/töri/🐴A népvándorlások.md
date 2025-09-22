@@ -21,3 +21,10 @@
 	- a és b kultúra közti határ átjárható kulturális ozmózis
 ## fegyverek
 - reflexíj
+## hamis ábrák
+- hunok = németek (I. világháború)
+	- propaganda
+	- plakátok
+	- behívók
+	- gyerekre tapos, stb
+- 
