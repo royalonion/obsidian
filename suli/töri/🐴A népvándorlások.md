@@ -27,4 +27,4 @@
 	- plakátok
 	- behívók
 	- gyerekre tapos, stb
-- 
+- KEEP THE HUN OUT - ír plakát
