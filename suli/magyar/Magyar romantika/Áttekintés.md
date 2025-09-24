@@ -16,4 +16,3 @@
 	- forradalom - 1848-as áprilisi törvények szentesítése - alkotmányos polgári állam
 	- SIKER
 	- párhuzamosan nyelvújítás
-!
