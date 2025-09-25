@@ -2,12 +2,12 @@
 ## online 3d printing site
 - cassette deck part
 ## aliexpress
-- camera battery
-- batteries
-	- c5-00 - bl-5ct
-	- camera - cga-S007E
+- camera battery - cga-S007E
+- phone battery - c5-00 - bl-5ct
 ---
 # midrange
+## aliexpress
+- 7 inch display
 ## local shop
 - raspberry pi 5 4gb ram
 - zigbee adapter
