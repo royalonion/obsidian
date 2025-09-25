@@ -2,7 +2,10 @@
 ## online 3d printing site
 - cassette deck part
 ## local shop
-- HP laptop battery
+- camera battery
+- phone batteries
+	- c5-00
+	- 
 ---
 # mid-range
 ## local shop
