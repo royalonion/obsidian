@@ -3,8 +3,8 @@
 - cassette deck part
 ## local shop
 - camera battery
-- phone batteries
-	- c5-00
+- batteries
+	- c5-00 - bl-5ct
 	- 
 ---
 # mid-range
