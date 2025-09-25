@@ -6,7 +6,6 @@
 - batteries
 	- c5-00 - bl-5ct
 	- camera - cga-S007E
-- 
 ---
 # midrange
 ## local shop
