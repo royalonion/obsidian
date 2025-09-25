@@ -1,13 +1,14 @@
 # cheap
 ## online 3d printing site
 - cassette deck part
-## local shop
+## aliexpress
 - camera battery
 - batteries
 	- c5-00 - bl-5ct
-	- 
+	- camera - cga-S007E
+- 
 ---
-# mid-range
+# midrange
 ## local shop
 - raspberry pi 5 4gb ram
 - zigbee adapter
