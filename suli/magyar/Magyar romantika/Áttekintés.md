@@ -15,4 +15,21 @@
 	- felajánlja birtoka 1 évi jövedelmét egy tudományos társaság létrehozására -> MTA
 	- forradalom - 1848-as áprilisi törvények szentesítése - alkotmányos polgári állam
 	- SIKER
-	- párhuzamosan nyelvújítás
+	- (párhuzamosan nyelvújítás)
+	- V. Ferdinánd helyett a 18 éves Ferenc József ír alá
+		- érvénytelen
+			- az áprilisi törvények
+			- Batthyány Lajos kormánya
+	- kitör a szabadságharc
+		- nem egyedül, orosz segítséggel verik le a szabadságharcot
+	- megtorlások - 1950-51
+		- 'Haynau rémuralma'
+		- 1849. okt. 6. - kivégzése
+			- Arad
+				- 13 tábornok
+			- Pest
+				- Batthyány
+- emigrációk
+	- Kossuth Lajos
+	- Klapka György
+		- "Híres Komárom be van véve"
