@@ -24,4 +24,6 @@
 ---
 # steep
 ## ebay
-- macbook (m1/m2)
+- macbook (m1/m2)0
+## remarkable
+- refurb remarkable 2 w/ marker plus
