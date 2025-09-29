@@ -34,4 +34,10 @@
 	- miért kötjük a magyarokat a hunokhoz?
 		- legitimitás
 		- IV. (Kun) László - kun származású
-		- Kézai Simon - kun származás tisztázása  - 
+		- Kézai Simon - kun származás tisztázása  - dicső, nagy, hun
+- származás
+	- Odüsszeusz - lezárt föld, nem lehet visszatérni - erre hasonlít Anonymus mondája
+		- Noé fiai?
+			- EGYSZERRE VAGYUNK NOÉ FIAINAK, ODÜSSZEUSZNAK, MEG NAGY SÁNDORNAK A FIAI MIAFAAAAAAASZ
+				- (Sanyi? hmmm)
+			- 
