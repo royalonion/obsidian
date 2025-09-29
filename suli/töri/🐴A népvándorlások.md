@@ -29,3 +29,9 @@
 	- behívók
 	- gyerekre tapos, stb
 - KEEP THE HUN OUT - ír plakát
+# A magyarok
+- hun-kun-magyar kapcsolata
+	- miért kötjük a magyarokat a hunokhoz?
+		- legitimitás
+		- IV. (Kun) László - kun származású
+		- Kézai Simon - kun származás tisztázása  - 
