@@ -1,37 +1,70 @@
 # Történelmi háttér
-- 19. sz első fele
-	- nincs önálló nemzetállam (nacionalizmus)
-	- Mo a Habsburg Birodalom örökös tartománya
-	- feudális rendi államműködés
-		- a hatalom alapja a föld
-		- vérségi alapú társadalmi csoport
-			- azonos/hasonló jogok, érdekekek
-			- három csoport, jogokkal
-				- fő-, közép- és kisnemesség
-				- fő- és alsópapság
-				- városi polgár
-- reformkor 1825-1848 (Széchenyi István felajánlásától a forradalomig)
-	- a kora legnagyobb földbirtokosa
-	- felajánlja birtoka 1 évi jövedelmét egy tudományos társaság létrehozására -> MTA
-	- forradalom - 1848-as áprilisi törvények szentesítése - alkotmányos polgári állam
-	- SIKER
-	- (párhuzamosan nyelvújítás)
-	- V. Ferdinánd helyett a 18 éves Ferenc József ír alá
-		- érvénytelen
-			- az áprilisi törvények
-			- Batthyány Lajos kormánya
-	- kitör a szabadságharc
-		- nem egyedül, orosz segítséggel verik le a szabadságharcot
-	- megtorlások - 1950-51
-		- 'Haynau rémuralma'
-		- 1849. okt. 6. - kivégzése
-			- Arad
-				- 13 tábornok
-			- Pest
-				- Batthyány Lajo
-- e-migránsok
-	- Kossuth Lajos
-	- Klapka György
-		- "Híres Komárom be van véve"
-	- Andrássy Gyula
-		- 
+## 19. sz első fele
+- nincs önálló nemzetállam (nacionalizmus)
+- Mo a Habsburg Birodalom örökös tartománya
+- feudális rendi államműködés
+	- a hatalom alapja a föld
+	- vérségi alapú társadalmi csoport
+		- azonos/hasonló jogok, érdekekek
+		- három csoport, jogokkal
+			- fő-, közép- és kisnemesség
+			- fő- és alsópapság
+			- városi polgár
+## reformkor 1825-1848 (Széchenyi István felajánlásától a forradalomig)
+- a kora legnagyobb földbirtokosa
+- felajánlja birtoka 1 évi jövedelmét egy tudományos társaság létrehozására -> MTA
+- forradalom - 1848-as áprilisi törvények szentesítése - alkotmányos polgári állam
+- SIKER
+- (párhuzamosan nyelvújítás)
+- V. Ferdinánd helyett a 18 éves Ferenc József ír alá
+	- érvénytelen
+		- az áprilisi törvények
+		- Batthyány Lajos kormánya
+- kitör a szabadságharc
+	- nem egyedül, orosz segítséggel verik le a szabadságharcot
+- megtorlások - 1950-51 - 'Haynau rémuralma'
+	- 1849. okt. 6. - kivégzése
+		- Arad
+			- 13 tábornok
+		- Pest
+			- Batthyány Lajos
+	- e-migránsok
+		- Kossuth Lajos
+			- Amerikába is ellátogatott
+		- Klapka György
+			- "Híres Komárom be van véve"
+			- Franciaországba megy
+		- Andrássy Gyula
+			- távollétében felakasztották (a nevét egy bitófára tették)
+			- "a szép akasztott"
+			- pár év múlva visszatér, megkoronázza Ferenc Józsefet
+	- Haynau leváltása után lassú konszolidáció
+		- politika miatt váltják le
+		- angol ok felismerik egy kocsmában, és megverik
+		- magyar birtokon éli le az életét
+# Korstílus: a romantika stílusjegyei
+- csalódás a felvilágosodás, az ész uralmában, sikerében (francia forradalom, Napóleon)
+	- véres jakobinus diktatúra
+		- EmTrag - Párizs - Danton-Ádám
+- nacionalizmus - nemzettudat
+	- önállóság, nemzetállam (1920.)
+	- féltés, nemzethalál víziója
+		- Herder jóslata - a magyarság el fog tűnni a szlávok tengerében
+		- Vörösmarty - Szózat
+- érzelemdús, szélsőséges, képiségben gazdag
+- félelmetes, ijesztő
+	- horror, thriller
+- dicső múlt - középkor <-> romlott, értékvesztett jelen
+# Szerzők, művek
+## Berzsenyi Dániel (1776-1836)
+- középbirtokos, gazdálkodó
+- "a **nikla**i remete"
+- Dukai Takács Zsuzsanna
+	- sajnálja, hogy a feleségét műveletlenségben hagyta
+	- Judit, a feleségének unokatestvére
+		- Dukai Takács Judithoz c. vers (korabeli feminista)
+- ódák
+	- A magyarokhoz I. és II.
+		- a múlt és jelen viszonya
+		- a versek képisége
+		- az óda műfaji jellemzői
