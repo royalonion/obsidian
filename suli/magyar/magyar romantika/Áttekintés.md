@@ -28,8 +28,10 @@
 			- Arad
 				- 13 tábornok
 			- Pest
-				- Batthyány
-- emigrációk
+				- Batthyány Lajo
+- e-migránsok
 	- Kossuth Lajos
 	- Klapka György
 		- "Híres Komárom be van véve"
+	- Andrássy Gyula
+		- 
