@@ -1,4 +1,5 @@
 # A hunok (?)
+> Hun volt, hun nem volt
 ## kínai írás a mongolokról (Wang Li; 1314-89)
 - vándorolnak, kínában is élnek, hosszabb utakat is megtesznek (írja a forrás)
 - nem territoriális az államuk (nem területhez kötött) ➡️ ebből adódóan nehéz a történelmüket leírni
