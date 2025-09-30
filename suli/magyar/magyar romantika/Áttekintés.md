@@ -71,4 +71,4 @@
 		- túlzások
 			- "A vad tatár khán xerxesi tábora"
 				- ezt is túléltük
-				- eredeztetés
+			- eredeztetés is
