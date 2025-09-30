@@ -131,29 +131,39 @@ Izzada orcám. 
 Béke már részem: lekötöm hajómat,  
 Semmi tündérkép soha fel nem oldja.  
 Oh te, elzárt hely, te fogadd öledbe  
-A heves ifjút! 
+A heves ifjút!
+# A közelítő tél
+Hervad már ligetünk, s díszei hullanak,  
+Tarlott bokrai közt sárga levél zörög.  
+Nincs rózsás labyrinth, s balzsamos illatok  
+Közt nem lengedez a Zephyr.
+# A magyarokhoz
+Romlásnak indult hajdan erős magyar!  
+Nem látod, Árpád vére miként fajúl?  
+Nem látod a bosszús egeknek  
+Ostorait nyomorúlt hazádon? 
 
-Bár nem olly gazdag mezeim határa,  
-Mint Tarentum vagy gyönyörű Larissa,  
-S nem ragyog szentelt ligetek homályin  
-Tíburi forrás: 
+Nyolc századoknak vérzivatarja közt  
+Rongált Budának tornyai állanak,  
+Ámbár ezerszer vak tüzedben  
+Véreidet, magadat tiportad. 
 
-Van kies szőlőm, van arany kalásszal  
-Bíztató földem: szeretett Szabadság  
-Lakja hajlékom. Kegyes istenimtől  
-Kérjek-e többet? 
+Elszórja, hidd el, mostani veszni tért  
+Erkölcsöd: undok víperafajzatok  
+Dúlják fel e várt, melly sok ádáz  
+Ostromokat mosolyogva nézett. 
 
-Vessen a Végzet, valamerre tetszik,  
-Csak nehéz szükség ne zavarja kedvem:  
-Mindenütt boldog megelégedéssel  
-Nézek az égre! 
+Nem ronthatott el tégedet egykoron  
+A vad tatár khán xerxesi tábora  
+S világot ostromló töröknek  
+Napkeletet leverő hatalma; 
 
-Csak te légy vélem, te szelíd Camoena!  
-Itt is áldást hint kezed életemre,  
-S a vadon tájék kiderűlt virány lesz  
-Gyenge dalodra. 
+Nem fojthatott meg Zápolya öldöklő  
+Századja s titkos gyilkosaid keze,  
+A szent rokonvérbe feresztő  
+Visszavonás tüze közt megálltál: 
 
-Essem a Grönland örökös havára,  
-Essem a forró szerecsen homokra:  
-Ott meleg kebled fedez, ó Camoena,  
-Itt hives ernyőd.
+Mert régi erkölcs s spártai férjfikar  
+Küzdött s vezérlett fergetegid között;  
+Birkózva győztél, s Herculesként  
+Ércbuzogány rezegett kezedben.
