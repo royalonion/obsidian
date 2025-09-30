@@ -1,3 +1,4 @@
+#magyar #memoriter #elemzés 
 # látvány
 világos -> sötét
 # hang

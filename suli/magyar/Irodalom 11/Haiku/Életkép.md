@@ -1,3 +1,4 @@
+#magyar #haiku 
 Pihennék, nem megy
 A Hold már figyel engem
 Házi feladat

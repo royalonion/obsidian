@@ -1,3 +1,4 @@
+#magyar #elemzés 
 - szerelem = harc
 - héják = szerelmespár
 - nyár = kiteljesedés

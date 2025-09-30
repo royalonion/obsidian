@@ -1,3 +1,4 @@
+#töri #magyar #reformkor
 # Történelmi háttér
 ## 19. sz első fele
 - nincs önálló nemzetállam (nacionalizmus)

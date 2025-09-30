@@ -1,3 +1,4 @@
+#magyar #limerick 
 Volt egyszer egy gaz nőgyógyász. Gaztette,
 hogy az ujja helyébe a faszát tette.
 "Betudható-e az asztmámnak,

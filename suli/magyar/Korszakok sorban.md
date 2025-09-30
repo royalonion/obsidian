@@ -1,3 +1,4 @@
+#magyar
 # Antikvitás - ókor
 ## Görög irodalom
 - epika

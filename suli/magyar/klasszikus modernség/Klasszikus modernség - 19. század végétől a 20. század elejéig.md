@@ -1,3 +1,4 @@
+#magyar #töri #klasszikusmodernség
 # A modernség - bevezető
 - fogalma: korszerű, divatos <- modo (most)
 - nem egységes korstílus, sok egymástól eltérő irányzat összefoglaló neve
@@ -143,7 +144,7 @@
 		- magasabb pozíció, élet&halál ura
 	- Góg és Magóg fia vagyok én... - kilóg egy vers, cikluson kívüli - a kötet vezérverse
 		- MEMORITER
-	- [[Héja-nász az avaron - elemzés]]
+	- [[Héja-nász az avaron]]
 	- [[Lédával a bálban]]
 	- [[Az én menyasszonyom]]
 ### Disztópia // karikatúra - a nők által uralt világ (Kakasfarm)

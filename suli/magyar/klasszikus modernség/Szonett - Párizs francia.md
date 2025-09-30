@@ -1,3 +1,4 @@
+#magyar #klasszikusmodernség 
 P - szinte csöndes, alig hallod,
 Á- ltalában beolvad környezetébe.
 R - meg ne fulladj, köpd ki a sajtot,

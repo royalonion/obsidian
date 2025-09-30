@@ -1,3 +1,4 @@
+#magyar #limerick
 There once was an old man of Lyme,
 Who married three wives at a time;
 When asked "Why a third?'"

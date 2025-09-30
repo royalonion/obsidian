@@ -1,3 +1,4 @@
+#magyar #elemzés
 # Szempontok
 1. Szerző, cím
 2. A vers beszélője/vershang/lírai én

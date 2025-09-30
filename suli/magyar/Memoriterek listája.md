@@ -1,3 +1,4 @@
+#magyar #memoriter
 # Gyűlölöm azt (Anakreón)
 Gyűlölöm azt, aki telt kupa mellett, bort iszogatván,
 háborut emleget és lélekölő viadalt.
@@ -121,3 +122,4 @@ Bájoló lágy trillák!
 Tarka képzetek!
 Kedv! Remények! Lillák!
 Isten véletek!
+# 
