@@ -122,3 +122,38 @@ Bájoló lágy trillák!
 Tarka képzetek!
 Kedv! Remények! Lillák!
 Isten véletek!
+# Osztályrészem (Berzsenyi Dániel)
+Partra szállottam. Levonom vitorlám.  
+A szelek mérgét nemesen kiálltam.  
+Sok Charybdis közt, sok ezer veszélyben  
+Izzada orcám. 
+
+Béke már részem: lekötöm hajómat,  
+Semmi tündérkép soha fel nem oldja.  
+Oh te, elzárt hely, te fogadd öledbe  
+A heves ifjút! 
+
+Bár nem olly gazdag mezeim határa,  
+Mint Tarentum vagy gyönyörű Larissa,  
+S nem ragyog szentelt ligetek homályin  
+Tíburi forrás: 
+
+Van kies szőlőm, van arany kalásszal  
+Bíztató földem: szeretett Szabadság  
+Lakja hajlékom. Kegyes istenimtől  
+Kérjek-e többet? 
+
+Vessen a Végzet, valamerre tetszik,  
+Csak nehéz szükség ne zavarja kedvem:  
+Mindenütt boldog megelégedéssel  
+Nézek az égre! 
+
+Csak te légy vélem, te szelíd Camoena!  
+Itt is áldást hint kezed életemre,  
+S a vadon tájék kiderűlt virány lesz  
+Gyenge dalodra. 
+
+Essem a Grönland örökös havára,  
+Essem a forró szerecsen homokra:  
+Ott meleg kebled fedez, ó Camoena,  
+Itt hives ernyőd.
