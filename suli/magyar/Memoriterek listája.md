@@ -861,4 +861,21 @@ De túl zenén, túl síp-dobon,
 Riadó kürtön át:
 Ötszáz énekli hangosan
 A vértanúk dalát.
-# 
+# Toldi estéje
+Őszbe csavarodott a természet feje,
+Dérré vált a harmat, hull a fák levele,
+Rövidebb, rövidebb lesz a napnak útja,
+És hosszúkat alszik rá, midőn megfutja.
+Megpihen legszélén az égi határnak
+S int az öregeknek: "benneteket várlak!"
+Megrezdűl a feje sok öregnek erre:
+Egymásután mégis mennek a nyughelyre.
+
+A király egy székre a beteg mellé ül
+És föléhajolva szólítja nevérül.
+Toldit környékezte már az a fél-álma,
+Mely elnyomja végre s ejti mély halálba.
+Felriadt a szóra, - ismeré azt szinte -
+Nagy, merő szemekkel Lajosra tekinte:
+Ráismert, - de mintegy kételkedve: hol van?
+A padlásgerendát kezdte nézni sorban.
