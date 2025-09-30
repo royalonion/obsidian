@@ -434,4 +434,85 @@ Ha, leányka, te vagy a mennyország:
 Akkor én csillagá változom.
 Ha, leányka, te vagy a pokol: (hogy
 Egyesüljünk) én elkárhozom.
+# SZEPTEMBER VÉGÉN
+Még nyílnak a völgyben a kerti virágok,
+Még zöldel a nyárfa az ablak előtt,
+De látod amottan a téli világot?
+Már hó takará el a bérci tetőt.
+Még ifju szivemben a lángsugarú nyár
+S még benne virít az egész kikelet,
+De íme sötét hajam őszbe vegyűl már,
+A tél dere már megüté fejemet.
+ 
+Elhull a virág, eliramlik az élet...
+Űlj, hitvesem, űlj az ölembe ide!
+Ki most fejedet kebelemre tevéd le,
+Holnap nem omolsz-e sirom fölibe?
+Oh mondd: ha előbb halok el, tetemimre
+Könnyezve borítasz-e szemfödelet?
+S rábírhat-e majdan egy ifju szerelme,
+Hogy elhagyod érte az én nevemet?
+ 
+Ha eldobod egykor az özvegyi fátyolt,
+Fejfámra sötét lobogóul akaszd,
+Én feljövök érte a síri világbol
+Az éj közepén, s oda leviszem azt,
+Letörleni véle könyűimet érted,
+Ki könnyeden elfeledéd hivedet,
+S e szív sebeit bekötözni, ki téged
+Még akkor is, ott is, örökre szeret!
+# NEMZETI DAL 
+Talpra magyar, hí a haza!  
+Itt az idő, most vagy soha!  
+Rabok legyünk, vagy szabadok?  
+Ez a kérdés, válasszatok! -  
+A magyarok istenére  
+Esküszünk,  
+Esküszünk, hogy rabok tovább  
+Nem leszünk! 
+
+Rabok voltunk mostanáig,  
+Kárhozottak ősapáink,  
+Kik szabadon éltek-haltak,  
+Szolgaföldben nem nyughatnak.  
+A magyarok istenére  
+Esküszünk,  
+Esküszünk, hogy rabok tovább  
+Nem leszünk! 
+
+Sehonnai bitang ember,  
+Ki most, ha kell, halni nem mer,  
+Kinek drágább rongy élete,  
+Mint a haza becsülete.  
+A magyarok istenére  
+Esküszünk,  
+Esküszünk, hogy rabok tovább  
+Nem leszünk! 
+
+Fényesebb a láncnál a kard,  
+Jobban ékesíti a kart,  
+És mi mégis láncot hordtunk!  
+Ide veled, régi kardunk!  
+A magyarok istenére  
+Esküszünk,  
+Esküszünk, hogy rabok tovább  
+Nem leszünk! 
+
+A magyar név megint szép lesz,  
+Méltó régi nagy hiréhez;  
+Mit rákentek a századok,  
+Lemossuk a gyalázatot!  
+A magyarok istenére  
+Esküszünk,  
+Esküszünk, hogy rabok tovább  
+Nem leszünk! 
+
+Hol sírjaink domborulnak,  
+Unokáink leborulnak,  
+És áldó imádság mellett  
+Mondják el szent neveinket.  
+A magyarok istenére  
+Esküszünk,  
+Esküszünk, hogy rabok tovább  
+Nem leszünk!
 # 
