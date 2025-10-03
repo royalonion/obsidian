@@ -92,4 +92,7 @@
 		- haza = anya, nép = gyermek
 - Zrínyi dala
 	- képiségben erőteljes, láttat
-	- 
+	- ifj. Zrínyi
+		- mert író
+	- érdeklődik, hogy hol vannak a dicső magyarok
+- Zrínyi második éneke
