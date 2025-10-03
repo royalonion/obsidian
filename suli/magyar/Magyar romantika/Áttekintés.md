@@ -72,6 +72,16 @@
 		- túlzások
 			- "A vad tatár khán xerxesi tábora"
 				- ezt is túléltük
-			- eredeztetés is
-				- hunyadi, mátyás, istván, attila
-			- 
+			- eredeztetés is - hunyadi, mátyás, istván, attila
+		- a II. inkább figyelmeztetés
+			- "Ébreszd fel alvó nemzeti lelkedet!"
+## Kölcsey Ferenc (1790-1838)
+- Parainesis Kölcsey Kálmánhoz
+	- prózai
+	- intelem
+		- (királytükör régen)
+		- pl Szent István
+		- pl Bíborbanszületett Konstantin
+	- unokaöccséhez, akinek átveszi a nevelését (apja korán meghalt)
+- Huszt
+- Himnusz
