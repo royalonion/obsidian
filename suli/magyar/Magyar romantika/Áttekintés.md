@@ -85,3 +85,11 @@
 	- unokaöccséhez, akinek átveszi a nevelését (apja korán meghalt)
 - Huszt
 - Himnusz
+	- áldástól a szánásig
+		- múlt
+			- régmúlt dicsősége
+			- közelmúlt és jelen bűnei
+		- haza = anya, nép = gyermek
+- Zrínyi dala
+	- képiségben erőteljes, láttat
+	- 
