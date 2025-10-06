@@ -96,3 +96,29 @@
 		- mert író
 	- érdeklődik, hogy hol vannak a dicső magyarok
 - Zrínyi második éneke
+## Vörösmarty Mihály (1800-1855)
+- Zalán futása - nemzeti eposz
+	- Aeneis - Vergilius (ősmitológia, őstörténet)
+	- nehezen olvasható (még a korszakban is) - archaizált
+	- jelképesen a magyar romantika kezdetét jelöli
+	- 30-as évek
+	- Csajághy Laura
+		- ***gatya*** szerelmi lírák
+- hazafias líra
+	- Szózat (1836)
+		- a Hymnus után
+		- dicső múlt
+		- szélsőséges helyzet, a rosszba visszaesünk
+		- nem ír erkölcsi romlásról
+		- hasonlít A magyarokhoz II.-re
+		- nemzethalál-vízió, sír a Kárpát-medence
+			- Herderi-jóslat
+		- **HÁZI:** Keret oka; Kiss Judit Ágnes - Szó
+- gondolati/filozófiai líra
+	- KÖNYV motívuma
+		- Gondolatok a könyvtárban
+		- A Guttenberg-albumba
+	- emberiség sorskérdéseinek apokaliptikus víziói
+		- Az emberek (1846)
+		- Előszó (1851)
+		- A vén cigány (1854)
