@@ -145,5 +145,6 @@
 	- Tót atyafiak (novelláskötet)
 		- Az a fekete folt
 		- Lapaj, a híres dudás
+### [[Áttekintés|A magyar romantika áttekinője]]
 ---
 # [[Klasszikus modernség - 19. század végétől a 20. század elejéig]]
