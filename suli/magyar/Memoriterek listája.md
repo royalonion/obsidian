@@ -882,14 +882,13 @@ A padlásgerendát kezdte nézni sorban.
 
 # Pajzán Toldi
 ## Előhang  
-  
 Egy krónikás írja, mit szemével látott:  
 Jókedvében egyszer hét megyét meghágott…  
 Malomkövet zúz szét iszonyú dorongja,  
 Melynek dajna álom szederjes korongja.  
   
   
-I.  
+## I.  
 Ég a napmelegtől a kopár sík szarja,  
 Redves faszát Toldi biz’ igen vakarja.  
 Mérges bögöly legyek csípik ahol érik,  
@@ -910,7 +909,7 @@ Bár hatalmas tökét talicskán kell tolni.
 Most csak únva nézi hatalmas nagy lőcsét,  
 Egyensúlyoz rajta három köteg rőzsét.  
   
-Vele ő az ipart _en gros-_ban űzi,  
+Vele ő az ipart en gros-ban űzi,  
 Reája a nőket tucatjával fűzi.  
 Amint vakaródzik, s a semmibe réved,  
 Lát felé ügetni nyalka hadfi népet.  
@@ -938,11 +937,9 @@ Látja testvéröccse duzzadó kellékét.
 Búsan üldögél hát, kocsányon lóg pöcse,  
 Mikor arra sétál taligával öccse.  
 Gondolata támad, mely aljas és kajla:  
-„Majd elintéz téged a királyi szajha!”  
-  
-  
-II.  
-  
+„Majd elintéz téged a királyi szajha!”
+
+## II.
 Föl van lobogózva ős Budavár tornya,  
 Harmadnapja áll ott bősz lovagi torna:  
 Merthogy Lajos király nemi kedve fogyó,  
@@ -1610,5 +1607,5 @@ Ki tovább ordítva szaladt fel egy fára.
   
 Lett is riadalom, menekült mindenki,  
 Mert ilyen csodáról nem hallott még senki:  
-Áll, mint egy intő jel, Toldi Miklós fasza.  
-AMÍG VAN MAGYAR FASZ, ADDIG ÉL A HAZA!
+**Áll, mint egy intő jel, Toldi Miklós fasza.  
+AMÍG VAN MAGYAR FASZ, ADDIG ÉL A HAZA!**
