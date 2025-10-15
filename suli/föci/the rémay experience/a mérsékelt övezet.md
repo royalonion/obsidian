@@ -7,3 +7,6 @@
 ## szubtrópusi monszun terület
 - keleti oldalon
 - monszunszelek (nyomáskülönbség)
+- nyáron árvizek
+- jellemző a csapadék
+- aprózódás, mállás jellemző
