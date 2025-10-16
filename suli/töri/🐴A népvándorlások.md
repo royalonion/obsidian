@@ -40,3 +40,4 @@
 		- Noé fiai?
 			- EGYSZERRE VAGYUNK NOÉ FIAINAK, ODÜSSZEUSZNAK, MEG NAGY SÁNDORNAK A FIAI MIAFAAAAAAASZ
 				- (Sanyi? hmmm)
+# középkori királyságok, meg hasonlók
