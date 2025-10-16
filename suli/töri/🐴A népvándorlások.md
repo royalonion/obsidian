@@ -41,3 +41,6 @@
 			- EGYSZERRE VAGYUNK NOÉ FIAINAK, ODÜSSZEUSZNAK, MEG NAGY SÁNDORNAK A FIAI MIAFAAAAAAASZ
 				- (Sanyi? hmmm)
 # középkori királyságok, meg hasonlók
+- ha az ellenséged Arianus, akkor te nem leszel az (talán)
+- birodalom építése (a frank Augustus)
+	- Róma (új, mert egy már volt)
