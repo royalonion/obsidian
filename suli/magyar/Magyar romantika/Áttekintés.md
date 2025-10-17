@@ -1,4 +1,4 @@
-#töri #magyar #reformkor
+#töri #magyar #romantika
 # Történelmi háttér
 ## 19. sz első fele
 - nincs önálló nemzetállam (nacionalizmus)
@@ -11,7 +11,7 @@
 			- fő-, közép- és kisnemesség
 			- fő- és alsópapság
 			- városi polgár
-## reformkor 1825-1848 (Széchenyi István felajánlásától a forradalomig)
+## reformkor 1825-1848 (Széchenyi István felajánlásától a forradalomig, Haynauig)
 - a kora legnagyobb földbirtokosa
 - felajánlja birtoka 1 évi jövedelmét egy tudományos társaság létrehozására -> MTA
 - forradalom - 1848-as áprilisi törvények szentesítése - alkotmányos polgári állam
@@ -43,6 +43,37 @@
 		- politika miatt váltják le
 		- angol ok felismerik egy kocsmában, és megverik
 		- magyar birtokon éli le az életét
+## 1851-1860 Bach-korszak (Alexander Bach osztrák belügyminiszter)
+- a magyar autonómia csökkentésére való törekvés
+	- vármegye helyett körzetek
+		- aktív ellenállás
+			- gerilla-csoportok
+			- emigrációs szervezkedés
+		- passzív ellenállás
+			- Deák Ferenc (vezéralakja)
+			- ne vállaljunk hivatalt
+## 1860 - októberi diploma & 1861 - februári pátens
+- túl kevés engedmény
+- a magyar országgyűlés nem fogadja el
+	- elutasítás módja *(spoiler: feliratban utasítják el)*
+		- Határozati Párt - határozati elutasítás
+			- nem ismeri el Ferenc Józsefet legitim uralkodónak
+		- Felirati Párt - felirati elutasítás
+			- elismeri Ferenc Józsefet legitim uralkodónak
+			- Deák Ferenc
+		- 1861 Teleki László öngyilkos lesz (?)
+			- a magyar kriminalisztika kezdete
+			- Deáknak nincs ehhez köze
+## provizórium - átmeneti időszak
+## kiegyezés közvetlen előzményei
+### 1865 - húsvéti cikk - **Pragmatica Sanctio (1723)** alapján újraszerveződhet az ország
+- a Habsburg trón női ágra is öröklődhet
+- az ország egy és oszthatatlan
+- az ország újraszerveződhet
+	- Mo. lemond a teljes autonómiáról
+### 1866 - Könnigrätz
+- a poroszok legyőzik a Habsburgokat
+	- elvesztik a területük egy részét
 # Korstílus: a romantika stílusjegyei
 - csalódás a felvilágosodás, az ész uralmában, sikerében (francia forradalom, Napóleon)
 	- véres jakobinus diktatúra
