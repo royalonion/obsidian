@@ -47,4 +47,13 @@
 - Rómát lejáratja - de ők tökéletesek
 	- először legitimálja magát (Konstantinápoly barátja)
 	- utána szidja Rómát (keresztényüldözések)
+## államtípusok
+1. patrimoniális állam
+	- a király magántulajdona az ország - azt csinál vele, amit akar
+	- ő a földesúr - nem kell adózni
+	- mozgó udvar - termések felélése
+		- nincs főváros
+		- pl Mo. az Árpád-korban
+		- szállás az egyház
+	- személyes ügyintézés - nem kell hivatal
 	- 
