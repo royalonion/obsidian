@@ -56,4 +56,5 @@
 		- pl Mo. az Árpád-korban
 		- szállás az egyház
 	- személyes ügyintézés - nem kell hivatal
+		- rendeletek
 	- 
