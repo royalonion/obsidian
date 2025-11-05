@@ -22,7 +22,7 @@
 	- synced folder
 	- github.com/royalonion/obsidian
 	- ghp_
-	- HPLCsr7b0HYZEpNgcyJ8YMdIXg5YLR48dlS1
+	- tTZft0gFlCOpFaVYj2G8AUDgqxq1e946S7SS
 	- {{hostname}} commit @ {{date}}
 - homepage
 	- [[👋Welcome page]]
