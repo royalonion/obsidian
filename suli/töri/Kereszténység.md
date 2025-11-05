@@ -106,11 +106,11 @@
 	- püspök
 		- felügyelő
 	- pater patriae
-		- 
+		- mittomén
 	- pontifex maximus
-		- 
+		- régen volt már
 	- pátriarka
-		- 
+		- erre sem emlékszem
 - liturgia - liturgikus tér
 	- katakomba
 		- temetkezési hely -> gyülekezési hely
