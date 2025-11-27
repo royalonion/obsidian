@@ -57,4 +57,12 @@
 		- szállás az egyház
 	- személyes ügyintézés - nem kell hivatal
 		- rendeletek
+# mittomén
+> kisbirtok, nagybirtok, a herberrel nem birtok
+- törvények
+	- betartatni a földesúrnak lehet (ő a bíró) - úriszék
+- banalitás (?)
+- paraszti életritmus
+	- időjáráshoz, mezőgazdálkodáshoz, napszakokhoz igazodik
+	- nincs houra
 	- 
