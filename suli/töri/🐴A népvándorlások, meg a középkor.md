@@ -65,4 +65,6 @@
 - paraszti életritmus
 	- időjáráshoz, mezőgazdálkodáshoz, napszakokhoz igazodik
 	- nincs houra
-	- 
+# 3 jelentős invázió európa ellen
+- magyar, viking, szaracén (arabok észak-afrikából)
+- integráció - a megtámadott közösségek egymással
