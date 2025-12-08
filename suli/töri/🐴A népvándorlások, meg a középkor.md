@@ -68,3 +68,8 @@
 # 3 jelentős invázió európa ellen
 - magyar, viking, szaracén (arabok észak-afrikából)
 - integráció - a megtámadott közösségek egymással
+# közepes kor
+- normandia - norman hercegek angol vezetők
+	- a franciák hűbéresei
+	- első: Fattyú/Hódító Vilmos
+- a horvátok is pápai hűbéresek vagy mik
