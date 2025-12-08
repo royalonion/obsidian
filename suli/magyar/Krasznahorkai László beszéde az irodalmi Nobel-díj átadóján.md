@@ -1,4 +1,5 @@
 >tehát Krasznahorkai-i
+# Első
 - zongorajáték
 - angyalokról beszél a remény helyett, nála éppen kifogyott
 - járkál körbe-körbe (gondolatban), az angyalokról gondolkodik
@@ -10,6 +11,7 @@
 	- magasan van a szobája
 	- olcsó lucfenyőből van
 	- szinte fűthetetlen
+	- lejt a lelkem, lejt a 
 - többször elmondja, nem remény, hanem angyalok, nem régi, hanem új
 	- "ángelológia"
 - a szó jelentősége
@@ -29,3 +31,6 @@
 	- hiába találkozunk velük, nem kapunk tőlük semmit
 	- keresik a tekintetünket, tőlünk kérnek üzenetet, de nekünk semmink nincs
 - mi nem értjük
+---
+# Második Első
+- 
