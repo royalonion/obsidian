@@ -8,8 +8,19 @@
 - régi angyalokról az újakra tér át
 - dolgozószobája lejtő miatt magasra épült
 	- magasan van a szobája
+	- olcsó lucfenyőből van
+	- szinte fűthetetlen
 - többször elmondja, nem remény, hanem angyalok, nem régi, hanem új
 	- "ángelológia"
 - a szó jelentősége
 - a régiek az üzenetek
+- körkörös kézmozdulat
+	- Giotto-tól, Giottó-ig
+	- vissza ugyanabba a sarokba
+	- körbe-körbe járna, a régi angyalokról beszélve
+- az új angyalok szárny nélkül, utcai ruhákban vannak
+	- nem tudjuk a számukat, de megvannak mindannyian
+	- nem tudjuk az eredetüket
+- lehet, hogy nincs odafent, csak a valaholban
+- Elon Musk beef
 - 
