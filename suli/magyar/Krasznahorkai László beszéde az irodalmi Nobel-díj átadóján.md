@@ -1,5 +1,5 @@
 >tehát Krasznahorkai-i
-# Első
+# Első - az angyalok
 - zongorajáték
 - angyalokról beszél a remény helyett, nála éppen kifogyott
 - járkál körbe-körbe (gondolatban), az angyalokról gondolkodik
@@ -11,7 +11,7 @@
 	- magasan van a szobája
 	- olcsó lucfenyőből van
 	- szinte fűthetetlen
-	- lejt a lelkem, lejt a 
+	- lejt a lelkem, lejt a telkem
 - többször elmondja, nem remény, hanem angyalok, nem régi, hanem új
 	- "ángelológia"
 - a szó jelentősége
@@ -32,5 +32,22 @@
 	- keresik a tekintetünket, tőlünk kérnek üzenetet, de nekünk semmink nincs
 - mi nem értjük
 ---
-# Második Első
+# Második Első - az emberi méltóság
+- az emberi fejlődés - hatalom
+	- felfedezések
+	- evolúció
+	- a kihalás ellen
+	- habilis, erectus
+	- beszéd
+	- írás
+	- filózás
+	- idő
+	- istenképek bukása
+	- nemek, szerelem
+	- repülés, űr
+	- fegyverek
+	- hit teljes elvesztése
+	- rövidtávú memória
+	- nincs erkölcs
+# Harmadik Első - lázadás
 - 
