@@ -23,4 +23,9 @@
 	- nem tudjuk az eredetüket
 - lehet, hogy nincs odafent, csak a valaholban
 - Elon Musk beef
-- 
+- más léptéket kívánnak az új angyalok
+	- gyorsabb
+- nincs se szárnyuk, se üzenetük
+	- hiába találkozunk velük, nem kapunk tőlük semmit
+	- keresik a tekintetünket, tőlünk kérnek üzenetet, de nekünk semmink nincs
+	- 
