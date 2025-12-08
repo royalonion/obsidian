@@ -73,3 +73,4 @@
 	- a franciák hűbéresei
 	- első: Fattyú/Hódító Vilmos
 - a horvátok is pápai hűbéresek vagy mikn nigga
+- a svéd, aki nem megy haza: **rusz**in-szendi romolusz
