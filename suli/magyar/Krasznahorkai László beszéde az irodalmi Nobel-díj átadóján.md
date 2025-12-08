@@ -50,4 +50,5 @@
 	- rövidtávú memória
 	- nincs erkölcs
 # Harmadik Első - lázadás
-- 
+- A Sion-hegy alatt
+	- Kemény István: Remény
