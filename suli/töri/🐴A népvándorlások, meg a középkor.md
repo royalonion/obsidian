@@ -64,7 +64,7 @@
 - banalitás (?)
 - paraszti életritmus
 	- időjáráshoz, mezőgazdálkodáshoz, napszakokhoz igazodik
-	- nincs houra
+	- nincs hourai
 # 3 jelentős invázió európa ellen
 - magyar, viking, szaracén (arabok észak-afrikából)
 - integráció - a megtámadott közösségek egymással
@@ -72,4 +72,4 @@
 - normandia - norman hercegek angol vezetők
 	- a franciák hűbéresei
 	- első: Fattyú/Hódító Vilmos
-- a horvátok is pápai hűbéresek vagy mik
+- a horvátok is pápai hűbéresek vagy mikn nigga
