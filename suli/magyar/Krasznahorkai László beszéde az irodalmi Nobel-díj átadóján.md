@@ -1,6 +1,6 @@
 >tehát Krasznahorkai-i
 - zongorajáték
-- angyalokról beszél a remény helyett
+- angyalokról beszél a remény helyett, nála éppen kifogyott
 - járkál körbe-körbe (gondolatban), az angyalokról gondolkodik
 - a szárnyukról beszél
 	- betakar
