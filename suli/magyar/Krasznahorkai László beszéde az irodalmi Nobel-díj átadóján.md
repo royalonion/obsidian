@@ -28,4 +28,4 @@
 - nincs se szárnyuk, se üzenetük
 	- hiába találkozunk velük, nem kapunk tőlük semmit
 	- keresik a tekintetünket, tőlünk kérnek üzenetet, de nekünk semmink nincs
-	- 
+- mi nem értjü
