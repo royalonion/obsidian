@@ -1,0 +1,15 @@
+>tehát Krasznahorkai-i
+- zongorajáték
+- angyalokról beszél a remény helyett
+- járkál körbe-körbe (gondolatban), az angyalokról gondolkodik
+- a szárnyukról beszél
+	- betakar
+	- hol teszik ki?
+- régi angyalokról az újakra tér át
+- dolgozószobája lejtő miatt magasra épült
+	- magasan van a szobája
+- többször elmondja, nem remény, hanem angyalok, nem régi, hanem új
+	- "ángelológia"
+- a szó jelentősége
+- a régiek az üzenetek
+- 
