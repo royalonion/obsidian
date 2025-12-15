@@ -55,3 +55,4 @@
 - clochard (klosár)
 - a metró - s-bahn (a szöveg szerint u-bahn)
 - beszél a tükörről, a lámpáról - kiegészítő elemek
+- 
