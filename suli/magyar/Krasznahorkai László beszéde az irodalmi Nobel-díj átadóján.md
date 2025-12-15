@@ -49,6 +49,9 @@
 	- hit teljes elvesztése
 	- rövidtávú memória
 	- nincs erkölcs
+---
 # Harmadik Első - lázadás
-- A Sion-hegy alatt
-	- Kemény István: Remény
+(A Sion-hegy alatt, Kemény István: Remény)
+- clochard (klosár)
+- a metró - s-bahn (a szöveg szerint u-bahn)
+- beszél a tükörről, a lámpáról - kiegészítő elemek
