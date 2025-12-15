@@ -52,7 +52,14 @@
 ---
 # Harmadik Első - lázadás
 (A Sion-hegy alatt, Kemény István: Remény)
-- clochard (klosár)
+- clochard (klosár) - hajléktalan
 - a metró - s-bahn (a szöveg szerint u-bahn)
 - beszél a tükörről, a lámpáról - kiegészítő elemek
+- felfestett vonal, tilos átlépni
+- vonal mögött clochard
+- vizelni próbál, de nem megy neki
+- rendőr érkezik, utasok rémültek, megbotránkozottak
+- állomás olyan, mint a pillangó - felül lehet átjutni a peronok között
+- rendőr felül át, clochard látja
+- tovább vizel
 - 
