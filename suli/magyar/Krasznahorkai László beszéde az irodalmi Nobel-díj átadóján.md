@@ -70,3 +70,6 @@
 - rendőr fut
 - 10m
 - le akar ugrani
+- köteles jó és rossz harca
+- a jó soha nem éri el a gonoszt
+- 
