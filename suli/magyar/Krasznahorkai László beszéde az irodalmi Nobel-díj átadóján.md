@@ -62,4 +62,11 @@
 - állomás olyan, mint a pillangó - felül lehet átjutni a peronok között
 - rendőr felül át, clochard látja
 - tovább vizel
-- 
+- a rendőr közeledik
+- a clochard próbál menekülni, de nem túl gyors
+- 10m
+- sietni próbál
+- 10m
+- rendőr fut
+- 10m
+- le akar ugrani
