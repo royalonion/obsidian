@@ -23,18 +23,20 @@
 	- villás nyelv - szaglás (zsákmányszerzés)
 		- Jacobson-szervbe juttatja az információt
 - vedlés
-	- élénkebb a bőr utána§
+	- élénkebb a bőr utána
 - MO
 	- keresztes, rákosi vipera - álelevenszülők - tojás a petevezetőben marad, védelem gyanánt
 		- nem alakul ki anyagcsere-kapcsolat
-- erdei sikló
-	- fás környezetben él
-	- 120-200cm
-	- nappali életmód
-- vízi sikló
-	- vízhez kötött, de nem 100%ig
-	- nappali életmód
-	- kisebb, mint 120cm
+- siklók
+	- nem mérges
+	- erdei sikló
+		- fás környezetben él
+		- 120-200cm
+		- nappali életmód
+	- vízi sikló
+		- vízhez kötött, de nem 100%ig
+		- nappali életmód
+		- kisebb, mint 120cm
 # krokodilok - Luca
 - legnagyobb, legfejlettebb hüllők
 - gyökeres fogazat - megragadja, széttépi táplálékát
