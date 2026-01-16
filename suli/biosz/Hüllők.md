@@ -53,4 +53,5 @@
 # kaméleonok - Miki
 - irharéteg pigmentekben gazdag - szín változtatása (rejtőzködés, párzási folyamatok)
 - két szemét másfelé tudja mozgatni - táplálkozás, védelem
+- nyitott 
 # +dínók
