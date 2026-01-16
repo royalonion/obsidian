@@ -55,4 +55,7 @@
 - két szemét másfelé tudja mozgatni - táplálkozás, védelem
 - nyitott szájjal figyelmeztetik a támadókat a veszélyre - nagyobbnak mutatják magukat oldalirányból (védekező testtartás)
 - trópusi, szubtrópusi helyeken találhatóak
+- farok 2xerese a nyelv
+	- rugalmas
+	- 0,07mp alatt nyeli le a rovart
 # +dínók
