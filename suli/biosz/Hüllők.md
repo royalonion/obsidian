@@ -53,5 +53,6 @@
 # kaméleonok - Miki
 - irharéteg pigmentekben gazdag - szín változtatása (rejtőzködés, párzási folyamatok)
 - két szemét másfelé tudja mozgatni - táplálkozás, védelem
-- nyitott 
+- nyitott szájjal figyelmeztetik a támadókat a veszélyre - nagyobbnak mutatják magukat oldalirányból (védekező testtartás)
+- trópusi, szubtrópusi helyeken találhatóak
 # +dínók
