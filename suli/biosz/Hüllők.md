@@ -2,11 +2,18 @@
 - meleg élőhely
 	- gyors mozgás
 	- territorialitás
-		- olyan területek, ahol sok a napfény, táplálkozó hely
+		- olyan területek, ahol sok a napfény, táplálkozó hely - erőforrásokban gazdag
 - szarupikkely borítja a testüket - pigmentekben gazdag
 	- rejtőzködés - beolvad a környezetébe
 	- szaporodás - felhívja magára a figyelmet
 - farkát eldobja, ha veszélyben érzi magát
+- kommunikáció
+	- testtartás
+	- test felfújása
+	- fekvő támasz
+	- élénk színek
+	- tátott száj
+	- farokcsóválás
 # kígyók - Husi
 - 2400 faj létezik
 - alsó és felső szemhéj összenőtt, átlátszóvá vált - nem pislognak (sok könnymirigy)
