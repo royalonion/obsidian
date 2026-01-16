@@ -45,7 +45,11 @@
 - környezet hőmérséklete határozza meg, hogy nőstény (<30°), vagy hím (>30°)
 - 4üregű szív
 - hatékonyabb keringési rendszer
-- szem, orr, fül fej felett helyezkedik el - 
+- szem, orr, fül fej felett helyezkedik el - álcázás
+- étrend
+	- nagyobb emlősök is
+	- halak
+	- szárazföldi állatok
 # kaméleonok - Miki
 - irharéteg pigmentekben gazdag - szín változtatása (rejtőzködés, párzási folyamatok)
 - két szemét másfelé tudja mozgatni - táplálkozás, védelem
