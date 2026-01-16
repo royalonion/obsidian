@@ -43,6 +43,9 @@
 - vízi környezetben él (trópusokon)
 - meszes héjú tojás - keményebb
 - környezet hőmérséklete határozza meg, hogy nőstény (<30°), vagy hím (>30°)
+- 4üregű szív
+- hatékonyabb keringési rendszer
+- szem, orr, fül fej felett helyezkedik el - 
 # kaméleonok - Miki
 - irharéteg pigmentekben gazdag - szín változtatása (rejtőzködés, párzási folyamatok)
 - két szemét másfelé tudja mozgatni - táplálkozás, védelem
