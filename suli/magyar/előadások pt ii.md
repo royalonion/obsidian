@@ -1,0 +1,52 @@
+# Kosztolányi (1885. március 29. - 1936. november 3.)
+## életútja
+- Szabadkán született
+	- Kosztolányi Árpád
+	- Brenner Eulália
+- kicsapják
+- 1903 megismerkedik Babitssal, Juhász Gyulával
+- ELTE
+- 1904-ben átiratkozik a bécsi egyetemre, de egy év után hazamegy
+- ott újságíró
+- 1906-ban megjelenik a Négy fal között (verseskötet)
+	- melankolikusabb hangvételű mű
+- 1907-ben (1908. jan. 1. első sz.) Nyugat alapítása
+- 1910. A szegény kisgyermek panaszai (verseskötet)
+	- érvényesül a gyermeki nézőpont
+	- vers/versciklus/versfüzér/verseskötet
+	- kisgyerekként mit gondolt az életről
+- 1913. Harmos Ilonát feleségül veszi
+	- ő is ír
+	- ő is szabadkai
+- 1914-18 háborúról tudósít
+- 1920-29 "csúcskorszaka"
+	- 1922. Nero, a véres költő
+		- nem császárnak született
+		- Nero-story
+			- Alkotói válság - tetehtség, csak nem tudja kibontakoztatni
+	- 1924. Pacsirta
+		- Pacsirta a vénkisasszony (30+)
+		- csúnya
+		- a gyerek nélkül boldogak
+	- 1925. Aranysárkány
+		- Hilda
+		- Novák Antal (nevelőapja)
+			- kiváló tanárnak hiszi magát, de borzasztó hülye - szadizza a diákjait
+			- érettségi környékén diákjai megverik
+			- diákja megszökteti Hildát
+		- meghalt anyját látja Hildában
+		- Novák Antal apai és tanári kudarca
+		- ingerszegény kisvárosban a diákok nagyon elkeseredettek, az érettségi nem ad semmit
+	- 1926. Édes Anna
+		- a tökéletes cseléd gondolata (feleségétől jön az ötlet)
+			- nem lenne mégsem jó
+		- a Vizy család szolgálójaként újraéleszti a háztartást
+		- történelmi regény/cselédregény/detektívregény/lélektani regény/kangörcsregény
+		- Resonair - Moviszter Miklós
+		- 
+- 1915. fiuk, Kosztolányi Ádám
+- 1930-as években betegeskedik, valószínűleg gégerák, 34-ben diagnosztizálják
+- 1933. Esti Kornél, de már rég írja
+	- novellák összefoglaló kötete
+	- narrátor/elbeszélő/főszereplő
+- 1936. november 3. meghal
