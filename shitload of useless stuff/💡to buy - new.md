@@ -7,9 +7,9 @@
 # game
 ## console
 - DSi *ebay*
-- P
+- PSP *ebay*
 ## video game
-- Sea of Thieves (2025?)
+- Sea of Thieves (2025?) *GoG/Eneba*
 # photography
 - lumix battery
 - canon lens
