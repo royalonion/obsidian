@@ -79,4 +79,3 @@
 - HB
 - Krasznahorkai László
 - [Nobel Prize Outreach](https://www.nobelprize.org/prizes/literature/2025/krasznahorkai/1751702-lecture-hungarian/)
-- 
