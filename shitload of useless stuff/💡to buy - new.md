@@ -5,4 +5,5 @@
 ## console
 ## video game
 # photography
-- lumia battery
+- lumix battery
+- canon lens
