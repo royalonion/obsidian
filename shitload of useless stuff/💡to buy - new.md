@@ -11,11 +11,11 @@
 ## video game
 - Sea of Thieves (2025?) - *GoG/Eneba*
 # photography
-- lumix battery - *aliexpress*
-- canon lens - *ebay/fbmp/jófogás*
+- lumix battery (CGA-S007E) - *aliexpress*
+- canon lens (18-55?) - *ebay/fbmp/jófogás*
 # notes
-- remarkable 2 - *official site*
+- remarkable 2 (with marker plus) - *official site*
 # laptop
-- m1 macbook air - *ebay*
+- m1 macbook air (black/grey) - *ebay*
 # phone
-- iphone 17 - *apple/local store*
+- iphone 17 (green/blue) - *apple/local store*
