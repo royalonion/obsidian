@@ -3,13 +3,11 @@
 - cassette deck part
 ## aliexpress
 - camera battery - cga-S007E
-- phone battery - c5-00 - bl-5ct
 ---
 # midrange
 ## aliexpress
 - 7 inch display
 ## local shop
-- raspberry pi 5 4gb ram
 - zigbee adapter
 ## ebay
 - walkman
