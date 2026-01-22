@@ -10,4 +10,7 @@
 	- kivétel Mo-n, Gül Baba Türbéje felé is lehet
 - imám - az előimádkozó
 	- minbar - ezen ül
+	- rangok is vannak
+		- kalifa a legnagyobb cím
+- 
 ![[Pasted image 20260122082722.png]]
