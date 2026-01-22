@@ -7,7 +7,7 @@
 # game
 ## console
 - DSi - *ebay*
-- PSP - *ebay*
+- PSP  - *ebay*
 ## video game
 - Sea of Thieves (2025?) - *GoG/Eneba*
 # photography
