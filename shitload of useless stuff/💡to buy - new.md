@@ -13,6 +13,7 @@
 # photography
 - lumix battery (CGA-S007E) - *aliexpress*
 - canon lens (18-55?) - *ebay/fbmp/jófogás*
+- camcorder *ebay*
 # notes
 - remarkable 2 (with marker plus) - *official site*
 # laptop
