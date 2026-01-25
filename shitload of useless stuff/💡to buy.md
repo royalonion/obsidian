@@ -6,8 +6,8 @@
 - zigbee adapter(s) - *local seller/aliexpress*
 # game
 ## console
-- DSi - *ebay*
 - PSP  - *ebay*
+- DSi - *ebay*
 - Wii - *ebay*
 ## video game
 - Sea of Thieves (2025?) - *GoG/Eneba*
