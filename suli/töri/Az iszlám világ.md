@@ -17,5 +17,6 @@
 # zarándoklat (hadzs)
 - Mekkába, a Kába-kőhöz
 - Mohamed "futása" emléke
-- 
+# böjt (szaum)
+- ramadán - egy hónap
 ![[Pasted image 20260122082722.png]]
