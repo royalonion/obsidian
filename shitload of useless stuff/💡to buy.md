@@ -3,7 +3,7 @@
 - [ipod nano top part](https://eoe.works/collections/apple-ipod-nano-2nd-generation-replacement-parts/products/original-black-plastic-lock-switch-bezel-for-apple-ipod-nano-2nd-generation-a1199-8gb) - *eoe*
 - [universal ipod dock](https://www.ebay.com/sch/i.html?_nkw=ipod+dock&_sacat=0&_from=R40&_trksid=m570.l1313) - *ebay*
 # homelab
-- 7-inch HDMI display - *aliexpress*
+- [7-inch HDMI display](https://www.aliexpress.com/w/wholesale-hdmi-7-inch-display.html) - *aliexpress*
 - zigbee adapter(s) - *local seller/aliexpress*
 # game
 ## console
