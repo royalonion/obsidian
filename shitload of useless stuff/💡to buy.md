@@ -4,7 +4,7 @@
 - [universal ipod dock](https://www.ebay.com/sch/i.html?_nkw=ipod+dock&_sacat=0&_from=R40&_trksid=m570.l1313) - *ebay*
 # homelab
 - [7-inch HDMI display](https://www.aliexpress.com/w/wholesale-hdmi-7-inch-display.html) - *aliexpress*
-- zigbee adapter(s) - *local seller/aliexpress*
+- [sonoff zigbee adapter(s)](https://okosotthon.bolt.hu/webaruhaz/termek/sonoff-dongle-light-lmg21/) - *local seller/aliexpress*
 # game
 ## console
 - PSP  - *ebay*
@@ -17,8 +17,8 @@
 - canon lens (18-55?) - *ebay/fbmp/jófogás*
 - camcorder *ebay*
 # notes
-- remarkable 2 (with marker plus) - *official site*
+- [remarkable 2 (with marker plus)](https://remarkable.com/shop/refurbished/remarkable-2) - *official site*
 # laptop
 - m1 macbook air (black/grey) - *ebay*
 # phone
-- iphone 17 (green/blue) - *apple/local store*
+- [iphone 17 (green/blue)](https://www.arukereso.hu/mobiltelefon-c3277/apple/iphone-17-256gb-p1236918133/) - *apple/local store*
