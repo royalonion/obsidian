@@ -1,5 +1,6 @@
 # music
 - cassette deck gear - *custom site*
+- ipod nano top part - *eoe*
 - universal ipod dock - *ebay*
 # homelab
 - 7-inch HDMI display - *aliexpress*
