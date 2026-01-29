@@ -11,9 +11,9 @@
 - DSi - *ebay*
 - Wii - *ebay*
 ## video game
-- Sea of Thieves (2025?) - *GoG/Eneba*
+- Sea of Thieves (2025?) - *G2A/Eneba*
 # photography
-- lumix battery (CGA-S007E) - *aliexpress*
+- [lumix battery (CGA-S007E)](https://www.aliexpress.com/w/wholesale-CGA%2525252dS007E.html?spm=a2g0o.home.search.0) - *aliexpress*
 - canon lens (18-55?) - *ebay/fbmp/jófogás*
 - camcorder *ebay*
 # notes
