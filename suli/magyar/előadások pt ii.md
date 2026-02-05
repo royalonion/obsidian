@@ -1,4 +1,4 @@
-* 1885. március 29. - 1936. november 3. *
+*1885. március 29. - 1936. november 3.*
 # életútja
 - Szabadkán született
 	- Kosztolányi Árpád
