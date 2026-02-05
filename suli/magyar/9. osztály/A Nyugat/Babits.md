@@ -1,5 +1,10 @@
 # *vele foglalkozunk, ezért csak nagyvonalakban*
 
+# lényeges infók
+## poeta doctus
+## szexárd
+## gégerákban meghal
+
 # fontos művei
 ## Levelek Irisz koszorújából
 - novellafüzér
@@ -12,6 +17,7 @@
 ## külön
 - Balázsolás
 - Húsvét előtt
+- Fortissimo
 ## Jónás-story
 - Jónás könyve
 - Jónás imája
