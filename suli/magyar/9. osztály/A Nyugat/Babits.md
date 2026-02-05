@@ -4,7 +4,14 @@
 ## Levelek Irisz koszorújából
 - novellafüzér
 - In Horatium
-- első vers
+ - első vers
 - A lírikus epilógja
-- utolsó vers
-## Balázsolás
+ - utolsó vers
+- Messze, messze...
+- Fekete ország
+## külön
+- Balázsolás
+- Húsvét előtt
+## Jónás-story
+- Jónás könyve
+- Jónás imája
