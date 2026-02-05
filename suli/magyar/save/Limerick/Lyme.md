@@ -1,0 +1,6 @@
+#magyar #limerick
+There once was an old man of Lyme,
+Who married three wives at a time;
+When asked "Why a third?'"
+He replied, "One's absurd!
+And bigamy, sir, is a crime."
