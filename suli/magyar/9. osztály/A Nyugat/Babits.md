@@ -3,8 +3,8 @@
 # fontos művei
 ## Levelek Irisz koszorújából
 - novellafüzér
-### In Horatium
+- In Horatium
 - első vers
-### A lírikus epilógja
+- A lírikus epilógja
 - utolsó vers
 ## Balázsolás
