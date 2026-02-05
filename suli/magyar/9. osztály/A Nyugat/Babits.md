@@ -1,9 +1,10 @@
-# *vele foglalkozunk, ezért csak nagyvonalakban*
+*1883. november 26-1941. augusztus 4.*
 
 # lényeges infók
 ## poeta doctus
 ## szexárd
 ## gégerákban meghal
+## Tanner Ilona - Török Sophie
 
 # fontos művei
 ## Levelek Irisz koszorújából
@@ -21,3 +22,5 @@
 ## Jónás-story
 - Jónás könyve
 - Jónás imája
+
+*vele foglalkozunk, ezért csak nagyvonalakban*
