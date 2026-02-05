@@ -1,6 +1,6 @@
 *1883. november 26-1941. augusztus 4.*
 
-# lényeges infók
+# lényegtelen infók
 ## poeta doctus
 ## szexárd
 ## gégerákban meghal
