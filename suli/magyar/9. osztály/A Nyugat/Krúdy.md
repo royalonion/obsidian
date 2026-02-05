@@ -2,3 +2,7 @@
 
 # lényegtelen infók
 - törvénytelen gyerek
+
+# Szindbád
+- alteregó
+- Tájékoztatás, Ifjú évek stb
