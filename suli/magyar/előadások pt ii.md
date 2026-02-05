@@ -1,5 +1,5 @@
-# Kosztolányi (1885. március 29. - 1936. november 3.)
-## életútja
+* 1885. március 29. - 1936. november 3. *
+# életútja
 - Szabadkán született
 	- Kosztolányi Árpád
 	- Brenner Eulália
