@@ -2,7 +2,7 @@
 
 # lényegtelen infók
 - törvénytelen gyerek
-
+- Krúdy Gyula
 # Szindbád
 - alteregó
 - Tájékoztatás, Ifjú évek stb
