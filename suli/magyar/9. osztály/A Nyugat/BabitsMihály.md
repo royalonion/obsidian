@@ -2,17 +2,21 @@
 
 # lényegtelen infók
 ## poeta doctus
+- a tudomány doktora
 ## szexárd
+- Szekszárdon születtem, színésznőt szerettem - Karinthy
 ## gégerákban meghal
+- Balázsolás
+- Jónás imája
 ## Tanner Ilona - Török Sophie
-
+- múzsája
 # fontos művei
 ## Levelek Irisz koszorújából
 - novellafüzér
 - In Horatium
- - első vers
+	- első vers
 - A lírikus epilógja
- - utolsó vers
+	- utolsó vers
 - Messze, messze...
 - Fekete ország
 ## külön
