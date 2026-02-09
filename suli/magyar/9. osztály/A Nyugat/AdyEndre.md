@@ -7,3 +7,4 @@
 - második múzsája Boncza Berta - Csinszka
 	- feleségül veszi
 	- meghal spanyolnáthában
+- 

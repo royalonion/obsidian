@@ -19,4 +19,9 @@
 - Mohamed "futása" emléke
 # böjt (szaum)
 - ramadán - egy hónap
+# irányzatok
+## szunniták
+- nem irán
+## sííták
+- Irán
 ![[Pasted image 20260122082722.png]]
