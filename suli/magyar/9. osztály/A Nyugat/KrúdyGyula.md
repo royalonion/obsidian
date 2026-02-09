@@ -3,7 +3,6 @@
 - törvénytelen gyerek
 - id. Krúdy Gyula, Krúdy Ilona
 	- eleinte törvénytelen gyerek volt (?)
-- 
 # Szindbád
 - irodalmi alteregó
 ## művek
