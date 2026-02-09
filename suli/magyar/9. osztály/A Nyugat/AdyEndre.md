@@ -13,4 +13,12 @@
 - 6 ujjal született
 - spanyolnátha
 # fontosabb művei
-- 
+## Új versek-kötet
+- Lédának ajánlva
+- Góg és Magóg fia vagyok én (vezérvers)
+---
+-  A Hortobágy poétája
+- A magyar Ugaron
+- Az én menyasszonyom
+- Héja-nász az avaron
+- Új vizeken járok
