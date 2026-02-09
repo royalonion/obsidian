@@ -1,4 +1,4 @@
-*1883. november 26-1941. augusztus 4.*
+*1883. november 26. - 1941. augusztus 4.*
 
 # lényegtelen infók
 ## poeta doctus
