@@ -2,6 +2,8 @@
 # lényegtelen infók
 - törvénytelen gyerek
 - id. Krúdy Gyula, Krúdy Ilona
+	- eleinte törvénytelen gyerek volt (?)
+- 
 # Szindbád
 - alteregó
 ## művek
@@ -9,3 +11,6 @@
 - Ifjú évek
 - Szindbád, a hajós első utazása
 - A hídon - negyedik út
+# egyéb művek
+- Aranybánya
+- A podolini kísér
