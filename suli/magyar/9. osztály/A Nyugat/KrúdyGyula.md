@@ -5,7 +5,7 @@
 	- eleinte törvénytelen gyerek volt (?)
 - 
 # Szindbád
-- alteregó
+- irodalmi alteregó
 ## művek
 - Tájékoztatás
 - Ifjú évek
@@ -13,4 +13,4 @@
 - A hídon - negyedik út
 # egyéb művek
 - Aranybánya
-- A podolini kísér
+- A podolini kísértet
