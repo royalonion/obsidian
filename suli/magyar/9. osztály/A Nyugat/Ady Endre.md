@@ -45,4 +45,6 @@
 - Budapesti Napló
 	- másfél év alatt csaknem 500 cikket publikál
 - újra Párizs, utána megszűnik (idegen kezekbe kerül) a Budapesti Napló, a Népszavához kerül
-- és itt a lényeg:
+- és itt a lényeg: **1908. jan. 1. Nyugat megalapul**
+	- Ignotus Hugó vezetésével, Fenyő Miksa & Osváth Ernő szerkesztésével készül
+	- minden részébe írt verset
