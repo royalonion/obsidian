@@ -44,4 +44,5 @@
 	- ebből következik a sok kapcsolata, későbbi állásai
 - Budapesti Napló
 	- másfél év alatt csaknem 500 cikket publikál
-	- 
+- újra Párizs, utána megszűnik (idegen kezekbe kerül) a Budapesti Napló, a Népszavához kerül
+- és itt a lényeg:
