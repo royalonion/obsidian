@@ -1,1 +1,6 @@
-- Kosztolányit zavarta Ady önteltsége
+- Kosztolányit zavarta Ady önteltsége, messiásképe
+- túl kritikusnak ítélte K, "magyarszidás"-nak nevezte verseit
+- A. K-t irodalmi írónak nevezi A duk-duk affér c. cikkében
+	- ez annyit tesz, h nem az élettapasztalatai alapján ír, hanem az irodalom elvárásai alapján
+	- a hitelességét is megsérti ugyanitt
+- K. visszaszól A-nak, 
