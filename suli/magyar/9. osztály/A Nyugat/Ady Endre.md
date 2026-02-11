@@ -49,4 +49,9 @@
 	- Ignotus Hugó vezetésével, Fenyő Miksa & Osváth Ernő szerkesztésével készül
 	- minden részébe írt verset
 - újra Párizs, de nem érzi jól ott magát
-	- 
+	- ritkán ír, a Nyugatban, a Népszavában és a Független Magyarországban jelennek meg versei
+- hazatér 1909-ben, ekkortájt a Nyugat népszerű (neki is köszönhetően)
+- 1912-ben felkerül a neve a szerkesztők közé, de nem dolgozik ezen a téren aktívan
+	- rosszallja Osváth újítását, nem támogatja a folytonos fiatalítást
+	- ebben az évben szakad meg kapcsolata Lédával
+- 
