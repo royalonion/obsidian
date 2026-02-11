@@ -35,3 +35,13 @@
 - Elbocsátó, szép üzenet
 - Őrizem a szemed
 - Kocsi-út az éjszakában
+# az újságíró Ady
+- 3077 publikált írás (!)
+- diákévei alatt is már írt, Nagyvárad hozta azonban a fordulatot számára, itt fontos állása volt
+	- több újságnál is fontos szerep
+	- Nagyváradon ismerkedik meg B. Adéllal is
+- Párizsban is él egy darabig, onnan küld haza cikkeket a magyar lapoknak, többek között pestieknek is
+	- ebből következik a sok kapcsolata, későbbi állásai
+- Budapesti Napló
+	- másfél év alatt csaknem 500 cikket publikál
+	- 
