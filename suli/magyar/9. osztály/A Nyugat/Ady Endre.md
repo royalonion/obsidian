@@ -54,4 +54,3 @@
 - 1912-ben felkerül a neve a szerkesztők közé, de nem dolgozik ezen a téren aktívan
 	- rosszallja Osváth újítását, nem támogatja a folytonos fiatalítást
 	- ebben az évben szakad meg kapcsolata Lédával
-- 
