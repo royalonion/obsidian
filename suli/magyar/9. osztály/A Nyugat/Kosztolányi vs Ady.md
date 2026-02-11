@@ -1,0 +1,1 @@
+- Kosztolányit zavarta Ady önteltsége
