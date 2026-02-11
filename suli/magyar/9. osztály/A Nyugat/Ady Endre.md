@@ -48,3 +48,5 @@
 - és itt a lényeg: **1908. jan. 1. Nyugat megalapul**
 	- Ignotus Hugó vezetésével, Fenyő Miksa & Osváth Ernő szerkesztésével készül
 	- minden részébe írt verset
+- újra Párizs, de nem érzi jól ott magát
+	- 
