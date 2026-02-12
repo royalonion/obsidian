@@ -1,15 +1,16 @@
 *1883. november 26. - 1941. augusztus 4.*
 
 # lényegtelen infók
-## poeta doctus
-- a tudomány doktora
-## szexárd
-- Szekszárdon születtem, színésznőt szerettem - Karinthy
-## gégerákban meghal
-- Balázsolás
-- Jónás imája
-## Tanner Ilona - Török Sophie
-- múzsája
+- poeta doctus
+	- a tudomány doktora
+- szexárd
+	- Szekszárdon születtem, színésznőt szerettem - Karinthy
+- gégerákban meghal
+	- Balázsolás
+	- Jónás imája
+- Tanner Ilona - felesége
+- 
+	- múzsája
 # fontos művei
 ## Levelek Irisz koszorújából
 - novellafüzér
@@ -26,5 +27,8 @@
 ## Jónás-story
 - Jónás könyve
 - Jónás imája
+# Nyugat
+- főszerkesztője Osvát Ernővel; Móricz Zsigmonddal 1933-ig, utána egyedül a haláláig, amikor megszűnik
+- 
 
 *vele foglalkozunk, ezért csak nagyvonalakban*

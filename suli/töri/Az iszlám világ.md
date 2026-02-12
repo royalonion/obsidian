@@ -35,3 +35,6 @@
 			- könnyű a betörés
 	- kultúrális okai
 		- asszimiláció
+			- tudományos téren (pl kémia, kormányzat, adminisztráció)
+			- építészeti téren (pl mecsetek)
+- 
