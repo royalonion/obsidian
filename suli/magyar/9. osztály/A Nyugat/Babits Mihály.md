@@ -9,8 +9,9 @@
 	- Balázsolás
 	- Jónás imája
 - Tanner Ilona - felesége
-- 
+	- álneve Török Sophie (tisztelgés Kazinczy felesége előtt)
 	- múzsája
+- Szabó Lőrincet pártfogolja, b
 # fontos művei
 ## Levelek Irisz koszorújából
 - novellafüzér
