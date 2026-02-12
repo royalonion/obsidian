@@ -22,5 +22,8 @@
 # irányzatok
 ## szunniták
 - nem irán
+- a szunnákra épít
+	- hagyományok
+- 
 ## sííták
 - Irán
