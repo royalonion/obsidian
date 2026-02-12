@@ -30,5 +30,6 @@
 - hihetetlen gyors terjeszkedés
 	- Arábiában könnyen terjed, mert nincs semmi
 	- Bizáncban is gyorsan terjed, mert hiányzik a kohéziós erő
-		- sok eretnekség
+		- sok eretnekség - represszió alatt áll, mivel szeparatistáknak lesznek titulálva
+		- könnyű a betörés
 	- 

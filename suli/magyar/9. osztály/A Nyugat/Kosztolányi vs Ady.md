@@ -3,4 +3,7 @@
 - A. K-t irodalmi írónak nevezi A duk-duk affér c. cikkében
 	- ez annyit tesz, h nem az élettapasztalatai alapján ír, hanem az irodalom elvárásai alapján
 	- a hitelességét is megsérti ugyanitt
-- K. visszaszól A-nak, azt állítja, hogy nem tesz semmi fizikai dolgot
+- K. visszaszól A-nak, azt állítja, hogy nem tesz semmi fizikai dolgot a változás érdekében
+- A szegény kisgyermek panaszaiban megjelenik az irodalmi sértés
+- kollégaként enyhül a vitájuk
+- 
