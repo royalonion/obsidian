@@ -9,4 +9,4 @@
 - Ady halála előtt (elvileg) kibékülnek
 - 10 évvel Ady halála után K megjelenteti az "Írástudatlanok árulása; Különvélemény Ady Endréről" c. írását
 	- zavarja, hogy halott társához ragaszkodnak
-	- sokan másolják a stílusá
+	- sokan másolják a stílusát
