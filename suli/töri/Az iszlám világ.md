@@ -24,6 +24,11 @@
 - nem irán
 - a szunnákra épít
 	- hagyományok
-- 
 ## sííták
 - Irán
+# dinamikus terjeszkedés
+- hihetetlen gyors terjeszkedés
+	- Arábiában könnyen terjed, mert nincs semmi
+	- Bizáncban is gyorsan terjed, mert hiányzik a kohéziós erő
+		- sok eretnekség
+	- 
