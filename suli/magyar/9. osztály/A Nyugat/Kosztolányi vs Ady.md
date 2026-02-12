@@ -6,4 +6,7 @@
 - K. visszaszól A-nak, azt állítja, hogy nem tesz semmi fizikai dolgot a változás érdekében
 - A szegény kisgyermek panaszaiban megjelenik az irodalmi sértés
 - kollégaként enyhül a vitájuk
-- 
+- Ady halála előtt (elvileg) kibékülnek
+- 10 évvel Ady halála után K megjelenteti az "Írástudatlanok árulása; Különvélemény Ady Endréről" c. írását
+	- zavarja, hogy halott társához ragaszkodnak
+	- sokan másolják a stílusá
