@@ -31,6 +31,5 @@
 - Jónás imája
 # Nyugat
 - főszerkesztője Osvát Ernővel; Móricz Zsigmonddal 1933-ig, utána egyedül a haláláig, amikor megszűnik
-- 
 
 *vele foglalkozunk, ezért csak nagyvonalakban*
