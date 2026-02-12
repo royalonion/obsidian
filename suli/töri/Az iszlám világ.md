@@ -28,8 +28,10 @@
 - Irán
 # dinamikus terjeszkedés
 - hihetetlen gyors terjeszkedés
-	- Arábiában könnyen terjed, mert nincs semmi
-	- Bizáncban is gyorsan terjed, mert hiányzik a kohéziós erő
-		- sok eretnekség - represszió alatt áll, mivel szeparatistáknak lesznek titulálva
-		- könnyű a betörés
-	- 
+	- területi okai
+		- Arábiában könnyen terjed, mert nincs semmi
+		- Bizáncban is gyorsan terjed, mert hiányzik a kohéziós erő
+			- sok eretnekség - represszió alatt áll, mivel szeparatistáknak lesznek titulálva
+			- könnyű a betörés
+	- kultúrális okai
+		- asszimiláció
