@@ -15,7 +15,7 @@
 - menyasszonyáról, T.I-ről egyik este bevallotta B, hogy tetszik neki -> L. felhívja másnap, elmondja neki, hogy nem ő házasodna vele össze -> T. I. beleegyezik (wtf????)
 # fontos művei
 ## Levelek Irisz koszorújából
-- novellafüzér
+- versfüzér
 - In Horatium
 	- első vers
 - A lírikus epilógja
