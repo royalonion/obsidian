@@ -15,6 +15,7 @@
 - canon lens (18-55?) - *ebay/fbmp/jófogás*
 - camcorder *ebay*
 # notes
+- [[lamy type shit|lamy safari with ink and converter]] - *pirex*
 - [remarkable 2 (with marker plus)](https://remarkable.com/shop/refurbished/remarkable-2) - *official site*
 # laptop
 - m1 macbook air (black/grey) - *ebay*
