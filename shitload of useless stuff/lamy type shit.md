@@ -1,9 +1,13 @@
 # pens - matt>glossy
-- scarlet
 - yellow
+- umbra
 - green
+- scarlet
 - red
 - steel black
 # inks
-- a
-- b
+- mango
+- sepia
+- petrol
+- blue
+- black
