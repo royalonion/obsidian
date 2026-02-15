@@ -6,8 +6,11 @@
 - red
 - steel black
 # inks
-- mango (noooo)
+- mango (noooooooo)
 - sepia
 - petrol
 - blue
 - black
+# combos
+- yellow-sepia
+- umbra-pe
