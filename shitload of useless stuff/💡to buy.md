@@ -5,7 +5,9 @@
 # homelab
 - [7-inch HDMI display](https://www.aliexpress.com/w/wholesale-hdmi-7-inch-display.html) - *aliexpress*
 - [sonoff zigbee adapter(s)](https://okosotthon.bolt.hu/webaruhaz/termek/sonoff-dongle-light-lmg21/) - *local seller/aliexpress*
-# game
+notes
+- [[lamy type shit|lamy safari with ink and converter]] - *pirex*
+- [remarkable 2 (with marker plus)](https://remarkable.com/shop/refurbished/remarkable-2) - *official site*# game
 ## console
 - DSi - *ebay*
 - Wii - *ebay*
@@ -13,10 +15,8 @@
 - Sea of Thieves (2025?) - *G2A/Eneba*
 # photography
 - canon lens (18-55?) - *ebay/fbmp/jófogás*
-- camcorder *ebay*
-# notes
-- [[lamy type shit|lamy safari with ink and converter]] - *pirex*
-- [remarkable 2 (with marker plus)](https://remarkable.com/shop/refurbished/remarkable-2) - *official site*
+- camcorder - *ebay*
+# 
 # laptop
 - m1 macbook air (black/grey) - *ebay*
 # phone
