@@ -3,7 +3,7 @@
 - umbra
 - green
 # inks
-- mango (noooooooo)
+
 - sepia
 - petrol
 # combos
