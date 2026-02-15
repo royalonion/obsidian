@@ -3,7 +3,7 @@
 - yellow
 - green
 - red
-- steel b
+- steel black
 # inks
 - a
 - b
