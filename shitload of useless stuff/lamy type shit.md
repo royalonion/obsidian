@@ -4,13 +4,13 @@
 - green
 - scarlet
 - red
-- steel black
 # inks
 - mango (noooooooo)
 - sepia
 - petrol
-- blue
-- black
 # combos
 - yellow-sepia
-- umbra-pe
+- umbra-petrol
+- green-petrol
+- scarlet-sepia
+- red-sepia
