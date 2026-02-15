@@ -6,7 +6,7 @@
 - red
 - steel black
 # inks
-- mango
+- mango (noooo)
 - sepia
 - petrol
 - blue
