@@ -1,0 +1,3 @@
+- az ókori polgárjog a város környékére is vonatkozott, a középkorban a falig tart
+	- a városfal jogi határ
+- 
