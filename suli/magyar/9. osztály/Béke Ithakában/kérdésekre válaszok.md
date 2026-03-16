@@ -6,4 +6,5 @@
 5. Pallasz Athéné személyes barátnőként jelenik meg, s bár a formalitásokat tartja Pénelopé, kritikát fogalmaz meg róla. Poszeidón egy haragos figuraként van megjelenítve, inkább a háttérben van, nem jelenik meg konkrét személyében. Az összes többi isten pedig unatkozik.
 6. nem értem xdddd. de tényleg
 7. Túl gépies, szokatlanul szigorú, a korábbi áhítatos formával szemben, elvesztette az emberiességét.
-8. A 
+8. Pénelopé sokszor elmondja, hogy 20 évig várt, Ulysess a tenger felől jött, ez egy keretet, folytonosságot ad a szövegnek. Arra is utalhat, hogy Pénelopé beleőrült a várakozásba.
+9. Pénelopé bár testileg hű maradt (""), de lélekben elvesztette hűségét
