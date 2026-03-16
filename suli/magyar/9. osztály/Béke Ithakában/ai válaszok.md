@@ -181,5 +181,3 @@ Egyfajta **testi és lelki beavatás** történik. Kalüpszó „átadja” a fi
 ### +1 Mit jelenthet a nagy titok: Ulysses ember volt?
 
 Ez a regény legfontosabb mondata. Azt jelenti, hogy minden hőstett, minden istenekkel való viaskodás mögött egy **esendő, félő, és gyakran gonosz ember** állt. A „mítosz” csak a máz. A titok az, hogy Ulysses nem a sorsa miatt volt „nagy”, hanem azért, mert minden gyengesége ellenére megpróbált ember maradni egy embertelen világban. A hős nem szobor, hanem egy sebzett lélek.
-
-Szeretnéd, ha a harmadik részre, Telegonosz vallomására is rátérnénk? Ott válik teljessé a kép az apa-fiú gyilkossággal.
