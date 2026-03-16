@@ -11,4 +11,6 @@
 10. Nem űzi el a szigetről, pedig gondolkozik rajta, a "nőházba" küldi a szigeten, mert azt hiszi (jó oka van rá - az utolsó kérő dicsekedett neki), hogy megcsalta Pénelopé. Emiatt megszűnnek a beszélgetések a pár között.
 11. Azt, hogy visszatér. Ez összejött (vagyis lélekben, fejben nem, egy másik Ulysess ért haza).
 12. Az utolsó hazatérése már a halálba történik, elindul utoljára, egy olyan helyet keres, ahol nem ismerik. Télegonosz öli meg.
-13. Ulysess 
+13. Ulysess kezdetben olyan, mintha Ithakában érezné magát otthon, de valójában a tengeren, mozgásban van csak jól.
+# második ének
+1. 

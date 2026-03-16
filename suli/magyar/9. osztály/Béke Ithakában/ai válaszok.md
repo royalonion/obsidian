@@ -1,110 +1,4 @@
-# 1
-### 8. Ismétlő szerkezetek a szövegben
-
-Márai stílusának egyik védjegye a retorikus ismétlés. Pénelopé monológjában gyakran térnek vissza kulcsszavak: _„Vártam”_, _„Húsz év”_, _„Idegen”_, _„Tenger”_.
-
-- **Hogyan működnek?** Úgy, mint a szövőszék kattogása vagy a tenger morajlása. Ritmust adnak a szövegnek, és érzékeltetik a várakozás monotonitását.
-    
-- **Szerepük:** Azt a rögeszmét (obsszessziót) mutatják be, amibe Pénelopé beleőrült a húsz év alatt. Az ismétlés sulykolja, hogy az idő nem múlt, hanem „állt”.
-    
-- **Regényalakítás:** A mű ettől válik líraivá és zeneivé. Nem a cselekmény viszi előre a könyvet, hanem ezek a hullámzó gondolatmenetek.
-    
-
-### 9. Hűséges vagy hűtlen volt-e Pénelopé?
-
-Ez a regény egyik legizgalmasabb kérdése. Fizikailag hűséges maradt, de lelkileg a helyzet bonyolultabb.
-
-- **Az igazolás:** Pénelopé kijelenti, hogy a teste érintetlen maradt a kérők számára: _„Húsz évig nem nyúlt hozzám férfi.”_
-    
-- **A „hűtlenség” árnyalata:** Ugyanakkor bevallja, hogy a várakozás alatt ő már nem Ulyssesbe volt szerelmes, hanem a **várakozásba**. A lelke elhidegült. A szövegben utal rá, hogy a kérők jelenléte – a férfiszag, a zaj, az élet – paradox módon segített neki életben maradni. Hűséges volt a _mítoszhoz_, de hűtlen a valóságos, hús-vér férjéhez, akit már nem is ismert.
-    
-
-### 10. Ulysses „száműzetése”
-
-Ulysses nem küldi el Pénelopét a szigetről, de érzelmileg és fizikailag is elszigeteli a palotán belül.
-
-- **Hogyan/Hova:** A „nőházba”, a palota felső, elzárt szobáiba utalja vissza.
-    
-- **Előzmény:** Ulysses rájön, hogy Pénelopé „látja” őt. Látja a gyengeségét, az öregségét és azt, hogy Ulysses már nem hős, csak egy fáradt gyilkos. Ulysses nem bírja el a felesége vádló, emlékező tekintetét.
-    
-- **Következmény:** A házaspár között megszűnik a valódi párbeszéd. Pénelopé élő szellemmé válik a saját házában, Ulysses pedig egyedül marad a hatalmával és a kísérteteivel.
-    
-
-### 11. Az egyetlen beváltott ígéret
-
-Ulysses egyetlen dolgot ígért meg Pénelopénak, mielőtt elment Trójába: **hogy visszatér.**
-
-- Ezt be is tartotta, de Márai szerint ez a legkegyetlenebb beteljesülés. Ulysses hazajött, de „nem érkezett meg”. A teste ott van, de a lénye idegen maradt. Ez a regény nagy tanulsága: az ígéret formálisan teljesült, de a tartalma (a boldogság) elveszett.
-    
-
-### 12. Ulysses utolsó hazatérése
-
-A regény végén (és az első fejezet előreutalásaiban) Ulysses utolsó hazatérése már nem Ithakába, hanem a **semmibe/halálba** történik.
-
-- A mitológiai és a márai-i befejezés szerint újra útra kel. Olyan helyet keres, ahol nem ismerik a sót (vagyis ahol nincs ott a múltja, a bűnei és a tenger). Utolsó hazatérése valójában egy menekülés: elmenekül a saját legendája elől. Végül Telegonosz (Kirkétől született fia) keze által hal meg, ami az abszolút végpontot jelenti.
-    
-
-### 13. Ulysses valódi hazája
-
-Ez a regény legmélyebb felismerése, ami folyamatosan derül ki Pénelopé, Télemakhosz és végül Telegonosz vallomásából.
-
-- **A válasz:** Ulysses valódi hazája **az Út (a mozgás)** és a **Magány**.
-    
-- **Mikor derül ki?** Amikor rájön, hogy Ithakában „megfullad”. Számára a haza nem egy földrajzi hely, hanem az az állapot, amikor senkihez sem tartozik. Ő a „Senki” (Ahogy Polüphémosznak mondta), és a Senkinek nem lehet hazája, csak horizontja.
 # 2
-### 8. Ismétlő szerkezetek a szövegben
-
-Márai stílusának egyik védjegye a retorikus ismétlés. Pénelopé monológjában gyakran térnek vissza kulcsszavak: _„Vártam”_, _„Húsz év”_, _„Idegen”_, _„Tenger”_.
-
-- **Hogyan működnek?** Úgy, mint a szövőszék kattogása vagy a tenger morajlása. Ritmust adnak a szövegnek, és érzékeltetik a várakozás monotonitását.
-    
-- **Szerepük:** Azt a rögeszmét (obsszessziót) mutatják be, amibe Pénelopé beleőrült a húsz év alatt. Az ismétlés sulykolja, hogy az idő nem múlt, hanem „állt”.
-    
-- **Regényalakítás:** A mű ettől válik líraivá és zeneivé. Nem a cselekmény viszi előre a könyvet, hanem ezek a hullámzó gondolatmenetek.
-    
-
-### 9. Hűséges vagy hűtlen volt-e Pénelopé?
-
-Ez a regény egyik legizgalmasabb kérdése. Fizikailag hűséges maradt, de lelkileg a helyzet bonyolultabb.
-
-- **Az igazolás:** Pénelopé kijelenti, hogy a teste érintetlen maradt a kérők számára: _„Húsz évig nem nyúlt hozzám férfi.”_
-    
-- **A „hűtlenség” árnyalata:** Ugyanakkor bevallja, hogy a várakozás alatt ő már nem Ulyssesbe volt szerelmes, hanem a **várakozásba**. A lelke elhidegült. A szövegben utal rá, hogy a kérők jelenléte – a férfiszag, a zaj, az élet – paradox módon segített neki életben maradni. Hűséges volt a _mítoszhoz_, de hűtlen a valóságos, hús-vér férjéhez, akit már nem is ismert.
-    
-
-### 10. Ulysses „száműzetése”
-
-Ulysses nem küldi el Pénelopét a szigetről, de érzelmileg és fizikailag is elszigeteli a palotán belül.
-
-- **Hogyan/Hova:** A „nőházba”, a palota felső, elzárt szobáiba utalja vissza.
-    
-- **Előzmény:** Ulysses rájön, hogy Pénelopé „látja” őt. Látja a gyengeségét, az öregségét és azt, hogy Ulysses már nem hős, csak egy fáradt gyilkos. Ulysses nem bírja el a felesége vádló, emlékező tekintetét.
-    
-- **Következmény:** A házaspár között megszűnik a valódi párbeszéd. Pénelopé élő szellemmé válik a saját házában, Ulysses pedig egyedül marad a hatalmával és a kísérteteivel.
-    
-
-### 11. Az egyetlen beváltott ígéret
-
-Ulysses egyetlen dolgot ígért meg Pénelopénak, mielőtt elment Trójába: **hogy visszatér.**
-
-- Ezt be is tartotta, de Márai szerint ez a legkegyetlenebb beteljesülés. Ulysses hazajött, de „nem érkezett meg”. A teste ott van, de a lénye idegen maradt. Ez a regény nagy tanulsága: az ígéret formálisan teljesült, de a tartalma (a boldogság) elveszett.
-    
-
-### 12. Ulysses utolsó hazatérése
-
-A regény végén (és az első fejezet előreutalásaiban) Ulysses utolsó hazatérése már nem Ithakába, hanem a **semmibe/halálba** történik.
-
-- A mitológiai és a márai-i befejezés szerint újra útra kel. Olyan helyet keres, ahol nem ismerik a sót (vagyis ahol nincs ott a múltja, a bűnei és a tenger). Utolsó hazatérése valójában egy menekülés: elmenekül a saját legendája elől. Végül Telegonosz (Kirkétől született fia) keze által hal meg, ami az abszolút végpontot jelenti.
-    
-
-### 13. Ulysses valódi hazája
-
-Ez a regény legmélyebb felismerése, ami folyamatosan derül ki Pénelopé, Télemakhosz és végül Telegonosz vallomásából.
-
-- **A válasz:** Ulysses valódi hazája **az Út (a mozgás)** és a **Magány**.
-    
-- **Mikor derül ki?** Amikor rájön, hogy Ithakában „megfullad”. Számára a haza nem egy földrajzi hely, hanem az az állapot, amikor senkihez sem tartozik. Ő a „Senki” (Ahogy Polüphémosznak mondta), és a Senkinek nem lehet hazája, csak horizontja.
-# 3
 ### 1. A magántulajdon tiszteletének hiánya
 
 Télemakhosz szerint Ulysses számára a világ nem tulajdonokból, hanem **lehetőségekből és prédából** állt. Ulysses nem épített, hanem elvett. Úgy tekintett mások javaira (legyen az állat, kincs vagy nő), mint ami a „hősnek” jár a túléléshez vagy az úthoz. Nem ismerte a „kerítés” fogalmát; számára minden közpréda volt, ha az ő céljait szolgálta.
@@ -175,9 +69,91 @@ Kalüpszó szemszögéből Hermész nem az isteni igazság hírnöke, hanem egy 
 ### 13. Kalüpszó és Télemakhosz az est végén
 
 Egyfajta **testi és lelki beavatás** történik. Kalüpszó „átadja” a fiúnak az apa emlékeit, de egyben szembesíti is őt a saját ürességével. Az est végén Télemakhosz rájön, hogy ő soha nem lesz olyan, mint az apja, és ez egyszerre felszabadító és lesújtó.
+# 3
+### 1. József Attila: Eszmélet és a márai-i „boldogság”
 
----
+A párhuzam döbbenetes. József Attila versében a boldogság egy **„másfél mázsás” sertés**, ami a sárban röffent – ez a kép a boldogságot nem szellemi, hanem tisztán testi, öntudatlan, sőt visszataszító állapotként ábrázolja.
 
-### +1 Mit jelenthet a nagy titok: Ulysses ember volt?
+- **Márainál:** A harmadik ének elején Kirké szigetén az elvarázsolt disznók (akik egykor Odüsszeusz társai voltak) pontosan ezt képviselik. Számukra a „boldogság” az, hogy nem kell többé embernek lenniük, nem kell emlékezniük, nincs bűntudatuk. A boldogság Márainál is és József Attilánál is a **tudat elvesztése**, a hús diadalma a lélek felett.
+    
 
-Ez a regény legfontosabb mondata. Azt jelenti, hogy minden hőstett, minden istenekkel való viaskodás mögött egy **esendő, félő, és gyakran gonosz ember** állt. A „mítosz” csak a máz. A titok az, hogy Ulysses nem a sorsa miatt volt „nagy”, hanem azért, mert minden gyengesége ellenére megpróbált ember maradni egy embertelen világban. A hős nem szobor, hanem egy sebzett lélek.
+### 2. Ki volt Glaukos?
+
+Glaukos egy halandó halász volt, aki megízlelt egy varázsfüvet, amitől tengeri istenné (tritónná) vált.
+
+- **Sorsa:** Bár halhatatlan lett, a sorsa tragikus maradt: félig ember, félig hal-szörny lett, aki örökké a tengerben bolyong. Márainál ő a példa arra, hogy az **istenek ajándéka (a halhatatlanság) valójában átok**, mert elszakítja az embert a saját természetétől.
+    
+
+### 3. Skylla és Skyllák
+
+A mitológiában Skylla a tengeri szörny, aki elnyelte a hajósokat.
+
+- **A regényben:** Márai „lefordítja” a mítoszt a valóságra. **Skylla** itt egy eltorzult, öreg dada, egy dajka, aki Telegonost nevelte. A „többes szám” arra utal, hogy Kirké környezetében minden egykori mitológiai borzalom **elkorcsosult, szánalmas emberi lénnyé** (szolgává, rabszolgává) vált. A mágia kiszállt belőlük, csak a torzság maradt.
+    
+
+### 4. Telegonos és Skylla találkozása
+
+Ez nem egy hős és egy szörny csatája. Telegonos némi undorral és szánalommal figyeli az öreg nőt, aki egykor talán hatalmas volt, de most csak egy **fecsegő, ijesztő öregasszony**. Találkozásuk a „mítosz utáni kor” kezdete: a szörnyek már nem veszélyesek, csak kellemetlenek.
+
+### 5. Hermész megjelenése Kirkénél
+
+Hermész nem úgy fest, mint egy görög szobor. Márai úgy ábrázolja, mint egy **elegáns, cinikus diplomatát** vagy egy modern titkárnőt/hivatalnokot. Finom ruhát visel, modora hűvös és professzionális. Ő a „közvetítő”, aki nem hoz többé csodákat, csak utasításokat.
+
+### 6. Hermész mint az álmok és az alvás istene
+
+Hermész botja (a caduceus) képes álmot bocsátani a halandókra.
+
+- **Miért van rá szüksége?** Mert az istenek már nem akarnak közvetlenül beszélni az emberekkel. Az **álom az utolsó csatorna**, ahol az isteni akarat még megnyilvánulhat anélkül, hogy „megzavarná” a modern világ Logoszát (rendjét). Hermész elaltatja a kritikus értelmet, hogy a mítosz még utoljára beléphessen a lélekbe.
+    
+
+### 7. Picus története
+
+Picus egy itáliai király volt, akibe Kirké beleszeretett. Mivel a férfi hűséges maradt a feleségéhez és elutasította az istennőt, Kirké bosszúból **harkállyá változtatta**. Ez a történet példázza Kirké kegyetlen, birtokolni vágyó természetét.
+
+### 8. Hermész híre Kirkének
+
+Hermész közli, hogy az **„istenek kora lejárt”**. Ulyssesnek meg kell halnia, és Kirkének is el kell fogadnia, hogy a varázslat megszűnik a világban. Az indok: a világ „felnőtt”, nincs többé szükség csodákra, az embereknek a saját sorsukkal kell szembenézniük (Logosz).
+
+### 9. Kirké és Ulysses viszonya
+
+Kirké bevallja, hogy Ulysses volt az egyetlen férfi, akit nem tudott teljesen „megtörni”.
+
+- **Hogyan beszél róla?** Egyszerre gyűlölettel és imádattal. Úgy látja őt, mint egy **önző szörnyeteget**, aki csak a saját legendájának él, de elismeri, hogy Ulyssesben volt valami „emberi sűrűség”, ami még az istenek fölé is emelte őt.
+    
+
+### 10. Kirké 5 vádja Hermész ellen
+
+Kirké a következőket veti az istenek szemére:
+
+1. Az istenek **unatkoznak**, és az embereket csak játékszernek használják.
+    
+2. Az istenek **gyávák**, mert sosem vállalják a felelősséget a tetteikért.
+    
+3. Az istenek **kegyetlenek**, mert az erényt (pl. hűséget) büntetik.
+    
+4. Az istenek **hűtlenek** még egymáshoz és a papjaikhoz is.
+    
+5. Az istenek valójában **irigyek** az emberekre, mert az embernek van tétje (a halál), nekik pedig nincs.
+    
+
+### 11. „A világ fejlődik”
+
+Ez Hermész legcinikusabb mondata. Azt jelenti, hogy a világ **deszakralizálódik**.
+
+- **Mi történik?** A mágia helyét átveszi a racionalitás, a Mítosz helyét a Logosz. Az istenek „visszavonulnak” a pszichológiába (az emberek tudatalattijába), a világ pedig unalmasabb, de „kiszámíthatóbb” hellyé válik.
+    
+
+### 12. Amit Hermész elvett és adott
+
+- **Elvett:** Kirké varázshatalmát és „isteni” súlyát.
+    
+- **Adott:** Cserébe a **„történelem”** részévé tette. Kirké megszűnik élő erőnek lenni, és „irodalmi alak”, emlék lesz belőle. Megkapta a lehetőséget, hogy ne istennőként féljék, hanem nőként emlékezzenek rá.
+    
+
+### 13. Telegonos Spártában (Menelaosz és Heléna)
+
+Telegonos meglátogatja az idősödő Menelaoszt és Helénát.
+
+- **Hogyan mutatja be őket?** Mint egy **polgári, unatkozó házaspárt**. Menelaosz egy unalmas öregúr, aki a régi háborús sztorijaival traktál mindenkit. Heléna pedig már nem a világ legszebb asszonya, hanem egy fáradt, sokat tapasztalt nő, aki az „isteni szépséget” hétköznapi rutinra cserélte.
+    
+- **Miről beszélnek?** A múltról, mint egy rég elfelejtett társasági eseményről. Nincs benne semmi magasztos, csak a „túlélők” üressége.
