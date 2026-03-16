@@ -6,4 +6,4 @@
 5. Pallasz Athéné személyes barátnőként jelenik meg, s bár a formalitásokat tartja Pénelopé, kritikát fogalmaz meg róla. Poszeidón egy haragos figuraként van megjelenítve, inkább a háttérben van, nem jelenik meg konkrét személyében. Az összes többi isten pedig unatkozik.
 6. nem értem xdddd. de tényleg
 7. Túl gépies, szokatlanul szigorú, a korábbi áhítatos formával szemben, elvesztette az emberiességét.
-8. 
+8. A 

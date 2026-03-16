@@ -1,3 +1,7 @@
 - az ókori polgárjog a város környékére is vonatkozott, a középkorban a falig tart
-	- a városfal jogi határ
+	- a városfal jogi határ (középkorban)
+		- védelmet is nyújt
+		- az ókorban csak pl a limes határ
+- a középkori hatalom vidéken az ókori városi központ helyett
+	- nemesek kezében, ők a birtokokon
 - 
