@@ -13,4 +13,7 @@
 12. Az utolsó hazatérése már a halálba történik, elindul utoljára, egy olyan helyet keres, ahol nem ismerik. Télegonosz öli meg.
 13. Ulysess kezdetben olyan, mintha Ithakában érezné magát otthon, de valójában a tengeren, mozgásban van csak jól.
 # második ének
-1. 
+1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint. Nem épített, hanem elvett, nem ismerte a kerítést, minden az övé volt.
+2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, a birtoklás élménye fontosabb volt neki, mint a birtoklás maga.
+3. Télemakhosz negatívan vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
+4. Az "öröksége", az "O"
