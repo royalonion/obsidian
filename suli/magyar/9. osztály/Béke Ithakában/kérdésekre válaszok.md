@@ -21,3 +21,5 @@
 6. Télemakhosz az apja öröksége miatt, Nauszika pedig Ulysesst látja Télemakhoszban, vagyis őt keresi, és Ulysess ígéretét, miszerint elküldi a fiát egyszer a szigetre.
 7. A történetet két, párhuzamos jóslat öleli át - az egyik, miszerint Ulysesst a fia fogja megölni, és a másik, ami ebből adódik, hogy Ulysess meg fogja ölni a fiát. Ezt (érthető módon) Télemakhosz "magára veszi", és fél attól, hogy apja megöli önmaga védelmében.
 8. Az ember kövekből származó eredetét. Helyette Prométheus és Pandora gyerekét mondja az első embernek.
+9. A halhatatlanságot és az örök ifjúságot kapta volna, de ezt Ulysess visszautasította.
+10. 
