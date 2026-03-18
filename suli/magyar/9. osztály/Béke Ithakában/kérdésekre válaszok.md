@@ -16,4 +16,6 @@
 1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint. Nem épített, hanem elvett, nem ismerte a kerítést, minden az övé volt.
 2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, a birtoklás élménye fontosabb volt neki, mint a birtoklás maga.
 3. Télemakhosz negatívan vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
-4. Az "öröksége", az "O"
+4. Az "öröksége", az átok, amit magával hordozott, nehezítette a bejutást.
+5. Távolságtartó, Alkinoosz Odüsszeusz utódját látja Télemakhoszban, nem az igazi alakját.
+6. Télemakhosz az apja
