@@ -18,4 +18,5 @@
 3. Télemakhosz negatívan vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
 4. Az "öröksége", az átok, amit magával hordozott, nehezítette a bejutást.
 5. Távolságtartó, Alkinoosz Odüsszeusz utódját látja Télemakhoszban, nem az igazi alakját.
-6. Télemakhosz az apja öröksége miatt, Nauszika pedig
+6. Télemakhosz az apja öröksége miatt, Nauszika pedig Odüsszeuszt látja Télemakhoszban, vagyis őt keresi, és Odüsszeusz ígéretét, miszerint elküldi a fiát egyszer a szigetre.
+7. 
