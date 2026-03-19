@@ -40,4 +40,8 @@
 	1. Persephonéval viszonya volt
 	2. Tehenekkel szexuális kapcsolatot ápol
 	3. Daenát elvette
-	4. Ő hozta össze Aphroditét és 
+	4. Ő hozta össze Orpheuszt Euridikével
+	5. Ő hozta össze Aphroditét Ankhisszel
+11. Az emberek kinövik az isteneket, megváltozik a szerepük.
+12. Kirké varázsbotját vette el Hermész, cserébe Kirké eldönthette, hogyan hal meg a tolvaj.
+13. Menelaosszal, és Helenével találkozik, Menelaoszt a trójai háború alapján mutatja be a szöveg, Helenét pedig idős hölgyként, aki elmondja, hogy Ulysess szerette egyedül Télegonost valósan.
