@@ -15,7 +15,7 @@
 # második ének
 1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint, nem tisztelte azt, aki halandó.
 2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, 20 év tengeri vándorlás után nem számitottak ezek neki.
-3. Télemakhosz negatívan vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
+3. Télemakhosz negatívan, irtózattal vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
 4. Az "öröksége", az átok, amit magával hordozott, nehezítette a bejutást.
 5. Távolságtartó, Alkinoosz Odüsszeusz utódját látja Télemakhoszban, nem az igazi alakját.
 6. Télemakhosz az apja öröksége miatt, Nauszika pedig Ulysesst látja Télemakhoszban, vagyis őt keresi, és Ulysess ígéretét, miszerint elküldi a fiát egyszer a szigetre.
