@@ -32,4 +32,12 @@
 3. Skylla együtt hált Télemakhosszal, ezért Kirké vízi szörnyé változtatta
 4. Télegonoszt az anyja beküldi Skyllához, hogy segítsen neki, de valójában tetszik neki. Együtt hálnak, és Télegonosz elveszti a szüzességét.
 5. Hermés idős, testes, de magas volt, és előkelő(bb).
-6. Kirkének 
+6. Kirkének kutyagyökeret visz, és azt mondja, hogy megfőzve álomba visz.
+7. Picus egy Itáliai király, Kirké szerelmét nem viszonozta hűségből, ezért harkállyá változtatta őt.
+8. Be kell fejeznie az emberek állatokká való átváltoztatását, mert erről döntött az Olympus.
+9. 
+10. 5 dolog
+	1. Persephonéval viszonya volt
+	2. Tehenekkel szexuális kapcsolatot ápol
+	3. Daenát elvette
+	4. Ő hozta össze Aphroditét és 
