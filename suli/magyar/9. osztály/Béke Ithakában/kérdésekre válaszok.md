@@ -13,7 +13,7 @@
 12. Álruhában, öreg koldus képében, Télegonos öli meg.
 13. Ulysess csak a tengeren érezte jól magát, az utolsó szavaiból derül ki.
 # második ének
-1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint. Nem épített, hanem elvett, nem ismerte a kerítést, minden az övé volt.
+1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint, nem tisztelte azt, aki halandó.
 2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, a birtoklás élménye fontosabb volt neki, mint a birtoklás maga.
 3. Télemakhosz negatívan vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
 4. Az "öröksége", az átok, amit magával hordozott, nehezítette a bejutást.
