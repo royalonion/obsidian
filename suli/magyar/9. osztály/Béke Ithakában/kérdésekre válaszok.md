@@ -26,4 +26,7 @@
 11. 
 12. Hermész azt mondja el, hogy túl nagyra nőtt az emberiség.
 13. Egymással háltak.
-# harmadik én
+# harmadik ének
+1. a
+2. Glaukos kereskedő volt, Kirkének adott el szépészeti kellékeket, egyszer magával akarta vinni Skyllát, de ez nem jött össze, és malaccá változtatta Kirké.
+3. Skylla együtt hált Télemakhosszal, e
