@@ -23,4 +23,4 @@
 8. Az ember kövekből származó eredetét. Helyette Prométheus és Pandora gyerekét mondja az első embernek.
 9. A halhatatlanságot és az örök ifjúságot kapta volna, de ezt Ulysess visszautasította.
 10. Mert képes volt Kalypsót szeretni, és elbűvölte őt a jellemével (?).
-11. 
+11. Az emberek szereoe szer
