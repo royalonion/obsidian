@@ -29,4 +29,7 @@
 # harmadik ének
 1. a
 2. Glaukos kereskedő volt, Kirkének adott el szépészeti kellékeket, egyszer magával akarta vinni Skyllát, de ez nem jött össze, és malaccá változtatta Kirké.
-3. Skylla együtt hált Télemakhosszal, e
+3. Skylla együtt hált Télemakhosszal, ezért Kirké vízi szörnyé változtatta
+4. Télegonoszt az anyja beküldi Skyllához, hogy segítsen neki, de valójában tetszik neki. Együtt hálnak, és Télegonosz elveszti a szüzességét.
+5. Hermés idős, testes, de magas volt, és előkelő(bb).
+6. Kirkének 
