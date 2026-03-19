@@ -14,7 +14,7 @@
 13. Ulysess csak a tengeren érezte jól magát, az utolsó szavaiból derül ki.
 # második ének
 1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint, nem tisztelte azt, aki halandó.
-2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, a birtoklás élménye fontosabb volt neki, mint a birtoklás maga.
+2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, 20 év tengeri vándorlás után nem számitottak ezek neki.
 3. Télemakhosz negatívan vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
 4. Az "öröksége", az átok, amit magával hordozott, nehezítette a bejutást.
 5. Távolságtartó, Alkinoosz Odüsszeusz utódját látja Télemakhoszban, nem az igazi alakját.
