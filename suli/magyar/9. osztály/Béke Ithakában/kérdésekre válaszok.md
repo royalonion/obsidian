@@ -17,7 +17,7 @@
 2. A kincseket vagy megszerezte, vagy elhagyta, nem foglalkozott velük, 20 év tengeri vándorlás után nem számitottak ezek neki.
 3. Télemakhosz negatívan, irtózattal vélekedik a kérők megöléséről, mészárlásnak, vérontásnak gondolja, mintsem dicső bosszúnak. Egy öregember dühét látta benne.
 4. Azután, hogy Ulysess segítése után veszteség érte a Phaiákokat, megnehezítették a bejutást.
-5. Követelte, hogy beszéljen Alkinoosszal, és ezért a kirá
+5. Követelte, hogy beszéljen Alkinoosszal, és ezért a király elkezdett érdeklődni Ulysess után, mert nem tudtak róla semmit azóta, hogy hazatért.
 6. Télemakhosz az apja öröksége miatt, Nauszika pedig Ulysesst látja Télemakhoszban, vagyis őt keresi, és Ulysess ígéretét, miszerint elküldi a fiát egyszer a szigetre.
 7. A történetet két, párhuzamos jóslat öleli át - az egyik, miszerint Ulysesst a fia fogja megölni, és a másik, ami ebből adódik, hogy Ulysess meg fogja ölni a fiát. Ezt (érthető módon) Télemakhosz "magára veszi", és fél attól, hogy apja megöli önmaga védelmében.
 8. Az ember kövekből származó eredetét. Helyette Prométheus és Pandora gyerekét mondja az első embernek.
