@@ -24,4 +24,6 @@
 9. A halhatatlanságot és az örök ifjúságot kapta volna, de ezt Ulysess visszautasította.
 10. Mert képes volt Kalypsót szeretni, és elbűvölte őt a jellemével (?)
 11. 
-12. 
+12. Hermész azt mondja el, hogy túl nagyra nőtt az emberiség.
+13. Egymással háltak.
+# harmadik én
