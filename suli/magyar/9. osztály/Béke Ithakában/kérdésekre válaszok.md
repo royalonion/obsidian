@@ -10,7 +10,7 @@
 9. Pénelopé bár testileg hű maradt, de lélekben elvesztette hűségét ("A kísértés nagy volt.")
 10. Nem űzi el a szigetről, pedig gondolkozik rajta, a "nőházba" küldi a szigeten, mert azt hiszi (jó oka van rá - az utolsó kérő dicsekedett neki), hogy megcsalta Pénelopé. Emiatt megszűnnek a beszélgetések a pár között.
 11. Azt, hogy visszatér. Ez összejött (vagyis lélekben, fejben nem, egy másik Ulysess ért haza), hazament meghalni.
-12. Az utolsó hazatérése már a halálba történik, elindul utoljára, egy olyan helyet keres, ahol nem ismerik. Télegonosz öli meg.
+12. Álruhában, öreg koldus képében, Télegonos öli meg.
 13. Ulysess kezdetben olyan, mintha Ithakában érezné magát otthon, de valójában a tengeren, mozgásban van csak jól.
 # második ének
 1. Ulysess számára a világ lehetőségekből állt Télemakhosz szerint. Nem épített, hanem elvett, nem ismerte a kerítést, minden az övé volt.
