@@ -22,5 +22,6 @@
 7. A történetet két, párhuzamos jóslat öleli át - az egyik, miszerint Ulysesst a fia fogja megölni, és a másik, ami ebből adódik, hogy Ulysess meg fogja ölni a fiát. Ezt (érthető módon) Télemakhosz "magára veszi", és fél attól, hogy apja megöli önmaga védelmében.
 8. Az ember kövekből származó eredetét. Helyette Prométheus és Pandora gyerekét mondja az első embernek.
 9. A halhatatlanságot és az örök ifjúságot kapta volna, de ezt Ulysess visszautasította.
-10. Mert képes volt Kalypsót szeretni, és elbűvölte őt a jellemével (?).
-11. Az emberek szereoe szer
+10. Mert képes volt Kalypsót szeretni, és elbűvölte őt a jellemével (?)
+11. 
+12. 
