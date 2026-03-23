@@ -1,3 +1,4 @@
+#mun #bimun #ccpcj
 *The following document is an annex of the Rules of Procedure of Budapest International*
 *Model United Nations 2026, and contains the Secretariat’s expectations on conduct*
 *concerning the use of Artificial Intelligence.*
