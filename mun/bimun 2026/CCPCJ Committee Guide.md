@@ -53,8 +53,9 @@ American and Caribbean States, four for Eastern European States, and seven for W
 European and other States. One Chair, three vice-Chairs, and one Rapporteur form the bureau
 of the CCPCJ.
 
-Introduction to the topic
-Strengthening international legal frameworks to abolish the use of capital punishment.
+---
+# Introduction to the topic
+## Strengthening international legal frameworks to abolish the use of capital punishment.
 Capital punishment, better known as the death penalty, is the legal execution of a criminal
 ordered by the government. The crimes that entail this penalty are often referred to as “capital
 crimes”. In many nations, these include: murder, treason, espionage, terrorism, or even drug
@@ -83,7 +84,8 @@ lastly, there are those who still actively carry out executions. These were all 
 Amnesty International, and they have found that more than two-thirds of today's governments
 have left the use of the death penalty behind.
 
-Causes
+---
+# Causes
 
 The main idea behind the use of capital punishment is that it is the best way to discourage
 serious crime, however, many studies contradict this claim. The other reason why it is still
@@ -100,7 +102,8 @@ There have been many instances where DNA results revealed a wrongful conviction 
 death penalty had already been carried out, ultimately resulting in the abolishment of the
 death penalty in most nations with developed judicial systems.
 
-Strongly affected regions
+---
+# Strongly affected regions
 In 2025, a significant increase in the use of capital punishment was determined, especially
 because of drug offenses. Regions where people are affected by capital punishment are Iran
 (1.500 reported executions), Saudi Arabia (356 reported executions), the United States of
@@ -109,7 +112,8 @@ executions), and Afghanistan (4 reported public executions). Additionally, in th
 People’s Republic of Korea and China, exact numbers are difficult to obtain, as the use of
 capital punishment remains secret.
 
-Latest Developments
+---
+# Latest Developments
 The global abolition of capital punishment shows a mixed pattern. On the one hand, the use
 of capital punishment increased drastically in the last year, especially in countries like Iran,
 Saudi Arabia, and the USA. In 2025, the number of executions in Iran more nearly doubled
@@ -130,12 +134,13 @@ voting in favor of a UN resolution calling for a global moratorium on executions
 December 2024. Despite this pressure, executions increased in Iran, the USA, and Iraq. The
 implementation of an abolition is a slow but continuing global trend.
 
-Measures taken by the United Nations (UN)
+---
+# Measures taken by the United Nations (UN)
 The United Nations (UN) has made it clear that it's one of its own to limit and ultimately
 fully abolish capital punishment. There have been many institutions and treaties to back up
 this claim.
 
-International Covenant on Civil and Political Rights (ICCPR):
+## International Covenant on Civil and Political Rights (ICCPR):
 This treaty is one of the core human-rights treaties implemented by the United Nations) UN.
 Its main purpose is to protect fundemental human-rights such as, but not limited to: Right to
 life, freedom from torture, right to a fair trial, freedom from arbitrary arrest, and equality
@@ -146,7 +151,7 @@ use of the death penalty, however it limits it greatly. Capital punishment must 
 for the “most serious crimes”, it must not be used on minors, and everyone must have a fair
 trial and the right to appeal.
 
-Second optional protocol:
+## Second optional protocol:
 This is one of the optional protocols connected to the International Covenant on Civil and
 Political Rights (ICCPR). Its purpose is that any nation that ratifies this protocol commits to
 ending goverment ordered executions and fully abolishing them within their legal systems.
@@ -155,14 +160,15 @@ governments accountable and request help from the international community after 
 their governments' domestic remedies. The creation of this protocol was one of the main steps
 taken by the United Nations (UN) to abolish capital punishment.
 
-United Nations General Assembly (UNGA):
+## United Nations General Assembly (UNGA):
 While the resolutions of the United Nations General Assembly (UNGA) are non-binding,
 they are great at establishing international norms and placing political pressure on the
 outliers. The General Assembly (GA) has adopted many resolutions that discuss the topic of
 capital punishment throughout its history, most notably in 1971, 1977, 2007, and every
 second year since then. This has kept the debates about the topic alive.
 
-Possible Solutions
+---
+# Possible Solutions
 To combat the use of capital punishment, there are possible ways. The UN passed the
 „Second Optional Protocol to the International Covenant on Civil and Political Rights“ in
 
@@ -174,7 +180,8 @@ national attention to the ongoing use of capital punishment in certain countries
 Everything mentioned is a step in the right direction to strengthen legal frameworks to
 abolish the use of capital punishment.
 
-Helpful Links
+---
+# Helpful Links
 - https://deathpenaltyinfo.org/u-n-experts-almost-impossible-for-countries-to-adm
 inister-death-penalty-without-violating-defendants-human-rights
 - https://www.ohchr.org/en/press-releases/2026/01/alarming-trends-executions-202
