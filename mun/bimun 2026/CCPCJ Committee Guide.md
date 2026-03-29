@@ -26,7 +26,6 @@ My name is Okolicsányi Huba, and I'll be your other chair during BIMUN 2026. I 
 years old, and I'm in the 11th grade. I live in Budapest, and I go to the school that hosts
 BIMUN. I love doing all kinds of sports, especially team sports, and I'm an extremely artistic
 person, so I value creativity a lot. If you have any questions about the conference or the city,
-
 feel free to contact us via email, and we might be able to give you a better insight. I am really
 looking forward to chairing you, and I am sure that we will have a wonderful time together.
 Contact: okolicsanyi.huba@gmail.com
