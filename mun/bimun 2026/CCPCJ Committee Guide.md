@@ -171,7 +171,6 @@ second year since then. This has kept the debates about the topic alive.
 # Possible Solutions
 To combat the use of capital punishment, there are possible ways. The UN passed the
 „Second Optional Protocol to the International Covenant on Civil and Political Rights“ in
-
 December 1989. This protocol aims to abolish the death penalty globally, as the death penalty
 is a serious violation of human rights. „World Day Against the Death Penalty “ is observed
 every October 10th. Initiated by „the world coalition against the death penalty“ this day raises
@@ -182,12 +181,9 @@ abolish the use of capital punishment.
 
 ---
 # Helpful Links
-- https://deathpenaltyinfo.org/u-n-experts-almost-impossible-for-countries-to-adm
-inister-death-penalty-without-violating-defendants-human-rights
-- https://www.ohchr.org/en/press-releases/2026/01/alarming-trends-executions-202
-5-raise-serious-human-rights-concerns-un-human
+- https://deathpenaltyinfo.org/u-n-experts-almost-impossible-for-countries-to-administer-death-penalty-without-violating-defendants-human-rights
+- https://www.ohchr.org/en/press-releases/2026/01/alarming-trends-executions-2025-raise-serious-human-rights-concerns-un-human
 - https://worldcoalition.org/campagne/19th-world-day-against-the-death-penalty/
 - https://www.amnesty.org/en/what-we-do/death-penalty/
 - https://www.ohchr.org/en/topic/death-penalty
-- https://www.ohchr.org/en/instruments-mechanisms/instruments/international-co
-venant-civil-and-political-rights
+- https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights
