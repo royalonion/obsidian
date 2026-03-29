@@ -141,7 +141,7 @@ fully abolish capital punishment. There have been many institutions and treaties
 this claim.
 
 ## International Covenant on Civil and Political Rights (ICCPR):
-This treaty is one of the core human-rights treaties implemented by the United Nations) UN.
+This treaty is one of the core human-rights treaties implemented by the United Nations (UN).
 Its main purpose is to protect fundemental human-rights such as, but not limited to: Right to
 life, freedom from torture, right to a fair trial, freedom from arbitrary arrest, and equality
 before the law. It was adopted by the United Nations (UN) in 1966, and it entered into force
