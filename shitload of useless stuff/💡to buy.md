@@ -21,6 +21,7 @@
 # photography
 - canon lens (18-55?) - *ebay/fbmp/jófogás*
 - camcorder - *ebay*
+- body cap - *aliexpress*
 ---
 # laptop
 - m1 macbook air (black/grey) - *ebay*
@@ -30,3 +31,6 @@
 ---
 # watch
 - apple watch (se 3?) - *apple/local store*
+---
+# bike
+- back light *dechatlon/aliexpress*
