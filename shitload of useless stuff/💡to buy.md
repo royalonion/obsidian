@@ -15,6 +15,7 @@
 ## console
 - DSi - *ebay*
 - Wii - *ebay*
+- Switch/Switch Lite - *ebay*
 ## video game
 - Sea of Thieves (2025?) - *G2A/Eneba*
 ---
