@@ -1,0 +1,1 @@
+Calls upon all nations to maintain their sovereignty in the debated topic, however, accept the final resolution as it respects state sovereignity, but strengthens rules and helps reduce unnecessary capital punishment cases;
