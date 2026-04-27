@@ -1,0 +1,2 @@
+- szűk a ~~picsám~~ piac
+- 
