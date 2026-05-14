@@ -8,3 +8,4 @@
 - Die Hanse - hanza
 	- tömegtermékek szállítása (hal, gabona, fa)
 	- Hollandia szottyos
+	- van szárazfölfi kapcsolat is
