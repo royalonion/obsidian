@@ -6,4 +6,5 @@
 		- akkor gép, ha autonóm működik
 			- ékszíj meg két csiga, random tisztelgés vagy mi a fasz
 - Die Hanse - hanza
-	- tömegtermékek szállítása
+	- tömegtermékek szállítása (hal, gabona, fa)
+	- Hollandia szottyos
