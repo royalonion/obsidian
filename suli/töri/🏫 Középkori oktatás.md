@@ -1,4 +1,6 @@
 - nincs közoktatás, nincs rendszer
 	- nincs intézmény (iskola)
 - cél
-	- a királynak való behódolás 
+	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés
+	- most: a demokratikus normákra való nevelés
+- 
