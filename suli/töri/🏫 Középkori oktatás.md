@@ -1,0 +1,3 @@
+- nincs közoktatás, nincs rendszer
+	- nincs intézmény (iskola)
+- 
