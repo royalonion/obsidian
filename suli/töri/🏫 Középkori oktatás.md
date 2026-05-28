@@ -1,4 +1,4 @@
 - nincs közoktatás, nincs rendszer
 	- nincs intézmény (iskola)
 - cél
-	- 
+	- a királynak való behódolás 
