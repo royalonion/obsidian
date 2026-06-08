@@ -3,4 +3,8 @@
 - cél
 	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés
 	- most: a demokratikus normákra való nevelés
+- a műveltség
+	- 7 mechanikai művészet
+	- 7 lovagi készség
+	- 7 szabad művészet
 - 
