@@ -25,7 +25,7 @@
 - body cap - *aliexpress*
 ---
 # laptop
-- m1 macbook air (black/grey) - *ebay*
+- m1 macbook air/pro (black/grey) - *ebay*
 ---
 # phone
 - [iphone 17 (green/blue)](https://www.arukereso.hu/mobiltelefon-c3277/apple/iphone-17-256gb-p1236918133/) - *apple/local store*
