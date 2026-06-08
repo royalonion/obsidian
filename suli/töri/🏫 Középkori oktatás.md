@@ -30,4 +30,7 @@
 - más a bemenet, mert nincs kimenet --> karok
 	- 7 szabad művészet
 		- van előtte is már ilyen --> zavar
-		- van kis pap meg na
+		- van kis pap meg nagy pap
+			- kis pap kis tudás
+			- nagy pap nagy tudás
+		- 
