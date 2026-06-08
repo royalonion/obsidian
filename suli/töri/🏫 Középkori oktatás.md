@@ -29,11 +29,13 @@
 	- krampusz
 ## hogyan tovább - karok?
 - más a bemenet, mert nincs kimenet --> karok
-	- 7 szabad művészet
-		- van előtte is már ilyen --> zavar
-		- van kis pap meg nagy pap
-			- kis pap kis tudás
-			- nagy pap nagy tudás
+	- kell 4 kar, anélkül no-go
+		- 7 szabad művészet
+			- van előtte is már ilyen --> zavar
+			- van kis pap meg nagy pap
+				- kis pap kis tudás
+				- nagy pap nagy tudás
+		- 
 # fenntartás
 - anno a király volt a fenntartó - nagyon drága
 	- a tanárok parasztok
