@@ -14,4 +14,3 @@
 - fokozatok
 	- a klerikus fokozatok egymásra épülnek
 	- a laikus nem feltétlenül
-- 
