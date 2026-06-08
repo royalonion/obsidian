@@ -25,6 +25,9 @@
 	- mecénás - sugar daddy
 - beiratkozási folyamat kell azért
 - kell szállás - az is kurva drága
-	- Villon egy sztriptízbárban lakott pl
-## hogyan tovább?
-- más a bemenet, mert nincs kimenet
+	- Villon is egy sztriptízbárban lakott pl
+## hogyan tovább - karok?
+- más a bemenet, mert nincs kimenet --> karok
+	- 7 szabad művészet
+		- van előtte is már ilyen --> zavar
+		- van kis pap meg na
