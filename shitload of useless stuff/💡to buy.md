@@ -19,7 +19,6 @@
 - Sea of Thieves (2025?) - *G2A/Eneba*
 ---
 # photography
-- canon lens (18-55?) - *ebay/fbmp/jófogás*
 - camcorder - *ebay*
 - body cap - *aliexpress*
 ---
@@ -27,10 +26,9 @@
 - m1 macbook air/pro (black/grey) - *ebay*
 ---
 # phone
+- iphone 7/8 - *vinted*
 - [iphone 17 (green/blue)](https://www.arukereso.hu/mobiltelefon-c3277/apple/iphone-17-256gb-p1236918133/) - *apple/local store*
+- blackberry/xperia - *vinted*
 ---
 # watch
 - apple watch (se 3?) - *apple/local store*
----
-# bike
-- back light *dechatlon/aliexpress*
