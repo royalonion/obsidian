@@ -5,7 +5,7 @@
 - cél
 	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés; **a király célja**
 	- most: a demokratikus normákra való nevelés; **az állam célja**
-- a műveltség
+# a műveltség
 - klerikus külön oktatva
 	- 7 szabad művészet
 - laikus külön oktatva - készségtárgyak
@@ -17,3 +17,8 @@
 # egyetem
 - nincs egyetemes tudás
 	- ma érettségi (maturátus) - kimeneti szabályozás
+	- korábban (kommcsik pl) - bemeneti szabályozás - már nem kell
+	- régen - semmilyen szab.
+- ki megy egyetemre?
+	- pénz, pénz, pénz.
+	- 
