@@ -17,3 +17,5 @@
 	- a klerikus fokozatok egymásra épülnek
 	- a laikus nem feltétlenül
 # egyetem
+- nincs egyetemes tudás
+	- ma érettségi (maturátus)
