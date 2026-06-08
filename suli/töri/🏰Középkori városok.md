@@ -4,4 +4,3 @@
 		- az ókorban csak pl a limes határ
 - a középkori hatalom vidéken az ókori városi központ helyett
 	- nemesek kezében, ők a birtokokon
-- 
