@@ -1,5 +1,5 @@
 - nincs közoktatás, nincs rendszer
-	- nincs intézmény (iskola)
+	- nincs intézmény (iskola) - 18. sz.-ig
 - cél
 	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés
 	- most: a demokratikus normákra való nevelés
