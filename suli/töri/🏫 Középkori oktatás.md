@@ -1,9 +1,9 @@
 - nincs közoktatás, nincs rendszer
 	- nincs intézmény (iskola) - 18. sz.-ig
+	- nem oktat, hanem nevel (akarja legalábbis)
 - cél
 	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés; **a király célja**
 	- most: a demokratikus normákra való nevelés; **az állam célja**
-		- nem oktat, hanem nevel (akarja legalábbis)
 - a műveltség
 	- 7 mechanikai művészet
 	- 7 lovagi készség
