@@ -1,3 +1,4 @@
+# alapok
 - nincs közoktatás, nincs rendszer
 	- nincs intézmény (iskola) - 18. sz.-ig
 	- nem oktat, hanem nevel (akarja legalábbis)
@@ -15,3 +16,4 @@
 - fokozatok
 	- a klerikus fokozatok egymásra épülnek
 	- a laikus nem feltétlenül
+# egyetem
