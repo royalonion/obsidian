@@ -11,3 +11,7 @@
 - laikus külön oktatva - készségtárgyak
 	- lovagok
 	- dolgozók (laboratores)
+- fokozatok
+	- a klerikus fokozatok egymásra épülnek
+	- a laikus nem feltétlenül
+- 
