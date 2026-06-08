@@ -7,7 +7,7 @@
 	- 7 mechanikai művészet
 	- 7 lovagi készség
 	- 7 szabad művészet
-- klerikus és laikus külön oktatva
+- klerikus külön oktatva
+- laikus külön oktatva - készségtárgyak
 	- lovagok
 	- dolgozók (laboratores)
-- 
