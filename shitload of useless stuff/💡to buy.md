@@ -8,7 +8,6 @@
 - [sonoff zigbee adapter(s)](https://okosotthon.bolt.hu/webaruhaz/termek/sonoff-dongle-light-lmg21/) - *local seller/aliexpress*
 ---
 # notes
-- [[lamy type shit|lamy safari with ink and converter]] - *pirex*
 - [remarkable 2 (with marker plus)](https://remarkable.com/shop/refurbished/remarkable-2) - *official site*
 ---
 # game
