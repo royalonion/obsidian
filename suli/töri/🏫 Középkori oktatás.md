@@ -43,4 +43,3 @@
 - akkreditáció - alapítás
 	- ma is kell
 	- régen kellett a Pápa javaslata/engedélye/stb
-- 
