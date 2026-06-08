@@ -6,11 +6,11 @@
 	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés; **a király célja**
 	- most: a demokratikus normákra való nevelés; **az állam célja**
 - a műveltség
-	- 7 szabad művészet
 - klerikus külön oktatva
+	- 7 szabad művészet
 - laikus külön oktatva - készségtárgyak
-	- lovagok
-	- dolgozók (laboratores)
+	- lovagok - 7 lovagi készség
+	- dolgozók (laboratores) - 7 mechanikai művészet
 - fokozatok
 	- a klerikus fokozatok egymásra épülnek
 	- a laikus nem feltétlenül
