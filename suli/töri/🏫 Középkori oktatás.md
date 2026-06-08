@@ -21,4 +21,8 @@
 	- régen - semmilyen szab.
 - ki megy egyetemre?
 	- pénz, pénz, pénz.
-	- 
+	- mecénás - sugar daddy
+	- beiratkozási folyamat kell azért
+	- kell szállás - az is kurva drága
+		- Villon egy sztriptízbárban lakott pl
+- 
