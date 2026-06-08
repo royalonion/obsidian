@@ -15,14 +15,16 @@
 	- a klerikus fokozatok egymásra épülnek
 	- a laikus nem feltétlenül
 # egyetem
+## alap
 - nincs egyetemes tudás
 	- ma érettségi (maturátus) - kimeneti szabályozás
 	- korábban (kommcsik pl) - bemeneti szabályozás - már nem kell
 	- régen - semmilyen szab.
-- ki megy egyetemre?
-	- pénz, pénz, pénz.
+## ki megy egyetemre?
+- pénz, pénz, pénz.
 	- mecénás - sugar daddy
-	- beiratkozási folyamat kell azért
-	- kell szállás - az is kurva drága
-		- Villon egy sztriptízbárban lakott pl
-- 
+- beiratkozási folyamat kell azért
+- kell szállás - az is kurva drága
+	- Villon egy sztriptízbárban lakott pl
+## hogyan tovább?
+- más a bemenet, mert nincs kimenet
