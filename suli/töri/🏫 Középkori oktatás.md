@@ -6,8 +6,6 @@
 	- középkor: a királynak való behódolás legjobb teljesítése + az Istennek tetsző életmód szerinti létezés; **a király célja**
 	- most: a demokratikus normákra való nevelés; **az állam célja**
 - a műveltség
-	- 7 mechanikai művészet
-	- 7 lovagi készség
 	- 7 szabad művészet
 - klerikus külön oktatva
 - laikus külön oktatva - készségtárgyak
@@ -18,4 +16,4 @@
 	- a laikus nem feltétlenül
 # egyetem
 - nincs egyetemes tudás
-	- ma érettségi (maturátus)
+	- ma érettségi (maturátus) - kimeneti szabályozás
