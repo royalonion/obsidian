@@ -12,6 +12,8 @@
 		- finnugor, török, sumer, etruszk
 		- az alapszókincset kell vizsgálni - fej, nyak, láb, **MELL** - ***finnugor***
 		- grammatika - ***türk*** sokszor
-		- a fejlődés hasonlít sokszor, nem a szavak, vagy a n
+		- a fejlődés hasonlít sokszor, nem a szavak, vagy a nyelvtan
 	- régészeti bizonyítékok
+		- nem ér sokat
 	- néprajzi bizonyítékok
+		- a maiból próbálja rekonstruálni a honfoglaláskorit
