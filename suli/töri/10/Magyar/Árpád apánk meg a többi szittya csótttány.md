@@ -9,9 +9,7 @@
 # mi fán terem a középső csoportos?
 - túl sok lehetőség
 	- nyelvi bizonyítékok
-		- finnugor
-		- török
-		- sumer
-		- etruszk
+		- finnugor, török, sumer, etruszk
+		- az alapszókincset kell vizsgálni - fej, nyak, láb, **MELL**
 	- régészeti bizonyítékok
 	- néprajzi bizonyítékok
