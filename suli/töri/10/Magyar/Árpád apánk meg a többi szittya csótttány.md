@@ -10,6 +10,8 @@
 - túl sok lehetőség
 	- nyelvi bizonyítékok
 		- finnugor, török, sumer, etruszk
-		- az alapszókincset kell vizsgálni - fej, nyak, láb, **MELL**
+		- az alapszókincset kell vizsgálni - fej, nyak, láb, **MELL** - ***finnugor***
+		- grammatika - ***türk*** sokszor
+		- a fejlődés hasonlít sokszor, nem a szavak, vagy a n
 	- régészeti bizonyítékok
 	- néprajzi bizonyítékok
