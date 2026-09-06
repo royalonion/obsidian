@@ -29,3 +29,7 @@
 	- Mixáth-intertextus
 - Bevezetés a szépirodalomba
 	- a posztmodern egyik bibliája
+	- gyűjtő
+	- 11. oldal - Iskola a határon-másolat
+	- a lopás kapcsolata a posztmodernnel - textusok itt szóba jöhetnek
+	- utóbbi regényei a futballról beszélnek
