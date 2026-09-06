@@ -11,12 +11,13 @@
 - színházi rádióközvetítés kombója a focival
 - nincs valós középút
 - a kortársak jellemzése, véleményezése, ki miben a legjobb
+- összekeverés
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
 # Dés László
 -  Németországi út, "most is csak oda ment"
-- "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."
+- "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."; összekeverések
 # Németh Gábor
 - kezdetleges marketing, első találkozás/"látás", kínai trikó plusz farmer, flegmaság
 - HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami; fűzfa
@@ -32,7 +33,7 @@
 - 
 # Závada Pál
 - humor, irónia, komolyság, önismeret
-- beregszászi túra, paprikás csirke without limits, kevés szoba vagy ágy vagy mi, egy hálóteremben aludtak, Péter teljesen pucéran
+- beregszászi túra, paprikás csirke without limits, kevés szoba vagy ágy vagy mi, egy hálóteremben aludtak, Péter teljesen pucéran; turnék, utak
 # Várszegi Asztrik (!)
 - "Excellenciás uram, fősztisztelendő uram, csuhás, Asztrik - a lényeg a szeretet, itt van bent."
 - 
@@ -46,11 +47,9 @@
 - korszakhatár
 - a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés; a történetek jelentősége; az egyik utolsó kézzel író író
 # Grecsó Krisztián
-- sokan nem bocsátották meg, amikor a segítségnyújtása elmúlt
-- 
+- sokan nem bocsátották meg, amikor a segítségnyújtása elmúlt; 
 # Darvasi László
-- "Előhívta a /sznobokat, gondolkodókat, az igazságra szomjazókat, a látni akarókat/ a napfényre..."
-- 
+- "Előhívta a /sznobokat, gondolkodókat, az igazságra szomjazókat, a látni akarókat/ a napfényre..."; minden megváltozik, hiába nem látszik azonnal; nagyon szabad ember volt, a tehetségével is
 # Csaplár Vilmos
 - rendkívül mókásan, viccesen tudott írni a politikáról, kellemetlen dolgokról; felkérték arra, hogy írjon valamit róla - a végtelenített mondatról írt - határtalan, nagy energia; ez az ő c-vitaminja
 - nem halt meg egészen, mert túlságosan kedvelt, nem olyan, mint egy halott író
