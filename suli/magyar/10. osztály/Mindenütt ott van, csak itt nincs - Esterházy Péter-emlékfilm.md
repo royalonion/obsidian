@@ -2,6 +2,9 @@
 - Kutyák, egyiptomiak
 - Madách házasságáról szóló novella - Fráter Erzsike; nagy fenekű szakácsnő
 - "A regényben csak az van, ami a regényben van." - ha nincs délután, akkor nincs délután
+- a Római két része: a Dunások, és a Strandosok - a strandon lehetett focizni, a másik part zavaró, idegesítő; minél nagyobb az árvíz, annál szebb
+- pocsolya; mi vagyunk az NDK-s turisták
+- ha az öregedés fájna, akkor ez is fájna; a fiatalokkal versengés
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól
@@ -39,7 +42,8 @@
 # Csaplár Vilmos
 - rendkívül mókásan, viccesen tudott írni a politikáról, kellemetlen dolgokról; 
 # Esterházy Márton
-- nagy fociélet, 
+- nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
+- még mindig felfoghatatlan a hiánya, az, hogy nincs
 # Cserna-Szabó András
 - Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi)
 - 
