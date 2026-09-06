@@ -18,4 +18,8 @@
 		- gyermekkor, felnőttkor, jelenkor, zárófejezet
 		- három külön én
 		- nincs nyelvi eltérés a fejezetek között
-		- 
+- Párhuzamos történetek
+	- testi, fizikai, szexuális dolgok konkrét megjelenítése
+# Esterházy Péter
+[[Mindenütt ott van, csak itt nincs - Esterházy Péter-emlékfilm|Itt eléred az emlékfilmhez írott jegyzeteket]]
+- az areferenciális második posztmodern kialakításában játsz
