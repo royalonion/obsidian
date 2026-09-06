@@ -10,6 +10,7 @@
 - a képesség a képesség hiánya - csak mondatokon keresztül lát; módosítás, igazabb?
 - színházi rádióközvetítés kombója a focival
 - nincs valós középút
+- a kortársak jellemzése, véleményezése, ki miben a legjobb
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
@@ -43,7 +44,7 @@
 - futballpályára elkíséri az apa a fiát, egy gróf kb, aki nem jártas a focikultúrában
 # Tóth Krisztina
 - korszakhatár
-- a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés; a történetek jelentősége
+- a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés; a történetek jelentősége; az egyik utolsó kézzel író író
 # Grecsó Krisztián
 - sokan nem bocsátották meg, amikor a segítségnyújtása elmúlt
 - 
@@ -57,5 +58,5 @@
 - nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
 # Cserna-Szabó András
-- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene; változik a dekódolási készség
+- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene; változik a dekódolási készség; a kortásakról beszél
 - a humor nem kívánatos a magyar irodalomban
