@@ -7,6 +7,7 @@
 - ha az öregedés fájna, akkor ez is fájna; a fiatalokkal nehéz tartani a tempót
 - gyertyák a tortán
 - felolvasás - látta...
+- a képesség a képesség hiánya - csak mondatokon keresztül lát; módosítás, igazabb?
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól
@@ -48,7 +49,7 @@
 - 
 # Csaplár Vilmos
 - rendkívül mókásan, viccesen tudott írni a politikáról, kellemetlen dolgokról; felkérték arra, hogy írjon valamit róla - a végtelenített mondatról írt - határtalan, nagy energia; ez az ő c-vitaminja
-- nem
+- nem halt meg egészen, mert túlságosan kedvelt, nem olyan, mint egy halott író
 # Esterházy Márton
 - nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
