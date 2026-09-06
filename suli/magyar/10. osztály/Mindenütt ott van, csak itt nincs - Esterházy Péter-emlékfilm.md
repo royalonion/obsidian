@@ -4,7 +4,7 @@
 - "A regényben csak az van, ami a regényben van." - ha nincs délután, akkor nincs délután
 - a Római két része: a Dunások, és a Strandosok - a strandon lehetett focizni, a másik part zavaró, idegesítő; minél nagyobb az árvíz, annál szebb
 - pocsolya; mi vagyunk az NDK-s turisták
-- ha az öregedés fájna, akkor ez is fájna; a fiatalokkal versengés
+- ha az öregedés fájna, akkor ez is fájna; a fiatalokkal nehéz tartani a tempót
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól
@@ -32,6 +32,7 @@
 - 
 # Kulcsár Szabó Ernő
 - szépen beszélt németül, a grammatika viszont nem foglalkoztatta
+- futballpályára elkíséri az apa a fiát, egy gróf kb, aki nem jártas a focikultúrában
 # Tóth Krisztina
 - korszakhatár
 - a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés
