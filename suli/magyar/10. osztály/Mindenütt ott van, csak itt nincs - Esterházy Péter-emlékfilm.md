@@ -8,9 +8,11 @@
 - gyertyák a tortán
 - felolvasás - látta...
 - a képesség a képesség hiánya - csak mondatokon keresztül lát; módosítás, igazabb?
+- színházi rádióközvetítés kombója a focival
+- nincs valós középút
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
-- Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól
+- Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
 # Dés László
 -  Németországi út, "most is csak oda ment"
 - "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."
@@ -24,7 +26,7 @@
 - apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
 - kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni, nnnn, mmm
 # Szabó T. Anna
-- 
+- a boldog költő
 - 
 # Závada Pál
 - humor, irónia, komolyság, önismeret
@@ -54,5 +56,5 @@
 - nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
 # Cserna-Szabó András
-- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene; változik 
+- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene; változik a dekódolási készség
 - a humor nem kívánatos a magyar irodalomban
