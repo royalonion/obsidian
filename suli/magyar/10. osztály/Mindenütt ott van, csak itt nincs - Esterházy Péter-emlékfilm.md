@@ -13,6 +13,8 @@
 - a kortársak jellemzése, véleményezése, ki miben a legjobb
 - összekeverés
 - a betegség kultúrája
+- ismerkedőfél
+- testhez való viszony változott az idő során, újra kell kötni
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
@@ -26,7 +28,7 @@
 - folyamatos nemzethalál-vízió ellen dolgozott, a magyarság-dolgot egészen másképp érezte, magyarázta
 - BalassaP behívta EsterházyP-t az ELTE-re előadást tartani, ott találkozott vele először; a mondatai maradandóak
 # Dragomán György
-- apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
+- apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak; úszás
 - kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni, nnnn, mmm
 - valami speciális módon átalakították az Esterházy-villát
 # Szabó T. Anna
