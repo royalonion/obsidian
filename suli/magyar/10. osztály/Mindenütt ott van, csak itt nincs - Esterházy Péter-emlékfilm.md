@@ -19,7 +19,7 @@
 - BalassaP behívta EsterházyP-t az ELTE-re előadást tartani, ott találkozott vele először, 
 # Dragomán György
 - apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
-- kkk minél több nyílászáró ttt
+- kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni
 # Szabó T. Anna
 # Závada Pál
 - humor, irónia, komolyság, önismeret
@@ -35,7 +35,7 @@
 - futballpályára elkíséri az apa a fiát, egy gróf kb, aki nem jártas a focikultúrában
 # Tóth Krisztina
 - korszakhatár
-- a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés
+- a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés; a történetek jelentősége
 # Grecsó Krisztián
 # Darvasi László
 - "Előhívta a /sznobokat, gondolkodókat, az igazságra szomjazókat, a látni akarókat/ a napfényre..."
@@ -47,4 +47,4 @@
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
 # Cserna-Szabó András
 - Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi)
-- 
+- új novella a színpadon, felolvasás, szülők ott, anyuka szégyene
