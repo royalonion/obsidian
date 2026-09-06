@@ -16,7 +16,7 @@
 - "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."
 # Németh Gábor
 - kezdetleges marketing, első találkozás/"látás", kínai trikó plusz farmer, flegmaság
-- HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami
+- HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami; fűzfa
 # Bán Zsófia
 - folyamatos nemzethalál-vízió ellen dolgozott, a magyarság-dolgot egészen másképp érezte, magyarázta
 - BalassaP behívta EsterházyP-t az ELTE-re előadást tartani, ott találkozott vele először, 
@@ -54,5 +54,5 @@
 - nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
 # Cserna-Szabó András
-- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene
+- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene; változik 
 - a humor nem kívánatos a magyar irodalomban
