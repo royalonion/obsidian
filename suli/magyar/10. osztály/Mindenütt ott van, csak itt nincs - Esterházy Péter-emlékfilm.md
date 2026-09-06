@@ -15,6 +15,7 @@
 - a betegség kultúrája
 - ismerkedőfél
 - testhez való viszony változott az idő során, újra kell kötni
+- a könyv szagáról beszélt
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
@@ -39,7 +40,7 @@
 - beregszászi túra, paprikás csirke without limits, kevés szoba vagy ágy vagy mi, egy hálóteremben aludtak, Péter teljesen pucéran; turnék, utak
 # Várszegi Asztrik (!)
 - "Excellenciás uram, fősztisztelendő uram, csuhás, Asztrik - a lényeg a szeretet, itt van bent."
-- 
+- fájdalmas humor, orvos, rák
 # Péterfy Gergely
 - kacagás
 - a jelenlétében volt valami angyali
