@@ -21,7 +21,7 @@
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
 # Dés László
 -  Németországi út, "most is csak oda ment"
-- "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."; összekeverések; beszél a társaságukról
+- "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."; összekeverések; beszél a társaságukról; olyan volt, mint egy gyerek a végefelé, 
 # Németh Gábor
 - kezdetleges marketing, első találkozás/"látás", kínai trikó plusz farmer, flegmaság
 - HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami; fűzfa
@@ -40,7 +40,7 @@
 - beregszászi túra, paprikás csirke without limits, kevés szoba vagy ágy vagy mi, egy hálóteremben aludtak, Péter teljesen pucéran; turnék, utak
 # Várszegi Asztrik (!)
 - "Excellenciás uram, fősztisztelendő uram, csuhás, Asztrik - a lényeg a szeretet, itt van bent."
-- fájdalmas humor, orvos, rák
+- fájdalmas humor, orvos, rák; telefonhívás, már gyengeként
 # Péterfy Gergely
 - kacagás
 - a jelenlétében volt valami angyali
