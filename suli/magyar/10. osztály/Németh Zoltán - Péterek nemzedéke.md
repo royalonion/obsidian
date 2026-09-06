@@ -1,0 +1,8 @@
+- 70es évek vége - posztmodern prózafordulat - Péterek nemzedéke
+	- Esterházy
+	- Nádas
+	- Lengyel
+	- Hajnóczy
+- ez így nem jó - nem egyforma a stílus, a szerep
+	- Hajnóczy a legkisebb mértékben posztmodern - a többiekhez képest
+- 
