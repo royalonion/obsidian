@@ -22,7 +22,7 @@
 - HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami; fűzfa
 # Bán Zsófia
 - folyamatos nemzethalál-vízió ellen dolgozott, a magyarság-dolgot egészen másképp érezte, magyarázta
-- BalassaP behívta EsterházyP-t az ELTE-re előadást tartani, ott találkozott vele először, 
+- BalassaP behívta EsterházyP-t az ELTE-re előadást tartani, ott találkozott vele először; a mondatai maradandóak
 # Dragomán György
 - apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
 - kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni, nnnn, mmm
