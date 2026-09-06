@@ -13,4 +13,9 @@
 	- nagyapja meséi
 # Nádas Péter
 - kiélezett ellentétek
-- 4 szöveg (2 visszaemlékezés, egy regény, e)
+- Emlékiratok
+	- 4 szöveg (2 visszaemlékezés, egy regény, egy kommentár)
+		- gyermekkor, felnőttkor, jelenkor, zárófejezet
+		- három külön én
+		- nincs nyelvi eltérés a fejezetek között
+		- 
