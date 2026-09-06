@@ -25,6 +25,7 @@
 # Dragomán György
 - apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
 - kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni, nnnn, mmm
+- valami speciális módon átalakították az Esterházy-villát
 # Szabó T. Anna
 - a boldog költő
 - 
