@@ -5,6 +5,7 @@
 - a Római két része: a Dunások, és a Strandosok - a strandon lehetett focizni, a másik part zavaró, idegesítő; minél nagyobb az árvíz, annál szebb
 - pocsolya; mi vagyunk az NDK-s turisták
 - ha az öregedés fájna, akkor ez is fájna; a fiatalokkal nehéz tartani a tempót
+- gyertyák a to
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól
@@ -19,7 +20,7 @@
 - BalassaP behívta EsterházyP-t az ELTE-re előadást tartani, ott találkozott vele először, 
 # Dragomán György
 - apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
-- kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni
+- kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni, nnnn, mmm
 # Szabó T. Anna
 # Závada Pál
 - humor, irónia, komolyság, önismeret
@@ -29,7 +30,7 @@
 - 
 # Péterfy Gergely
 - kacagás
-- 
+- a jelenlétében volt valami angyali
 # Kulcsár Szabó Ernő
 - szépen beszélt németül, a grammatika viszont nem foglalkoztatta
 - futballpályára elkíséri az apa a fiát, egy gróf kb, aki nem jártas a focikultúrában
@@ -46,5 +47,5 @@
 - nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
 # Cserna-Szabó András
-- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi)
-- új novella a színpadon, felolvasás, szülők ott, anyuka szégyene
+- Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi); új novella a színpadon, felolvasás, szülők ott, anyuka szégyene
+- a humor nem kívánatos a magyar irodalomban
