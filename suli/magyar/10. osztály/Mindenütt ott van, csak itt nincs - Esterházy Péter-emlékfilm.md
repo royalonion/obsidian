@@ -9,9 +9,12 @@
 - "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."
 # Németh Gábor
 - kezdetleges marketing, első találkozás/"látás", kínai trikó plusz farmer, flegmaság
-- HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá
+- HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami
 # Bán Zsófia
+- folyamatos nemzethalál-vízió ellen dolgozott, a magyarság-dolgot egészen másképp érezte, magyarázta
 # Dragomán György
+- apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
+- 
 # Szabó T. Anna
 # Závada Pál
 - humor, irónia, komolyság, önismeret
