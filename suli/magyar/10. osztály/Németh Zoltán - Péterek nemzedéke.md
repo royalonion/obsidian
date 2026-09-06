@@ -22,4 +22,8 @@
 	- testi, fizikai, szexuális dolgok konkrét megjelenítése
 # Esterházy Péter
 [[Mindenütt ott van, csak itt nincs - Esterházy Péter-emlékfilm|Itt eléred az emlékfilmhez írott jegyzeteket]]
-- az areferenciális második posztmodern kialakításában játsz
+- az areferenciális második posztmodern kialakításában játszottak szerepet regényei
+- A Termelési-regény az egyik legtöbbet idézett magyar posztmodern
+	- "a nyelvek felszabadításának regénye"
+	- többféleképp is olvasható
+- 
