@@ -5,7 +5,8 @@
 - a Római két része: a Dunások, és a Strandosok - a strandon lehetett focizni, a másik part zavaró, idegesítő; minél nagyobb az árvíz, annál szebb
 - pocsolya; mi vagyunk az NDK-s turisták
 - ha az öregedés fájna, akkor ez is fájna; a fiatalokkal nehéz tartani a tempót
-- gyertyák a to
+- gyertyák a tortán
+- felolvasás - látta...
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól
@@ -22,6 +23,8 @@
 - apuka olvas anyukának; mit lehetett elvinni, amikor kivándoroltak
 - kkk minél több nyílászáró ttt; nagyon tudott írni, ugyanolyan szinten tudott lágytojást törni, nnnn, mmm
 # Szabó T. Anna
+- 
+- 
 # Závada Pál
 - humor, irónia, komolyság, önismeret
 - beregszászi túra, paprikás csirke without limits, kevés szoba vagy ágy vagy mi, egy hálóteremben aludtak, Péter teljesen pucéran
@@ -38,11 +41,14 @@
 - korszakhatár
 - a halála a posztmodern korszak végpontját jelentette, tisztán önéletrajz: átvezetés; a történetek jelentősége
 # Grecsó Krisztián
+- sokan nem bocsátották meg, amikor a segítségnyújtása elmúlt
+- 
 # Darvasi László
 - "Előhívta a /sznobokat, gondolkodókat, az igazságra szomjazókat, a látni akarókat/ a napfényre..."
 - 
 # Csaplár Vilmos
-- rendkívül mókásan, viccesen tudott írni a politikáról, kellemetlen dolgokról; 
+- rendkívül mókásan, viccesen tudott írni a politikáról, kellemetlen dolgokról; felkérték arra, hogy írjon valamit róla - a végtelenített mondatról írt - határtalan, nagy energia; ez az ő c-vitaminja
+- nem
 # Esterházy Márton
 - nagy fociélet, friss ebéd; a két nagy meg a két kicsi, 6 év eltérés, a "kis pöcsök"; technikás focista volt; bestseller a történetekből
 - még mindig felfoghatatlan a hiánya, az, hogy nincs
