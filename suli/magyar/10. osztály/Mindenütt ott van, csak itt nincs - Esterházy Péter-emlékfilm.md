@@ -12,6 +12,7 @@
 - nincs valós középút
 - a kortársak jellemzése, véleményezése, ki miben a legjobb
 - összekeverés
+- a betegség kultúrája
 # Parti Nagy Lajos
 - A barátság vége nem a Péter halála; az olvasó azt hihette, hogy mindent tud róla
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
