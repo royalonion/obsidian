@@ -17,7 +17,7 @@
 - Prágai poénkodás - nem emlékszik senki a részletekre; nagyon tudott dolgozni, szépen, jól; gőgös ember volt, de jó értelemben
 # Dés László
 -  Németországi út, "most is csak oda ment"
-- "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."; összekeverések
+- "Isten mindenütt ott van. Ezzel szemben Esterházy Péter is ott van, csak itt nincs."; összekeverések; beszél a társaságukról
 # Németh Gábor
 - kezdetleges marketing, első találkozás/"látás", kínai trikó plusz farmer, flegmaság
 - HÉV-vel utazni többszörösen nehéz, mert mindig kinéz rá; szavatolás: meddig, halál után is?; minden valaha megírt szöveg összefügg, nem tud eltűnni valami; fűzfa
