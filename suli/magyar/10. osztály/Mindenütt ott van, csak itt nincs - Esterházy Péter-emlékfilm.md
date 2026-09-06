@@ -18,7 +18,7 @@
 # Szabó T. Anna
 # Závada Pál
 - humor, irónia, komolyság, önismeret
-- 
+- beregszászi túra, paprikás csirke without limits, kevés szoba vagy ágy vagy mi, egy hálóteremben aludtak, Péter teljesen pucéran
 # Várszegi Asztrik (!)
 - "Excellenciás uram, fősztisztelendő uram, csuhás, Asztrik - a lényeg a szeretet, itt van bent."
 - 
@@ -32,6 +32,7 @@
 - "Előhívta a /sznobokat, gondolkodókat, az igazságra szomjazókat, a látni akarókat/ a napfényre..."
 - 
 # Csaplár Vilmos
+- rendkívül mókásan, viccesen tudott írni a politikáról, kellemetlen dolgokról; 
 # Esterházy Márton
 # Cserna-Szabó András
 - Michael Jackson-hasonlat, legnagyobb sztár (Hajnóczyt is említi)
