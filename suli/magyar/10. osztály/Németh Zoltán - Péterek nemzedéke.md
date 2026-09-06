@@ -26,4 +26,6 @@
 - A Termelési-regény az egyik legtöbbet idézett magyar posztmodern
 	- "a nyelvek felszabadításának regénye"
 	- többféleképp is olvasható
-- 
+	- Mixáth-intertextus
+- Bevezetés a szépirodalomba
+	- a posztmodern egyik bibliája
