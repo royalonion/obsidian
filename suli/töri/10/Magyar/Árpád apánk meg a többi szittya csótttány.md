@@ -26,4 +26,9 @@
 	- pl nemesség - leginkább
 		- tendenciózus források
 # őshaza-kérdés vagymi
-- 
+- nincs fix hely
+# na ebből is sikerült kurvagyorsan politikát csinálnod
+- aktuálpolitika mint történelemformáló
+	- ha a történelemkönyvek szerint jóban vagyunk, akkor jóban vagyunk
+	- píár
+	- 
