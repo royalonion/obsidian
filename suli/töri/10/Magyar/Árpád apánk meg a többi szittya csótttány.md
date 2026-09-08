@@ -36,4 +36,7 @@
 			- totemek
 			- szövegek (pl krónikák)
 			- kollektív tudat - Attila
-- 
+# Anonymus
+- Szkítia-szittya-satöbbi: ezek vagyunk mi
+	- kb Oroszország-Ukrajna területe lehet
+	- 
