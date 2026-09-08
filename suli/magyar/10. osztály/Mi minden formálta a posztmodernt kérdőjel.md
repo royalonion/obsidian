@@ -8,6 +8,7 @@
 	- Egy családregény vége (1977)
 	- Emlékiratok könyve (1986)
 	- Párhuzamos történetek (2005)
+- önkommentár, 
 ## Nádas - 1942
 - 
 ## Esterházy - 1950

@@ -39,4 +39,8 @@
 # Anonymus
 - Szkítia-szittya-satöbbi: ezek vagyunk mi
 	- kb Oroszország-Ukrajna területe lehet
-	- 
+	- el vannak Magógék zárva Nagy Sanyi által
+		- mesevilág (mind Odysseus)
+		- másvilágból érkeztünk - legitimitás a királyoknak
+- Mágóg <- Jáfet <- Noé
+	- mivan???
