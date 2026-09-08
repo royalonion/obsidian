@@ -17,3 +17,9 @@
 		- nem ér sokat
 	- néprajzi bizonyítékok
 		- a maiból próbálja rekonstruálni a honfoglaláskorit
+# identitások
+- többes identitások is akár
+	- pl zsidók
+		- német nyelv
+		- zsidó hit
+		- magyar nép
