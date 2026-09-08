@@ -31,4 +31,8 @@
 - aktuálpolitika mint történelemformáló
 	- ha a történelemkönyvek szerint jóban vagyunk, akkor jóban vagyunk
 	- píár
-	- 
+	- kun-hun (türk népek)
+		- vándor/vendégmotívumok
+			- totemek
+			- szövegek (pl krónikák)
+			- kollektív tudat
