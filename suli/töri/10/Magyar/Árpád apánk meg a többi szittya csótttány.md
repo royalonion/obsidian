@@ -23,3 +23,6 @@
 		- német nyelv
 		- zsidó hit
 		- magyar nép
+	- pl nemesség - leginkább
+		- tendenciózus források
+# őshaza-kérdés va
