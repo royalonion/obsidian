@@ -35,4 +35,5 @@
 		- vándor/vendégmotívumok
 			- totemek
 			- szövegek (pl krónikák)
-			- kollektív tudat
+			- kollektív tudat - Attila
+- 
