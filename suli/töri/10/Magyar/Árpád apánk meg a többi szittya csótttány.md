@@ -25,4 +25,5 @@
 		- magyar nép
 	- pl nemesség - leginkább
 		- tendenciózus források
-# őshaza-kérdés va
+# őshaza-kérdés vagymi
+- 
