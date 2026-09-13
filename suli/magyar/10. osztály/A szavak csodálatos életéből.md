@@ -8,4 +8,6 @@ Jó ez tulajdonképpen? Nem biztos. Amikor egy gyerek megtudja, hogy a Télapó,
 
 De Esterházy megközelítése eltér a mikulásostól (lehet, hogy náluk nem járt a Nyúl? szegény), ugyanis szerinte az értelmezés kontextusfüggő, és a szavak interpretációja folyamatosan változik. Úgy gondolta, hogy a nyelv nem konstans, és erre hozta példának az 56-ot, ami pont azt szemlélteti, hogy valami nem csak jelentést nyerhet, de veszíthet is. Ezzel manapság elég sokat találkozhatunk, hiszen a trendeknek kihatása van a szavakra is. Tehát azzal, hogy valamit újraolvasunk, újranézünk, újrahallgatunk, lehet, hogy nem ártunk a korábbi nézetünknek, hanem egy újat építünk a régit felhasználva. Ez egy érdekes felfogás, amit érdemes olyankor alkalmazni, amikor egy régi kedvenc filmben valaki felmutat egy lényeges részletet, amiről korábban még nem hallottunk.
 
-A Mindenütt ott van, csak itt nincs c. vi
+A Mindenütt ott van, csak itt nincs c. videó interjú-részeiben Esterházy egy-az-egyben tükrözte a szövegeinek stílusát: megcsörrent egy telefon, megállt, majd szó nélkül folytatta a válaszát onnan, ahol abbahagyta. Amikor pedig a Rómain sétált egy riporterrel, mosolygott azon, hogy az interjúztató majdnem pocsolyába lépett, majd egész másról kezdett el beszélni.
+
+Ha saját véleményt kell formálnom Esterházy munkásságáról, nehéz helyzetben lennék. Azután, hogy már láttam felolvasva - ráadásul általa - A szavak csodálatos életéből c. előadását, könnyebb volt olvasni. De anélkül kife
