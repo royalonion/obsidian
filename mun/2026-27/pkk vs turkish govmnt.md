@@ -1,1 +1,4 @@
-When the Republic of Türkiye was established, it's government decided to make the nation as homogeneous as possible. This resulted in Turkish becoming the only accepted and official language, and the unification of all nationalities - the main minority, Kurds were now suddenly referred to as Turks. In addition, newly born children could only be given Turkish names, and referring to the minority as Kurds became illegal. This raised tension
+# Introduction
+When the Republic of Türkiye was established in 1923, it's government decided to make the nation as homogeneous as possible. This took action in, for example, Turkish becoming the only accepted and official language, and the unification of all nationalities - the main minority, Kurds were now suddenly referred to as Turks. In addition, newly born children could only be given Turkish names, and referring to the minority as Kurds became illegal, raising tension between the occupying nations, and eventually leading to the establishment of the PKK.
+# Early days of the PKK
+The PKK was
