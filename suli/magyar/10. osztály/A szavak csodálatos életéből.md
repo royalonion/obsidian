@@ -10,4 +10,4 @@ De Esterházy megközelítése eltér a mikulásostól (lehet, hogy náluk nem j
 
 A Mindenütt ott van, csak itt nincs c. videó interjú-részeiben Esterházy egy-az-egyben tükrözte a szövegeinek stílusát: megcsörrent egy telefon, megállt, majd szó nélkül folytatta a válaszát onnan, ahol abbahagyta. Amikor pedig a Rómain sétált egy riporterrel, mosolygott azon, hogy az interjúztató majdnem pocsolyába lépett, majd egész másról kezdett el beszélni.
 
-Ha saját véleményt kell formálnom Esterházy munkásságáról, nehéz helyzetben lennék. Azután, hogy már láttam felolvasva - ráadásul általa - A szavak csodálatos életéből c. előadását, könnyebb volt olvasni. De anélkül kife
+Ha saját véleményt kell formálnom Esterházy munkásságáról, nehéz helyzetben lennék. Azután, hogy már láttam felolvasva - ráadásul általa - A szavak csodálatos életéből c. előadását, könnyebb volt olvasni. De anélkül kifejezetten nehéz, és rossz számomra, pedig így nem szoktam érezni. Talán cselekményre vágyom, amely folyamatos. Talán nem. De mindenesetre nem könnyű a könyveit fogyasztani. Ennek ellenére próbálkozom, hátha változik az ízlésem.
