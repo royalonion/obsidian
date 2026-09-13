@@ -1,3 +1,4 @@
+# kreatív rész - szállamadárágrulágraszállazénekszájrulszájra
 Esterházy Péter szövegei nagyon sajátosak - számomra az bennük a különleges, hogy hasonlóval még soha nem találkoztam. Legkönnyebben a Pompásan buszozunk-hoz, vagy az Elmész, visszajössz, sosem halsz meg-hez tudnám hasonlítani, de mégis, mintha egy szinttel fölöttük lenne. Az érdekesség az egészben abban rejlik, - legalábbis szerintem - hogy a szöveg nincs keretek közé szorítva.
 
 Egy klasszik népmese, vagy fantasy-regény dobozosan van felépítve (persze ezt a dobozt maga építi), és azt sosem hagyja el. Például a Jancsi és Juliska hiába játszódhatott a távíró korában, mégsem siet el a banya a postára a sürgős levelét átvenni, miközben a gyerekeket épp a sütő mélye felé terelné. Miért? Mert nem állná meg a helyét a történetben egy ilyen buktató. De Esterházyt ez nem zavarja, pedig nála sem állná meg, ha mesét írna. Ha mesét írna. Ő azonban nem mesét ír, nem is történetet, hanem gondolatmenetet, eszmefuttatást, érveket. És az egyikhez a másikat kötve ezt addig tekeri, csavarja, amíg a hallgató/olvasó, vagy épp önmaga, az író teljesnek nem érzi magát.
@@ -13,6 +14,9 @@ A Mindenütt ott van, csak itt nincs c. videó interjú-részeiben Esterházy eg
 Ha saját véleményt kell formálnom Esterházy munkásságáról, nehéz helyzetben lennék. Azután, hogy már láttam felolvasva - ráadásul általa - A szavak csodálatos életéből c. előadását, könnyebb volt olvasni. De anélkül kifejezetten nehéz, és rossz számomra, pedig így nem szoktam érezni. Talán cselekményre vágyom, amely folyamatos. Talán nem. De mindenesetre nem könnyű a könyveit fogyasztani. Ennek ellenére próbálkozom, hátha változik az ízlésem.
 
 Vissza tehát a tartalmára.
+
+# kötelezettségek előtt lerótt tisztelet
+## avagy utólag olvastam csak el a feladatot teljesen0
 Értettem: nagyjából mindent, nehezen találnék olyan szófordulatot, ami nem lenne világos.
 Nem értettem: semmit szerintem, hiszen ha mindent értettem, akkor ilyen nem lehet.
 Érdekes volt: eddig szinte csak erről írtam, de ha ki kellene valamit emelni, akkor a kivetített-bevágott képek, amik nyilván szándékosan lettek ott beúsztatva, ahol be voltak úsztatva.
