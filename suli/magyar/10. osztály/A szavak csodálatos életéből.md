@@ -16,4 +16,5 @@ Vissza tehát a tartalmára.
 Értettem: nagyjából mindent, nehezen találnék olyan szófordulatot, ami nem lenne világos.
 Nem értettem: semmit szerintem, hiszen ha mindent értettem, akkor ilyen nem lehet.
 Érdekes volt: eddig szinte csak erről írtam, de ha ki kellene valamit emelni, akkor a kivetített-bevágott képek, amik nyilván szándékosan lettek ott beúsztatva, ahol be voltak úsztatva.
-Jelenséghez kapcsolás: Folyamatosan felismerhetőek benne más művek (intertextualitás), például: 
+Jelenséghez kapcsolás: Folyamatosan felismerhetőek benne más művek (intertextualitás), például: "tojáséj" - itt egy egész verset másolt be a beszédébe.
+Ami pedig a legjobban megfogott: "[...]hanem mert ez esetben író és olvasó nem volt egymáshoz való. Nem volt esélyük egymással."
