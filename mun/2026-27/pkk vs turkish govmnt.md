@@ -5,4 +5,5 @@ The PKK was founded in 1978, by Abdullah Öcalan, a young student, who initially
 However, a turning point came when Öcalan was captured in Kenya, in 1999. Slowly, but steadily, peace started to build, eventually growing into a treaty lasting from 2013 to 2015. However, it ultimately collapsed, and led to more conflicts, most notably the one that evolved from the PKK helping Syrian troops fight the ISIS.
 
 # Final ceasefire, and today's situation
-The most significant change occurred recently. In 2024, the Turkish government launched an initiative focused on putting an end to the conflict. But, arguably, the most important factor was Öcalan's call 
+The most significant change occurred recently. In 2024, the Turkish government launched an initiative focused on putting an end to the conflict. But, arguably, the most important factor was Öcalan's call for peace from imprisonment. He sent a message on 27 February, 2025, to the PKK, urging ceasefire and laying down it's arms. And on 1 March, 2025, the PKK declared a ceasefire with Turkey and on 12 May announced it would dissolute; the soldiers fighting on the PKK's side were ultimately pardoned.
+Despite these great achievements, Turkey is yet to 
