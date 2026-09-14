@@ -16,7 +16,7 @@ Ha saját véleményt kell formálnom Esterházy munkásságáról, nehéz helyz
 Vissza tehát a tartalmára.
 
 # kötelezettségek előtt lerótt tisztelet
-## avagy utólag olvastam csak el a feladatot teljesen0
+## avagy utólag olvastam csak el a feladatot teljesen
 Értettem: nagyjából mindent, nehezen találnék olyan szófordulatot, ami nem lenne világos.
 Nem értettem: semmit szerintem, hiszen ha mindent értettem, akkor ilyen nem lehet.
 Érdekes volt: eddig szinte csak erről írtam, de ha ki kellene valamit emelni, akkor a kivetített-bevágott képek, amik nyilván szándékosan lettek ott beúsztatva, ahol be voltak úsztatva.
