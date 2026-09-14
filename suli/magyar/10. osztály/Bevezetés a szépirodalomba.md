@@ -1,4 +1,5 @@
 - sok ismétlés, akár soronként is
 - sokszor értelmetlen(nek tűnő) szövegek
 - útmutatás - javítási kísérletek - szövegen belüli intertextualitás
+- morbid világ, vagy nem is tudom - halottak sok helyen, szinte zavaró
 - 
