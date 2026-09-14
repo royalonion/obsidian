@@ -13,3 +13,5 @@
 - Groff Zrinyi Mik
 	- Szigeti veszedelem - Adriai tengernek Syreniaia (vessző zrinyi)
 		- Szulimán
+		- Athleta Christi
+			- Krisztus atlétája, nem az
