@@ -13,7 +13,7 @@ A Mindenütt ott van, csak itt nincs c. videó interjú-részeiben Esterházy eg
 
 Ha saját véleményt kell formálnom Esterházy munkásságáról, nehéz helyzetben lennék. Azután, hogy már láttam felolvasva - ráadásul általa - A szavak csodálatos életéből c. előadását, könnyebb volt olvasni. De anélkül kifejezetten nehéz, és rossz számomra, pedig így nem szoktam érezni. Talán cselekményre vágyom, amely folyamatos. Talán nem. De mindenesetre nem könnyű a könyveit fogyasztani. Ennek ellenére próbálkozom, hátha változik az ízlésem.
 
-Vissza tehát a tartalmára.
+Vissza tehát a feladat tartalmára.
 
 # kötelezettségek előtt lerótt tisztelet
 ## avagy utólag olvastam csak el a feladatot teljesen
