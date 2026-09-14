@@ -1,1 +1,4 @@
-asd
+- sok ismétlés, akár soronként is
+- sokszor értelmetlen(nek tűnő) szövegek
+- útmutatás - javítási kísérletek - szövegen belüli intertextualitás
+- 
