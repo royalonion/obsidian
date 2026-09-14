@@ -6,4 +6,5 @@
 - fő tagolás
 	- A hasáb - szöveg
 	- B hasáb - kiegészítések, olvasható ennek hiányában is
-	- 
+- zavaros történetek, össze-vissza
+- ismétlődő képek és rajzok
