@@ -4,4 +4,12 @@
 		- a pokol kapujának felirata - Babitsi fordítás
 			- Nádasdy Ádám újrafordítja
 		- tercina
-		- 3 nagy rész - pokol, purgatóri
+		- 3 nagy rész - pokol, purgatórium, paradicsom
+			- pokol - Vergilius (a pogány szent; eclogák)
+				- Radnóti
+			- purgatórium - Vergilius
+			- paradicsom - Beatrice (volt szerelem, neki ajánlja)
+		- akkor fejezi be, amikor meghal - 1321
+- Groff Zrinyi Mik
+	- Szigeti veszedelem - Adriai tengernek Syreniaia (vessző zrinyi)
+		- Szulimán
