@@ -1,0 +1,7 @@
+- Horatius
+- Dante
+	- Isteni színjáték
+		- a pokol kapujának felirata - Babitsi fordítás
+			- Nádasdy Ádám újrafordítja
+		- tercina
+		- 3 nagy rész - pokol, purgatóri
