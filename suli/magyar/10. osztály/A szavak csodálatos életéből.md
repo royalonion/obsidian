@@ -30,6 +30,7 @@ Irgalom, édesanyám, mama, nézd, jaj,
 kész ez a Zesszé is.
 
 *ne felejtsd el időben beadni te szerencsétlen, ha már úgyis megírtad*
+
 *csak elfelejtetted majom*
 
 **frissítés és leállítás: kb. 3 perc**
