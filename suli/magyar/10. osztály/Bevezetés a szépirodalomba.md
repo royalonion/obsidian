@@ -2,4 +2,8 @@
 - sokszor értelmetlen(nek tűnő) szövegek
 - útmutatás - javítási kísérletek - szövegen belüli intertextualitás
 - morbid világ, vagy nem is tudom - halottak sok helyen, szinte zavaró
-- 
+- jelölt és jelöletlen idézetek, pl Szabolcsi Bencétől
+- fő tagolás
+	- A hasáb - szöveg
+	- B hasáb - kiegészítések, olvasható ennek hiányában is
+	- 
