@@ -20,4 +20,9 @@
 	- hübrisz - gőg, Odüsszeusz ebbe esik
 - Halotti beszéd és könyörgés
 	- Márai Sándor - Halotti beszéd
-		- nemzeth
+		- nemzethalál, kultúrahalál, stb
+		- A Nagy Kultikus Emigránsvers
+			- 48-ban emigrál, mert akkor kezd kiépülni a Rákosi-rendszer, addig nem jön vissza, amíg itt vannak a ruszkik
+			- 89-ben öngyilkos lesz, mert nem várja meg a magatehetetlenséget
+		- idéz az eredetiből
+	- Halotti beszéd
