@@ -62,4 +62,10 @@
 		- A Szvatopluk addigra már meghalt, másik Szvatopluk lehetett
 	- morvák ko
 - 907 Pozsonyi csata
+# képes chronicle
+- időrendi sorrendben bemutatja az eseményeket
+- fehérló -> víz és fű -> Árpádék -> nők s gyerekek
+# Munkácsy
+- szlávok behódolnak
+- dualizmus korában nem került a Parlamentbe
 - 
