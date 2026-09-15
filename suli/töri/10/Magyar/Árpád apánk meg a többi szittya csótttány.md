@@ -44,3 +44,8 @@
 		- másvilágból érkeztünk - legitimitás a királyoknak
 - Mágóg <- Jáfet <- Noé
 	- mivan???
+# törzsfők, fejedelmek
+- Kende meg Gyula
+	-  nem voltak ilyen személyek a források szerint
+- miért alakult ki ez a képzet, vagyis miért nem igazolható
+	- 
