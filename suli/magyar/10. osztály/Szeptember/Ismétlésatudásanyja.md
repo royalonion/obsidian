@@ -1,28 +1,33 @@
-- Horatius
-- Dante
-	- Isteni színjáték
-		- a pokol kapujának felirata - Babitsi fordítás
-			- Nádasdy Ádám újrafordítja
-		- tercina
-		- 3 nagy rész - pokol, purgatórium, paradicsom
-			- pokol - Vergilius (a pogány szent; eclogák)
-				- Radnóti
-			- purgatórium - Vergilius
-			- paradicsom - Beatrice (volt szerelem, neki ajánlja)
-		- akkor fejezi be, amikor meghal - 1321
-- Groff Zrinyi Mik
-	- Szigeti veszedelem - Adriai tengernek Syreniaia (vessző zrinyi)
-		- Szulimán
-		- Athleta Christi
-			- Krisztus atlétája, nem a tréningfelső
-- Odüsszeia
-	- eposzi hasonlat
-	- hübrisz - gőg, Odüsszeusz ebbe esik
-- Halotti beszéd és könyörgés
-	- Márai Sándor - Halotti beszéd
-		- nemzethalál, kultúrahalál, stb
-		- A Nagy Kultikus Emigránsvers
-			- 48-ban emigrál, mert akkor kezd kiépülni a Rákosi-rendszer, addig nem jön vissza, amíg itt vannak a ruszkik
-			- 89-ben öngyilkos lesz, mert nem várja meg a magatehetetlenséget
-		- idéz az eredetiből
-	- Halotti beszéd
+# Horatius
+# Dante
+- Isteni színjáték
+	- a pokol kapujának felirata - Babitsi fordítás
+		- Nádasdy Ádám újrafordítja
+	- tercina
+	- 3 nagy rész - pokol, purgatórium, paradicsom
+		- pokol - Vergilius (a pogány szent; eclogák)
+			- Radnóti
+		- purgatórium - Vergilius
+		- paradicsom - Beatrice (volt szerelem, neki ajánlja)
+	- akkor fejezi be, amikor meghal - 1321
+# Groff Zrinyi Mik
+- Szigeti veszedelem - Adriai tengernek Syreniaia (vessző zrinyi)
+	- Szulimán
+	- Athleta Christi
+		- Krisztus atlétája, nem a tréningfelső
+	- Cumilla
+	- Delimán
+# Odüsszeia
+- eposzi hasonlat
+- hübrisz - gőg, Odüsszeusz ebbe esik
+# Halotti beszéd és könyörgés
+- Márai Sándor - Halotti beszéd
+	- nemzethalál, kultúrahalál, stb
+	- A Nagy Kultikus Emigránsvers
+		- 48-ban emigrál, mert akkor kezd kiépülni a Rákosi-rendszer, addig nem jön vissza, amíg itt vannak a ruszkik
+		- 89-ben öngyilkos lesz, mert nem várja meg a magatehetetlenséget
+	- idéz az eredetiből
+- Kosztolányi Dezső - Halotti beszéd
+- sermones - műfaj - temetési beszéd
+# Szapphó - Édesanyám, nem perdül a rokka...
+- "a hölgy kancás"
