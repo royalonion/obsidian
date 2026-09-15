@@ -61,4 +61,5 @@
 	- a morvák "odaadják" az országot - Fehér ló mondája
 		- A Szvatopluk addigra már meghalt, másik Szvatopluk lehetett
 	- morvák ko
-- 90
+- 907 Pozsonyi csata
+- 
