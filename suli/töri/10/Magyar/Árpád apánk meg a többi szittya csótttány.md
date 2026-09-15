@@ -56,4 +56,9 @@
 - miért?
 	- bolgár-besenyő nyomás, támadás veszélye
 	- jól megfontolt döntés
-- 
+- 895 - legjelentősebb beköltözés
+- ~900 Felvidék és Pannonia (Dunántúl)
+	- a morvák "odaadják" az országot - Fehér ló mondája
+		- A Szvatopluk addigra már meghalt, másik Szvatopluk lehetett
+	- morvák ko
+- 90
