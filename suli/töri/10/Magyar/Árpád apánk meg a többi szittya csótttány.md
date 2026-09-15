@@ -50,4 +50,10 @@
 - miért alakult ki ez a képzet, vagyis miért nem igazolható
 	- Ruszta és Gardízí krónikájából részletek
 		- Ruszta volt előbb, Gardízí félreértelmezte a szöveget, ezért lett két külön személy egyből
-		- 
+# hová?
+- üres terület, hatalmi vákuum a Kárpát-medence ezen részén
+- Tiszántúl az először elfoglalt terület
+- miért?
+	- bolgár-besenyő nyomás, támadás veszélye
+	- jól megfontolt döntés
+- 
