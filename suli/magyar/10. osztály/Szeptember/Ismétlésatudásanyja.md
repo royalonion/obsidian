@@ -16,4 +16,8 @@
 		- Athleta Christi
 			- Krisztus atlétája, nem a tréningfelső
 - Odüsszeia
-	- Eposzi hasonlat
+	- eposzi hasonlat
+	- hübrisz - gőg, Odüsszeusz ebbe esik
+- Halotti beszéd és könyörgés
+	- Márai Sándor - Halotti beszéd
+		- nemzeth
