@@ -68,4 +68,9 @@
 # Munkácsy
 - szlávok behódolnak
 - dualizmus korában nem került a Parlamentbe
+- Trianon után mégis
+- ma a Szépművben
+# duál honfoglalás
+- 670-700 körül
+- Tarih-i Üngürüsz összelopott minden fost
 - 
