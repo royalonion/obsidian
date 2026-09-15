@@ -15,4 +15,3 @@
 		- Szulimán
 		- Athleta Christi
 			- Krisztus atlétája, nem a tréningfelső
-- 
