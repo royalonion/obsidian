@@ -49,4 +49,5 @@
 	-  nem voltak ilyen személyek a források szerint
 - miért alakult ki ez a képzet, vagyis miért nem igazolható
 	- Ruszta és Gardízí krónikájából részletek
-	- 
+		- Ruszta volt előbb, Gardízí félreértelmezte a szöveget, ezért lett két külön személy egyből
+		- 
