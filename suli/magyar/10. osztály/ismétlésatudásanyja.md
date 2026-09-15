@@ -14,4 +14,5 @@
 	- Szigeti veszedelem - Adriai tengernek Syreniaia (vessző zrinyi)
 		- Szulimán
 		- Athleta Christi
-			- Krisztus atlétája, nem az
+			- Krisztus atlétája, nem a tréningfelső
+- 
