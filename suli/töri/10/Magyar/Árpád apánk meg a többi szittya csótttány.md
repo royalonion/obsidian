@@ -73,4 +73,5 @@
 # duál honfoglalás
 - 670-700 körül
 - Tarih-i Üngürüsz összelopott minden fost
+# 10. századi magyar társadalom
 - 
