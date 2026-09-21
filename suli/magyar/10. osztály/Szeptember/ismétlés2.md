@@ -1,0 +1,11 @@
+# Vörösmarty Mihály
+- 1825: születése, jelképes kezdete a magyar romantikának
+	- ebben az évben Széchenyi felajánlja birtokai egyévi jövedelmét
+		- ekkor már volt Országgyűlés
+		- 1832-36-os Reformgyűlés
+- 2836: az Országgyűlés feloszlatása -> Szózat
+- Petőfi: Vörösmartyhoz
+- versek apokaliptikus stílusban
+	- Az emberek
+	- Előszó
+	- A vén cigány
