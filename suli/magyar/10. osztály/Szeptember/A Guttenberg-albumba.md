@@ -1,1 +1,5 @@
-a
+- nem ő találja fel a nyomtatást, ő csak könnyebbé teszi
+- könyv-motívum
+	- felvilágosodás
+	- Gondolatok a könyvtárban
+- 
