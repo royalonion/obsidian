@@ -9,3 +9,4 @@
 	- Az emberek
 	- Előszó
 	- A vén cigány
+	- A Guttenberg-albumba
