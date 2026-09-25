@@ -35,5 +35,11 @@
 ## Neutrális zsírok
 - glicerin + zsírsavak/olajsavak ---(-3H₂O)---> neutrális zsírok
 ![[csoportok.png|358]]
-
+![[kondenzáció.png|358]]
+- neutrális zsírok: pl omegák
+- állatoknál zsír, növényeknél olaj
+- funkció: tápanyagraktározás, hőszigetelés
+- DEKA - zsíroldékony vitaminok
+## Foszfatidok
+![[foszfatidok.png|358]]
 - 
