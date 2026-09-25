@@ -1,0 +1,2 @@
+- jelentése = folyamatos fejlődés, adaptáció; az adott környezethez való sikeres alkalmazkodás
+- 
