@@ -15,6 +15,7 @@
 		- vonzóbbá tevő tulajdonságok
 			- páva-, paradicsommadártoll
 			- a szimmetria fontos - genetikai egészségre utal
+---
 # az ember evolúciója
 - hogy alakult ki a két lábra állás?
 	- 2 millió év alatt valahogy, valahol

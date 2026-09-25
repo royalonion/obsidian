@@ -7,6 +7,7 @@
 - a sebesség függ:
 	- a sűrűségtől,
 	- és a molekulamérettől
+---
 ## Ozmózis
 ![[ozmózis.png|358]]
 - C közeg (Ck) = közeg
@@ -24,3 +25,15 @@
 - a hidrosztatikai nyomás által kifejtett erő által kialakított dinamikus egyensúlyi állandó létrejöttekor mért nyomás az ozmózisnyomás (P ozm)
 - Ha nagyobb a sűrűség, nagyobb az oszlop
 ### Az ozmózis biológiai jelentősége
+- példák
+	- növények: H₂O felfelé
+	- szöveti keringés (pl hajszálereknél)
+---
+# Lipidek
+- testet felépítő szerves vegyületek
+- apoláris oldószerekben oldódnak
+## Neutrális zsírok
+- glicerin + zsírsavak/olajsavak ---(-3H₂O)---> neutrális zsírok
+![[csoportok.png|358]]
+
+- 
