@@ -17,5 +17,5 @@
 ### Plazmolízis vizsgálata
 - lilahagyma bőrszöveti nyúzata
 ![[plazmolízis.png|358]]
-
+![[hagyma.png|358]]
 ### Ozmométer
