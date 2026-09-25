@@ -19,3 +19,8 @@
 ![[plazmolízis.png|358]]
 ![[hagyma.png|358]]
 ### Ozmométer
+![[ozmométer.png|358]]
+- dinamikus egyensúly beáll a koncentrációk kiegyenlítődése nélkül
+- a hidrosztatikai nyomás által kifejtett erő által kialakított dinamikus egyensúlyi állandó létrejöttekor mért nyomás az ozmózisnyomás (P ozm)
+- Ha nagyobb a sűrűség, nagyobb az oszlop
+### Az ozmózis biológiai jelentősége
