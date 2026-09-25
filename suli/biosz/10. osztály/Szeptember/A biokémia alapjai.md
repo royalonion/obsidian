@@ -43,4 +43,11 @@
 ---
 ## Foszfatidok
 ![[foszfatidok.png|358]]
-- 
+![[oldószer és molekula.png|358]]
+
+---
+## Szteroidok
+### Szteránvázas hormonok
+- a sejtek működésére hat
+- a belső elválasztású mirigyek termelik
+	- a vérbe ürül
