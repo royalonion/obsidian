@@ -40,6 +40,7 @@
 - állatoknál zsír, növényeknél olaj
 - funkció: tápanyagraktározás, hőszigetelés
 - DEKA - zsíroldékony vitaminok
+---
 ## Foszfatidok
 ![[foszfatidok.png|358]]
 - 
