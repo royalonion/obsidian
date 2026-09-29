@@ -8,5 +8,7 @@
 - Szent Péter esernyője
 - Tót atyafiak
 	- 4 hosszú
+- Új Zrinjiász
+	- Zrínyi Görgey-vel összefut
 ## A jó palócok (1882)
 - 15 rövid novella (ciklus, nem füzér)
