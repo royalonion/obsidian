@@ -1,0 +1,4 @@
+- 1847-1910, Szklabonyán született (ma már Mikszáthfalva)
+- A jó palócok (1882)
+	- 15 rövid novella (ciklus, nem füzér)
+	- 
