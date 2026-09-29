@@ -23,6 +23,10 @@
 - a fogyás/mövekedés váltakozik
 - urna alakú körfa
 - pl USA, Kanada, Ausztrália & fejlett országok; gyakori bevándorlási célpontok
+- bezárul a demográfiai olló
 # 5. szakasz
 - zárószakasz
-- megfordul a dem
+- megfordul a demográfiai olló, tartós fogyás
+- magas átlagéletkor és várható élettartam
+- koporsó alakú korfa
+- pl Japán, Németország, Magyarország & fejlett országok
