@@ -16,3 +16,8 @@
 - Csurgói iskola
 - Petőfi Sándor: Csokonai Vitéz Mihály
 - Orbán Ottó: Csokonai elissza sohasem volt tanári fizetését
+# Kölcsey
+- Kazinczyval sokáig együtt dolgozak
+- Mondolat és Felelet (ortológusok és neológusok)
+- Himnusz (1823. Január 22.)
+- 
