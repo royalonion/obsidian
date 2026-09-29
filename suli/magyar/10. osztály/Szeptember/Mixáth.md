@@ -16,4 +16,8 @@
 - Tímár Zsófi özvegysége
 - Bede Anna tartozása
 - A bágyi csoda
-- 
+- Péri lányok szép hajáról
+- A néhai bárány
+- A kis csizzmák
+- Az a pogány Filcsik
+- Szűcs Pali szerencséje
