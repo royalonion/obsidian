@@ -29,4 +29,4 @@
 - megfordul a demográfiai olló, tartós fogyás
 - magas átlagéletkor és várható élettartam
 - koporsó alakú korfa
-- pl Japán, Németország, Magyarország & fejlett országok![[grafikon.png]]
+- pl Japán, Németország, Magyarország & fejlett országok![[grafikon.png|393]]
