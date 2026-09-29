@@ -14,3 +14,5 @@
 - diéta
 - Debrecen
 - Csurgói iskola
+- Petőfi Sándor: Csokonai Vitéz Mihály
+- Orbán Ottó: Csokonai elissza sohasem volt tanári fizetését
