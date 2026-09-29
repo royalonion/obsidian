@@ -15,6 +15,14 @@
 - a demográfiai olló zárul (összeér a születések és halálozások aránya)
 - méhkas alakú korfa
 - növekvő átlagéletkor, várható élettartam
-- főleg ázsiai és lat
+- főleg ázsiai, latin-amerikai & legfejlettebb fejlődő országokra jellemző
+- a nők jelentős szerepe a munkaerőpiacon
 # 4. szakasz
+- vége a népességrobbanásnak
+- a népességszám stagnál
+- a fogyás/mövekedés váltakozik
+- urna alakú körfa
+- pl USA, Kanada, Ausztrália & fejlett országok; gyakori bevándorlási célpontok
 # 5. szakasz
+- zárószakasz
+- megfordul a dem
