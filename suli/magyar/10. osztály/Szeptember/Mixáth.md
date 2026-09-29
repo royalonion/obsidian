@@ -12,3 +12,8 @@
 	- Zrínyi Görgey-vel összefut
 ## A jó palócok (1882)
 - 15 rövid novella (ciklus, nem füzér)
+- Szegény Gélyi János lovai
+- Tímár Zsófi özvegysége
+- Bede Anna tartozása
+- A bágyi csoda
+- 
