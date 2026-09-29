@@ -10,4 +10,7 @@
 	- Előszó
 	- A vén cigány
 	- [[A Guttenberg-albumba]]
-	- 
+# Csokonai Vitéz Mihály
+- diéta
+- Debrecen
+- Csurgói iskola
