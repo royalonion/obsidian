@@ -23,4 +23,3 @@
 # Petőfi Sándor
 - poeta natus - zseni
 	- A természet vadvirága - Domi
-- 
