@@ -20,4 +20,7 @@
 - Kazinczyval sokáig együtt dolgozak
 - Mondolat és Felelet (ortológusok és neológusok)
 - Himnusz (1823. Január 22.)
+# Petőfi Sándor
+- poeta natus - zseni
+	- A természet vadvirága
 - 
