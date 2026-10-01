@@ -2,4 +2,3 @@
 - könyv-motívum
 	- felvilágosodás
 	- Gondolatok a könyvtárban
-- 
