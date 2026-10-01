@@ -16,6 +16,8 @@
 - Csurgói iskola
 - Petőfi Sándor: Csokonai Vitéz Mihály
 - Orbán Ottó: Csokonai elissza sohasem volt tanári fizetését
+- [[Az estve]]
+- Konstancinápoly
 # Kölcsey
 - Kazinczyval sokáig együtt dolgozak
 - Mondolat és Felelet (ortológusok és neológusok)
