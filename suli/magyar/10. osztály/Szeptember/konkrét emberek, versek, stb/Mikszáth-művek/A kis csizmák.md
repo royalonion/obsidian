@@ -1,0 +1,3 @@
+- sok párbeszéd
+- népies nyelvezet
+- kiszólás az olvasóhoz
