@@ -18,6 +18,6 @@
 - A bágyi csoda
 - Péri lányok szép hajáról
 - A néhai bárány
-- A kis csizzmák
+- A kis csizmák
 - Az a pogány Filcsik
 - Szűcs Pali szerencséje
