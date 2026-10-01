@@ -6,7 +6,7 @@
 - 2836: az Országgyűlés feloszlatása -> Szózat
 - Petőfi: Vörösmartyhoz
 - versek apokaliptikus stílusban
-	- Az emberek
+	- Az emberek (korábbi)
 	- Előszó
 	- A vén cigány
 	- [[A Guttenberg-albumba]]
