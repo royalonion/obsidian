@@ -16,4 +16,6 @@
 	- 
 	- 
 - c
-# 
+# 3
+Az ajánló Léda asszonyhoz szól, az egész kötetet neki ajánlja Ady. A vezérvers a Góg és Magóg fia vagyok én, a négy ciklus ebben a sorrendben a következő: Léda asszony zsoltárai, A magyar Ugaron, A daloló Páris és a Szűz ormok vándora.
+# 4
