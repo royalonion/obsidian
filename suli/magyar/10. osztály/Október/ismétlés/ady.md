@@ -10,5 +10,10 @@
 	- lekicsinylően tekint rá
 	- mert a társai - azaz a nép - visszahúzza
 	- "Alkonyatok és délibábok // Megfogták százszor is a lelkét" - megszemélyesítés
-- vers
+- Az én menyasszonyom
+	- egy, a társadalom szélére sodródott nőt
 	- 
+	- 
+	- 
+- c
+# 
