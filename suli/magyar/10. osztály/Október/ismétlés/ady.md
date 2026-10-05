@@ -7,4 +7,8 @@
 # 2
 - A Hortobágy poétája
 	- igazolom
+	- lekicsinylően tekint rá
+	- mert a társai - azaz a nép - visszahúzza
+	- "Alkonyatok és délibábok // Megfogták százszor is a lelkét" - megszemélyesítés
+- vers
 	- 
