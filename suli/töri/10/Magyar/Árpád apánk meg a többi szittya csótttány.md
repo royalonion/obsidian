@@ -91,4 +91,6 @@
 - klerikusok
 	- szerzetesek
 	- papok (látható/világi egyház)
+- István és Gizella - egyházalapítók
+- tíz falu -> egy templom
 - 
