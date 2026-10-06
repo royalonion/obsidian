@@ -76,4 +76,13 @@
 # A keresztény magyar királyság
 - Koppány felnégyelése - nem is biztos, hogy volt, csak politikai fogás
 # egyházszervezés
-- 
+- templomhálózat
+- 10 püspökség + 1 érsekség
+- egyházmegyék
+- előírások
+	- vasárnapi kötelező templom
+	- böjt
+	- gyónás (halál előtt legalább)
+	- tized
+- egyház - jogi immunitás
+	- kánonjog: az egyházi jog
