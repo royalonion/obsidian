@@ -97,5 +97,5 @@
 # államszervezés
 - patrimoniális államforma
 - adminisztráció - klerikusok
-- közigazgatás - ispánok (megyék vannak alájuk rendelve)
-- 
+- közigazgatás - ispánok (megyék vannak alájuk rendelve) - comitatus palatinus
+- mozgó bíróságok
