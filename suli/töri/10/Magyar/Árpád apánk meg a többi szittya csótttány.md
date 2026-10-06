@@ -93,4 +93,4 @@
 	- papok (látható/világi egyház)
 - István és Gizella - egyházalapítók
 - tíz falu -> egy templom
-- 
+- templom körül kell temetkezni
