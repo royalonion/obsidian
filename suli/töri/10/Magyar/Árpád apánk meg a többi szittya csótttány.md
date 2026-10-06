@@ -86,3 +86,9 @@
 	- tized
 - egyház - jogi immunitás
 	- kánonjog: az egyházi jog
+- "manus mortuna"
+	- a király nem vehet vissza birtokot az egyháztól
+- klerikusok
+	- szerzetesek
+	- papok (látható/világi egyház)
+- 
