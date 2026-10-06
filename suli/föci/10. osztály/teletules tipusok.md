@@ -19,4 +19,14 @@ sajatos magyar telepules fajta (HEAR ME OUT ilyet nem talalsz mashogy)
 es nem vegig laktak itt nem bizony csak idoszakosan mint ahogy a kurvakat hasznaltak
 es nem n* ggazunk/tajasizunk itt hanem kulkeruleti lakosoknak hivjuk oket mint a feketeket
 azt is megtudjuk hogy hanyan vannak figyu megsem lemaradtam
-most egy harc le
+most egy harc lesz a kovetkezo 
+Tanya VS Farm
+Tanya van multja, kicsi, csaladia, kevesebb az allat, nem annyira gepesitett, valtakozo infrastruktura
+Farm nincsen multja, nagyobb kiterjedesu, vannak alkalmazottak, gepesitett sok allat
+es a vegeredmen (dobperges) a nyertes a TANYA mert mint ahogy a szolas kozmondas mondja kicsi a bors de eros
+
+tipusok
+szort tanya (ossze vissza)
+sortanya (szarvas hataraban) 2. VH utan alakult ti
+	egymas mellet
+bokortanya (rokabokor) egy kozpontba sugarasan es egyra aprozodik
