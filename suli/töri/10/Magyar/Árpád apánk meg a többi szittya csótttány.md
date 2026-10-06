@@ -96,4 +96,6 @@
 - templom körül kell temetkezni
 # államszervezés
 - patrimoniális államforma
+- adminisztráció - klerikusok
+- közigazgatás - ispánok (megyék vannak alájuk rendelve)
 - 
