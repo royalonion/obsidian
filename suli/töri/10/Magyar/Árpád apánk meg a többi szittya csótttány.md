@@ -75,4 +75,5 @@
 - Tarih-i Üngürüsz összelopott minden fost
 # A keresztény magyar királyság
 - Koppány felnégyelése - nem is biztos, hogy volt, csak politikai fogás
+# egyházszervezés
 - 
