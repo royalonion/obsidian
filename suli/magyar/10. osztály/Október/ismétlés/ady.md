@@ -21,3 +21,7 @@ Az ajánló Léda asszonyhoz szól, az egész kötetet neki ajánlja Ady. A vez�
 # 4
 A II. világháború borzalmai mindenkit leamortizált, így Ady magas irodalma már nem állta meg a helyét.
 # 5
+- kötőjeles dolgok
+- ismétlések
+- nyugat és Mo kapcsolata
+# 6
