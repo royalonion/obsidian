@@ -29,4 +29,9 @@ tipusok
 szort tanya (ossze vissza)
 sortanya (szarvas hataraban) 2. VH utan alakult ti
 	egymas mellet
-bokortanya (rokabokor) egy kozpontba sugarasan es egyra aprozodik
+bokortanya (rokabokor) egy kozpontba sugarasan es egyra aprozodik 8-10 haz 
+	tirpatok MEGIS PARASZTOZUNK hihihi
+szallas
+videki turizmus
+a csoro emberek oda koltoznek ki mert OLCSOOOO
+Farm-mozaik ez nem tommit jelent
