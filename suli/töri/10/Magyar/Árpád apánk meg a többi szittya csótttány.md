@@ -94,3 +94,6 @@
 - István és Gizella - egyházalapítók
 - tíz falu -> egy templom
 - templom körül kell temetkezni
+# államszervezés
+- patrimoniális államforma
+- 
