@@ -12,4 +12,7 @@
 	- korai Kosztolányi (1908-09-10)
 - Boldog, szomorú dal
 	- Kincs, ami nincs
-# A
+# Andor - freestyle
+- Tiszta szívvel
+	- József Attila
+- 
