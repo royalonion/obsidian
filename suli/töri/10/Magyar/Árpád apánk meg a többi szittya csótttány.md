@@ -112,4 +112,7 @@
 	- a vitéz félszabad, mert van személyi, de nincs tulajdonjoga
 		- ha kap, szabad lesz
 		- nemesítés - kap földet - csak a király adhatja - **1222. Aranybula**
-- 
+- nincsenek adók, eltartás van, akik a földterületeken élnek, jobbágyok lesznek (majd)
+	- Solymár - solymászok
+	- Tárnok - élelmiszereltartás
+	- Lovász*
