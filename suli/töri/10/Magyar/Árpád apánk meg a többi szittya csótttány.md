@@ -108,4 +108,8 @@
 - jogi szabadság összefügg a gazdasági szabadsággal
 	- az szabad, akinek van tulajdona (birtoka) -> nemesség
 	- magas, elit réteg
+- várnép VS vitéz
+	- a vitéz félszabad, mert van személyi, de nincs tulajdonjoga
+		- ha kap, szabad lesz
+		- nemesítés - kap földet - csak a király adhatja - **1222. Aranybula**
 - 
