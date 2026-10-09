@@ -99,3 +99,7 @@
 - adminisztráció - klerikusok
 - közigazgatás - ispánok (megyék vannak alájuk rendelve) - comitatus palatinus
 - mozgó bíróságok
+# államfelosztás
+- törzsi, családi tagolás helyébe jön a megye-rendszer
+- 1873 (PestBudaÓbuda) - 63 vmegye
+- 
