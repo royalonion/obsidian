@@ -115,4 +115,4 @@
 - nincsenek adók, eltartás van, akik a földterületeken élnek, jobbágyok lesznek (majd)
 	- Solymár - solymászok
 	- Tárnok - élelmiszereltartás
-	- Lovász*
+	- Lovász* - lovászat
