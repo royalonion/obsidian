@@ -102,4 +102,7 @@
 # államfelosztás
 - törzsi, családi tagolás helyébe jön a megye-rendszer
 - 1873 (PestBudaÓbuda) - 63 vmegye
+	- előtte 52, 2 képviselő per megye
+- mesgye-megye-vármegye-comtitatus
+	- comes
 - 
