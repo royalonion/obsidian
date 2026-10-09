@@ -105,4 +105,7 @@
 	- előtte 52, 2 képviselő per megye
 - mesgye-megye-vármegye-comtitatus
 	- comes
+- jogi szabadság összefügg a gazdasági szabadsággal
+	- az szabad, akinek van tulajdona (birtoka) -> nemesség
+	- magas, elit réteg
 - 
