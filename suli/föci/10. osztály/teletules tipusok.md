@@ -53,4 +53,5 @@ DEF olyan telepulest hivunk varosnak... jogallasal rendelkezi.  a tobbire nem em
 ![[Pasted image 20261013141113.png]]     lehet giffeket berakni😈💩🤖🙈🐵🙊🐗🐗
 
 ![[Pasted image 20261013141340.png]] igy erzem magam HEHEHEHEHEHEHEHEHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIIHIHIIIHIHIHIHIHIHIH😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️
-amugy az van hogy eppen a varosok letrejotterol beszelnek de let me be honest 
+amugy az van hogy eppen a varosok letrejotterol beszelnek de let me be honest I DONT GIVE A 💩 fuuuuuu most remai bekemenyitett![[Pasted image 20261013141722.png]] EGY KETTO HAROM NEGY OOOOOOTTTTTT (es a teremben siri csend uralkodik mert senki sem mer szembeszallni azzal a szornyeteggel aki a kedves remai testeben elbujt)
+es hogy azert professional (nem tudok jo magyar fogalmat erre) -ak (de azert magyarul ragozok) legyunk az orat azzal zartuk hogy a varosvonalakat vettuk at a honk hazankban
