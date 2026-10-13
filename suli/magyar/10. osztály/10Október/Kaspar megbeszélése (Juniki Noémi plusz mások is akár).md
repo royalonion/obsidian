@@ -1,0 +1,5 @@
+- Milyen érzés (volt) úgy előadni, hogy ilyen közel van a közönség?
+- Mi volt a darabból a kedvenc részed/részetek?
+- A festmény/természet-ábra szándékosan esett le a falról?
+- A díszlet változik előadásonként, vagy amit a nézők nem visznek el, azt újrahasználják?
+- 
