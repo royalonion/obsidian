@@ -41,3 +41,8 @@ meg mindig a misztikus magyar foldeken jarunk ahol a nagyon erdekes es kulonlege
 es mivel Panni felhivta a diktaturanak iranyitojat egy olyan buntetest kellett elszenvednem hogy az elso soros luxus sorban kell egyedul figyelnem az informacio atadast
 es az elso nagyon fontos kedesunk Mitol lesz egy varos varos?
 erre a kerdesre meg nem kaptuk meg a valaszt vagy ha megkaptuk nem hallottam mivel suket vagyok es nem tudok egyszerre kozvetiteni es figyelni a fontos informaciora
+es Forro levenete nagy somorusagara kiderult hogy a kozseg es a falu kozott nincsen kulonbseg mivel o csomoron lakik ezert ot mostantol mondhatjuk FALUSINAK 
+es magyarorszagon nem csak budapest nagyvaros mint ahogy kiderult hanem meg van nehany aminek a listajat nem fogom most megosztani
+AAAAA most kapunk valaszt az elozo kerdesre valaszt. 
+a falu akkor falu ha falu (mezogazdasag, banyaszfalvak, udules, alvotelepules (sztm ott el hamupipoke (mar ha o esett alomba)))
+es a varos akkor lesz varos ha varos (korhaz (opcionalisan mukodik mindenhol magyarorszagon (ha szerencsed van akkor kapsz ellatast ha nem akkor cseszted)))
