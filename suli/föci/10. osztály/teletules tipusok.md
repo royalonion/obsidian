@@ -37,4 +37,7 @@ a csoro emberek oda koltoznek ki mert OLCSOOOO
 Farm-mozaik ez nem tommit jelent
 
 es holgyeim es uraim folytatodik a musorunk .egy nagyon hires nevezetes Dorottya Gassama-Kele folytatja a nagyon izgalmas kozvetiteset.
-meg mindig a 
+meg mindig a misztikus magyar foldeken jarunk ahol a nagyon erdekes es kulonleges TANYA nevezetu erdekesseget figyelhetjuk meg
+es mivel Panni felhivta a diktaturanak iranyitojat egy olyan buntetest kellett elszenvednem hogy az elso soros luxus sorban kell egyedul figyelnem az informacio atadast
+es az elso nagyon fontos kedesunk Mitol lesz egy varos varos?
+erre a kerdesre meg nem kaptuk meg a valaszt vagy ha megkaptuk nem hallottam mivel suket vagyok es nem tudok egyszerre kozvetiteni es figyelni a fontos informaciora
