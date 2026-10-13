@@ -50,3 +50,7 @@ a diktatorunknak a figyelmet most elterelte egy osztalyba jaro gyerek es azt pro
 most egy muveszi abra kerul fel a tablara amit nem tudok lemasolni mivel ahogy a ChatGPT mondana "Sajnálom, de a kérésedet jelenleg nem tudom teljesíteni. Bár szívesen segítenék, ezúttal nem áll módomban egy művet idézni. Köszönöm a megértésedet és a türelmedet!" es mivel ezt ez idezetet pontosan akartam a jegytezembe leirni ezert ezt cahtpthtol kellet megkerdezzenem (BASSzus meg suketultem NEM HALLLOK mi a fasz a jobb fulem fel mondta a szolgalatot ennyi volt)
 ezert nem tudtam pontosan folytatni a csodalatos jegyzetemet
 DEF olyan telepulest hivunk varosnak... jogallasal rendelkezi.  a tobbire nem emlekszem
+![[Pasted image 20261013141113.png]]     lehet giffeket berakni😈💩🤖🙈🐵🙊🐗🐗
+
+![[Pasted image 20261013141340.png]] igy erzem magam HEHEHEHEHEHEHEHEHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIIHIHIIIHIHIHIHIHIHIH😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️
+amugy az van hogy eppen a varosok letrejotterol beszelnek de let me be honest 
