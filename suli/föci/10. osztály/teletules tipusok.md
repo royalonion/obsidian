@@ -35,3 +35,6 @@ szallas
 videki turizmus
 a csoro emberek oda koltoznek ki mert OLCSOOOO
 Farm-mozaik ez nem tommit jelent
+
+es holgyeim es uraim folytatodik a musorunk .egy nagyon hires nevezetes Dorottya Gassama-Kele folytatja a nagyon izgalmas kozvetiteset.
+meg mindig a 
