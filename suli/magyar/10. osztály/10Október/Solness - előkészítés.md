@@ -1,0 +1,3 @@
+- idősebb építész (Mácsai Pál), plusz család - lakás-iroda
+- torony, építkezés: sok átvitt jelentés stb
+- Dicsőséges nagyurak elhangzik
