@@ -45,4 +45,6 @@ es Forro levenete nagy somorusagara kiderult hogy a kozseg es a falu kozott ninc
 es magyarorszagon nem csak budapest nagyvaros mint ahogy kiderult hanem meg van nehany aminek a listajat nem fogom most megosztani
 AAAAA most kapunk valaszt az elozo kerdesre valaszt. 
 a falu akkor falu ha falu (mezogazdasag, banyaszfalvak, udules, alvotelepules (sztm ott el hamupipoke (mar ha o esett alomba)))
-es a varos akkor lesz varos ha varos (korhaz (opcionalisan mukodik mindenhol magyarorszagon (ha szerencsed van akkor kapsz ellatast ha nem akkor cseszted)))
+es a varos akkor lesz varos ha varos (korhaz (opcionalisan mukodik mindenhol magyarorszagon (ha szerencsed van akkor kapsz ellatast ha nem akkor cseszted)),oktatast, ipari, szolgaltatoi, kulturalis szolgaltatasok)
+a diktatorunknak a figyelmet most elterelte egy osztalyba jaro gyerek es azt probalta megoldani hogy hogyan lehessen neki a dolgozata 5 os mivel ebben a rendszeben amiben elunk nem lehet semmilyen hibat veteni mert az nem elfogadott.
+most egy muveszi abra kerul fel a tablara amit nem tudok lemasolni mivel ahogy a ChatGPT mondana "nem all ... idezni egy szamalyes muvet "
