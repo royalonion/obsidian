@@ -36,6 +36,8 @@ videki turizmus
 a csoro emberek oda koltoznek ki mert OLCSOOOO
 Farm-mozaik ez nem tommit jelent
 
+---
+
 es holgyeim es uraim folytatodik a musorunk .egy nagyon hires nevezetes Dorottya Gassama-Kele folytatja a nagyon izgalmas kozvetiteset.
 meg mindig a misztikus magyar foldeken jarunk ahol a nagyon erdekes es kulonleges TANYA nevezetu erdekesseget figyelhetjuk meg
 es mivel Panni felhivta a diktaturanak iranyitojat egy olyan buntetest kellett elszenvednem hogy az elso soros luxus sorban kell egyedul figyelnem az informacio atadast
