@@ -5,4 +5,4 @@
 - senioratus/primogenitura
 # Orseolo Péter
 - velencei doge (*dózse*) utódja
-	- 
+# mindenki más
