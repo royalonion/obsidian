@@ -1,0 +1,4 @@
+# pozitív metaforák
+- 
+# negatív metaforák
+- 
