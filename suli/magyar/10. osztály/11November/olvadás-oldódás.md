@@ -19,3 +19,5 @@
 ## negatív
 - folyékony fém
 - égő gyertya, fogy az oxigén
+# ötletek, még
+- más érzékszervek - szagok, illatok is élhetnek
