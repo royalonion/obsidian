@@ -12,4 +12,10 @@
 - kicsi pozitív dolgok eltűnnek az általános negativitásban
 - a halogatással eltűnő/felgyűlő/összemosódó feladatok
 # képek
-##
+## pozitív
+- tenger
+- hóember
+- málnaszörp/ételfesték
+## negatív
+- folyékony fém
+- égő gyertya, fogy az oxigén
