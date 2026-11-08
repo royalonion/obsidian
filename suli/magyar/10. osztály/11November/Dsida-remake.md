@@ -12,7 +12,7 @@ mint egykoron, mikor hazudtál
 
 éjjel-nappal, s káprázatos,
 
-hogy maradt, amit el nem loptál.
+hogy maradt, mit el nem loptál.
 
 ...mondd csak, volt őszinte szavad
 
@@ -36,7 +36,7 @@ az átlag átlátni a szitán?
 
 És majd a kételyek közt fut
 
-menekülve a hurrikán?
+el csak tőled a hurrikán?
 
 Nem, a forgószél mindent bont,
 
